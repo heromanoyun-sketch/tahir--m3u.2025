@@ -1,2 +1,3377 @@
 # tahir--m3u.2025
 benim liste
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/tbayrak.jpg" group-title="TR ✨ ULUSAL",⚜️ TAHİR AŞKIN KİLCİ⚜️
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=551808&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt4K.png" group-title="TR ✨ ULUSAL",TRT 4K UHD 2160P
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=2&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt4K.png" group-title="TR ✨ ULUSAL",↺TRT 4K FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=3&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TRT1HDPLUS.png" group-title="TR ✨ ULUSAL",↺TRT 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=4&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_2.png" group-title="TR ✨ ULUSAL",↺TRT 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=6&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TV8_eno.png" group-title="TR ✨ ULUSAL",↺TV 8 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=18&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/atv.png" group-title="TR ✨ ULUSAL",↺ATV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=8&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/STARTV_eno.png" group-title="TR ✨ ULUSAL",↺STAR TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=10&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showtv.png" group-title="TR ✨ ULUSAL",↺SHOW TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=12&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/KANALD_eno.png" group-title="TR ✨ ULUSAL",↺KANAL D FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=14&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/now-tv.png" group-title="TR ✨ ULUSAL",↺NOW TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=16&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/beyaz.png" group-title="TR ✨ ULUSAL",↺BEYAZ TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=22&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tv_8-5.png" group-title="TR ✨ ULUSAL",↺TV 8.5 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=20&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/kanal_7.png" group-title="TR ✨ ULUSAL",↺KANAL 7 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=24&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/teve2.png" group-title="TR ✨ ULUSAL",↺TEVE 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=27&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/360.png" group-title="TR ✨ ULUSAL",↺360 TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=31&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/7Hiu20dEYlc.png" group-title="TR ✨ ULUSAL",↺A2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=29&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/XURe6.png" group-title="TR ✨ ULUSAL",↺TV 4 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=33&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/P5l7Zfwkirc-.png" group-title="TR ✨ ULUSAL",↺KANAL 7 AVRUPA FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=26&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_avaz.png" group-title="TR ✨ ULUSAL",↺TRT AVAZ FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=37&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/SHOWMAX.png" group-title="TR ✨ ULUSAL",↺SHOW MAX FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=39&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/show_turk.png" group-title="TR ✨ ULUSAL",↺SHOW TURK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=40&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Bi.png" group-title="TR ✨ ULUSAL",Bİ KANAL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=849853&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TRT1HDPLUS.png" group-title="TR ✨ ULUSAL",TRT 1 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=5&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_2.png" group-title="TR ✨ ULUSAL",TRT 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=7&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TV8_eno.png" group-title="TR ✨ ULUSAL",TV 8 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=19&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/atv.png" group-title="TR ✨ ULUSAL",ATV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=9&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/STARTV_eno.png" group-title="TR ✨ ULUSAL",STAR TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=11&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showtv.png" group-title="TR ✨ ULUSAL",SHOW TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=13&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/KANALD_eno.png" group-title="TR ✨ ULUSAL",KANAL D HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=15&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/now-tv.png" group-title="TR ✨ ULUSAL",NOW TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=17&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/beyaz.png" group-title="TR ✨ ULUSAL",BEYAZ TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=23&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tv_8-5.png" group-title="TR ✨ ULUSAL",TV 8.5 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=21&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/kanal_7.png" group-title="TR ✨ ULUSAL",KANAL 7 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=25&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/teve2.png" group-title="TR ✨ ULUSAL",TEVE 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=28&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/360.png" group-title="TR ✨ ULUSAL",360 TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=32&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/7Hiu20dEYlc.png" group-title="TR ✨ ULUSAL",A2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=30&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/XURe6.png" group-title="TR ✨ ULUSAL",TV 4 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=34&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/atv_avrupa.png" group-title="TR ✨ ULUSAL",ATV AVRUPA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=41&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/eurostar.png" group-title="TR ✨ ULUSAL",EURO STAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=42&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/euro_d.png" group-title="TR ✨ ULUSAL",EURO D
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=43&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tv8int.png" group-title="TR ✨ ULUSAL",TV 8 INT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=44&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Tabii.png" group-title="TR ✨ ULUSAL",TABII TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=813532&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_turk.png" group-title="TR ✨ ULUSAL",TRT TURK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=45&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/tiviturk.png" group-title="TR ✨ ULUSAL",TIVI TURK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=47&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_avaz.png" group-title="TR ✨ ULUSAL",TRT AVAZ HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=38&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/eba-tv-orta.png" group-title="TR ✨ ULUSAL",TRT EBA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=56&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/kibris_tv.png" group-title="TR ✨ ULUSAL",KIBRIS TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=49&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/ada_tv.png" group-title="TR ✨ ULUSAL",KIBRIS ADA TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=50&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/kanalT_kibris.png" group-title="TR ✨ ULUSAL",KIBRIS KANAL T
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=51&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/KIBRISGENCTV.png" group-title="TR ✨ ULUSAL",KIBRIS GENC TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=52&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tv2020.png" group-title="TR ✨ ULUSAL",KIBRIS TV 2020
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=54&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TRT1HDPLUS.png" group-title="TR ✨ HEVC ⁕ RAW",TRT 1 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=103&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/atv.png" group-title="TR ✨ HEVC ⁕ RAW",ATV HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=104&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/STARTV_eno.png" group-title="TR ✨ HEVC ⁕ RAW",STAR TV HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=105&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showtv.png" group-title="TR ✨ HEVC ⁕ RAW",SHOW TV HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=106&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/KANALD_eno.png" group-title="TR ✨ HEVC ⁕ RAW",KANAL D HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=107&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TV8_eno.png" group-title="TR ✨ HEVC ⁕ RAW",TV 8 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=108&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/now-tv.png" group-title="TR ✨ HEVC ⁕ RAW",NOW TV HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=109&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/beyaz.png" group-title="TR ✨ HEVC ⁕ RAW",BEYAZ TV HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=110&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/kanal_7.png" group-title="TR ✨ HEVC ⁕ RAW",KANAL 7 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=111&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/teve2.png" group-title="TR ✨ HEVC ⁕ RAW",TEVE 2 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=112&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tv_8-5.png" group-title="TR ✨ HEVC ⁕ RAW",TV 8.5 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=113&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/7Hiu20dEYlc.png" group-title="TR ✨ HEVC ⁕ RAW",A2 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=114&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_haber.png" group-title="TR ✨ HEVC ⁕ RAW",TRT HABER HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=116&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/halk_tv.png" group-title="TR ✨ HEVC ⁕ RAW",HALK TV HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=117&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/ntv_haber.png" group-title="TR ✨ HEVC ⁕ RAW",NTV HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=118&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/Ahaber_Logo.png" group-title="TR ✨ HEVC ⁕ RAW",A HABER HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=119&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/cnn_turk.png" group-title="TR ✨ HEVC ⁕ RAW",CNN TURK HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=120&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/360.png" group-title="TR ✨ HEVC ⁕ RAW",360 TV HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=121&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/haberturk.png" group-title="TR ✨ HEVC ⁕ RAW",HABERTURK HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=122&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/bloombeerg_ht.png" group-title="TR ✨ HEVC ⁕ RAW",BLOOMBERG HT HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=123&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_turk.png" group-title="TR ✨ HEVC ⁕ RAW",TRT TURK HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=115&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tv_100.png" group-title="TR ✨ HEVC ⁕ RAW",TV 100 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=124&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TRT1HDPLUS.png" group-title="TR ✨ HEVC ⁕ RAW",TRT 1 RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=132&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/atv.png" group-title="TR ✨ HEVC ⁕ RAW",ATV RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=133&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/STARTV_eno.png" group-title="TR ✨ HEVC ⁕ RAW",STAR TV  RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=134&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showtv.png" group-title="TR ✨ HEVC ⁕ RAW",SHOW TV RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=135&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/KANALD_eno.png" group-title="TR ✨ HEVC ⁕ RAW",KANAL D RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=136&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TV8_eno.png" group-title="TR ✨ HEVC ⁕ RAW",TV 8 RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=138&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/now-tv.png" group-title="TR ✨ HEVC ⁕ RAW",NOW TV RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=137&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/beyaz.png" group-title="TR ✨ HEVC ⁕ RAW",BEYAZ TV RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=139&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/kanal_7.png" group-title="TR ✨ HEVC ⁕ RAW",KANAL 7 RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=141&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/teve2.png" group-title="TR ✨ HEVC ⁕ RAW",TEVE 2 RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=142&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tv_8-5.png" group-title="TR ✨ HEVC ⁕ RAW",TV 8.5 RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=140&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/7Hiu20dEYlc.png" group-title="TR ✨ HEVC ⁕ RAW",A2 RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=143&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_haber.png" group-title="TR ✨ HEVC ⁕ RAW",TRT HABER RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=147&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/halk_tv.png" group-title="TR ✨ HEVC ⁕ RAW",HALK TV RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=148&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/ntv_haber.png" group-title="TR ✨ HEVC ⁕ RAW",NTV RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=155&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/Ahaber_Logo.png" group-title="TR ✨ HEVC ⁕ RAW",A HABER RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=144&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/cnn_turk.png" group-title="TR ✨ HEVC ⁕ RAW",CNN TURK RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=153&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/360.png" group-title="TR ✨ HEVC ⁕ RAW",360 TV RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=145&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/haberturk.png" group-title="TR ✨ HEVC ⁕ RAW",HABERTURK RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=152&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/haber_global.png" group-title="TR ✨ HEVC ⁕ RAW",HABER GLOBAL RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=151&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/bloombeerg_ht.png" group-title="TR ✨ HEVC ⁕ RAW",BLOOMBERG HT RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=154&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_turk.png" group-title="TR ✨ HEVC ⁕ RAW",TRT TURK RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=146&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tv_100.png" group-title="TR ✨ HEVC ⁕ RAW",TV 100 RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=149&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/FLASH_HABER.png" group-title="TR ✨ HEVC ⁕ RAW",FLASH HABER TV RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=150&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/ulusal_tv.png" group-title="TR ✨ HEVC ⁕ RAW",ULUSAL KANAL RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=156&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/ulke_tv.png" group-title="TR ✨ HEVC ⁕ RAW",ULKE TV RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=157&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/24_tv.png" group-title="TR ✨ HEVC ⁕ RAW",24 TV RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=158&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt4K.png" group-title="TR ✨ QHD 2K",TRT 4K UHD 2160P
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=90&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TRT1HDPLUS.png" group-title="TR ✨ QHD 2K",TRT 1 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=59&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/atv.png" group-title="TR ✨ QHD 2K",ATV 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=60&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/STARTV_eno.png" group-title="TR ✨ QHD 2K",STAR TV 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=61&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showtv.png" group-title="TR ✨ QHD 2K",SHOW TV 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=62&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/KANALD_eno.png" group-title="TR ✨ QHD 2K",KANAL D 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=63&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/now-tv.png" group-title="TR ✨ QHD 2K",NOW TV 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=64&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TV8_eno.png" group-title="TR ✨ QHD 2K",TV 8 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=65&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tv_8-5.png" group-title="TR ✨ QHD 2K",TV 8.5 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=66&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/beyaz.png" group-title="TR ✨ QHD 2K",BEYAZ TV 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=67&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/kanal_7.png" group-title="TR ✨ QHD 2K",KANAL 7 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=68&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/360.png" group-title="TR ✨ QHD 2K",TV 360 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=70&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TRT1HDPLUS.png" group-title="TR ✨ QHD 2K",TRT 1 2K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845818&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/atv.png" group-title="TR ✨ QHD 2K",ATV 2K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845819&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showtv.png" group-title="TR ✨ QHD 2K",SHOW TV 2K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845821&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/KANALD_eno.png" group-title="TR ✨ QHD 2K",KANAL D 2K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845822&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/now-tv.png" group-title="TR ✨ QHD 2K",NOW TV 2K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845823&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TV8_eno.png" group-title="TR ✨ QHD 2K",TV 8 2K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845824&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tv_8-5.png" group-title="TR ✨ QHD 2K",TV 8.5 2K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845825&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/beyaz.png" group-title="TR ✨ QHD 2K",BEYAZ TV 2K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845826&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/kanal_7.png" group-title="TR ✨ QHD 2K",KANAL 7 2K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845827&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/360.png" group-title="TR ✨ QHD 2K",TV 360 2K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845828&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/STARTV_eno.png" group-title="TR ✨ QHD 2K",STAR TV 2K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845820&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trthaber.png" group-title="TR ✨ HABER",TRT HABER FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831399&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ahaber.png" group-title="TR ✨ HABER",A HABER FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831397&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/cnnturk.png" group-title="TR ✨ HABER",CNN TURK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831395&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/halktv.png" group-title="TR ✨ HABER",HALK TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831393&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/haberturk.png" group-title="TR ✨ HABER",HABERTURK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831391&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/haberglobal.png" group-title="TR ✨ HABER",HABER GLOBAL FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831389&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ntv.png" group-title="TR ✨ HABER",NTV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831385&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tv100.png" group-title="TR ✨ HABER",TV 100 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831383&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ekoltv.png" group-title="TR ✨ HABER",EKOL TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831381&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/akittv.png" group-title="TR ✨ HABER",AKIT TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831379&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/24tv.png" group-title="TR ✨ HABER",24 TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831377&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tele1.png" group-title="TR ✨ HABER",TELE 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831375&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/TURKHABER.png" group-title="TR ✨ HABER",TURKHABER FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=835105&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/krttv.png" group-title="TR ✨ HABER",KRT TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831373&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sozcutv.png" group-title="TR ✨ HABER",SOZCU TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831371&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ulketv.png" group-title="TR ✨ HABER",ULKE TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831369&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/flashhaber.png" group-title="TR ✨ HABER",FLASH HABER FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831367&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bloomberght.png" group-title="TR ✨ HABER",BLOOMBERG HT FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831365&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/liderhaber.png" group-title="TR ✨ HABER",LIDER HABER FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831363&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/bengu-turk.png" group-title="TR ✨ HABER",BENGU TURK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831361&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ekoturk.png" group-title="TR ✨ HABER",EKOTURK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831359&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tvnet.png" group-title="TR ✨ HABER",TVNET FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831355&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/CNBC-e.png" group-title="TR ✨ HABER",CNBC-E FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831387&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ulusalkanal.png" group-title="TR ✨ HABER",ULUSAL KANAL FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831357&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tgrthaber.png" group-title="TR ✨ HABER",TGRT HABER FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831353&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/apara.png" group-title="TR ✨ HABER",A PARA FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831351&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/tivi-6.png" group-title="TR ✨ HABER",TIVI 6
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831349&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/ILKE.TV.png" group-title="TR ✨ HABER",ILKE TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831348&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/TYT.Turk.png" group-title="TR ✨ HABER",TYT TURK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831347&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/MK.png" group-title="TR ✨ HABER",MK HABER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=839417&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/kanalb.png" group-title="TR ✨ HABER",KANAL B
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831346&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/kibrisbrt1.png" group-title="TR ✨ HABER",BRT 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831345&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/kibrisbrt2.png" group-title="TR ✨ HABER",BRT 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831344&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/CANTV.png" group-title="TR ✨ HABER",CAN TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831343&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/egemaxtv.png" group-title="TR ✨ HABER",EGEMAX TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831342&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tgrteu.png" group-title="TR ✨ HABER",TGRT EU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831341&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trtworld.png" group-title="TR ✨ HABER",TRT WORLD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831340&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Haber61.png" group-title="TR ✨ HABER",TRABZON HABER 61
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=835192&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/anews.png" group-title="TR ✨ HABER",A NEWS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831400&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trthaber.png" group-title="TR ✨ HABER",TRT HABER HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831398&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ahaber.png" group-title="TR ✨ HABER",A HABER HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831396&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/cnnturk.png" group-title="TR ✨ HABER",CNN TURK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831394&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/halktv.png" group-title="TR ✨ HABER",HALK TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831392&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/haberturk.png" group-title="TR ✨ HABER",HABERTURK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831390&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/haberglobal.png" group-title="TR ✨ HABER",HABER GLOBAL HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831388&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ntv.png" group-title="TR ✨ HABER",NTV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831384&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tv100.png" group-title="TR ✨ HABER",TV 100 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831382&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ekoltv.png" group-title="TR ✨ HABER",EKOL TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831380&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/akittv.png" group-title="TR ✨ HABER",AKIT TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831378&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/24tv.png" group-title="TR ✨ HABER",24 TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831376&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tele1.png" group-title="TR ✨ HABER",TELE 1 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831374&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/TURKHABER.png" group-title="TR ✨ HABER",TURKHABER HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=835104&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/krttv.png" group-title="TR ✨ HABER",KRT TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831372&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sozcutv.png" group-title="TR ✨ HABER",SOZCU TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831370&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ulketv.png" group-title="TR ✨ HABER",ULKE TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831368&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/flashhaber.png" group-title="TR ✨ HABER",FLASH HABER HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831366&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bloomberght.png" group-title="TR ✨ HABER",BLOOMBERG HT HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831364&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/liderhaber.png" group-title="TR ✨ HABER",LIDER HABER HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831362&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/bengu-turk.png" group-title="TR ✨ HABER",BENGU TURK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831360&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ekoturk.png" group-title="TR ✨ HABER",EKOTURK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831358&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tvnet.png" group-title="TR ✨ HABER",TVNET HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831354&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/CNBC-e.png" group-title="TR ✨ HABER",CNBC-E HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831386&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ulusalkanal.png" group-title="TR ✨ HABER",ULUSAL KANAL HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831356&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tgrthaber.png" group-title="TR ✨ HABER",TGRT HABER HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831352&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/apara.png" group-title="TR ✨ HABER",A PARA HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=831350&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trtbelgesel.png" group-title="TR ✨ BELGESEL",TRT BELGESEL FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834949&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/trtbelgesel.png" group-title="TR ✨ BELGESEL",TRT BELGESEL HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834948&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/natgeowild.png" group-title="TR ✨ BELGESEL",NAT GEO WILD FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834947&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/natgeowild.png" group-title="TR ✨ BELGESEL",NAT GEO WILD HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834946&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/natgeo.png" group-title="TR ✨ BELGESEL",NATIONAL GEOGRAPHIC FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834945&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/natgeo.png" group-title="TR ✨ BELGESEL",NATIONAL GEOGRAPHIC HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834944&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/discovery.png" group-title="TR ✨ BELGESEL",DISCOVERY FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834943&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/discovery.png" group-title="TR ✨ BELGESEL",DISCOVERY HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834942&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ID.DISCOVERY.png" group-title="TR ✨ BELGESEL",DISCOVERY ID FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834941&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ID.DISCOVERY.png" group-title="TR ✨ BELGESEL",DISCOVERY ID HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834940&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/dmax.png" group-title="TR ✨ BELGESEL",DMAX FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834939&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/dmax.png" group-title="TR ✨ BELGESEL",DMAX HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834938&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/lovenature.png" group-title="TR ✨ BELGESEL",LOVE NATURE FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834937&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/lovenature.png" group-title="TR ✨ BELGESEL",LOVE NATURE HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834936&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/history.png" group-title="TR ✨ BELGESEL",HISTORY FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834935&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/history.png" group-title="TR ✨ BELGESEL",HISTORY HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834934&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tlc.png" group-title="TR ✨ BELGESEL",TLC FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834933&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tlc.png" group-title="TR ✨ BELGESEL",TLC HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834932&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Tarih-tv.png" group-title="TR ✨ BELGESEL",TARIH TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834931&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Tarih-tv.png" group-title="TR ✨ BELGESEL",TARIH TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834930&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bbcearth.png" group-title="TR ✨ BELGESEL",BBC EARTH FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834929&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bbcearth.png" group-title="TR ✨ BELGESEL",BBC EARTH HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834928&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/viasathistory.png" group-title="TR ✨ BELGESEL",VIASAT HISTORY FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834927&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/viasathistory.png" group-title="TR ✨ BELGESEL",VIASAT HISTORY HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834926&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Viasat_Explore.png" group-title="TR ✨ BELGESEL",VIASAT EXPLORE FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834925&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Viasat_Explore.png" group-title="TR ✨ BELGESEL",VIASAT EXPLORE HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834924&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beiniz.png" group-title="TR ✨ BELGESEL",BEIN IZ FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834923&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beiniz.png" group-title="TR ✨ BELGESEL",BEIN IZ HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834922&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beingurme.png" group-title="TR ✨ BELGESEL",BEIN GURME FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834921&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beingurme.png" group-title="TR ✨ BELGESEL",BEIN GURME HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834920&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/habitat.png" group-title="TR ✨ BELGESEL",HABITAT TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834919&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/habitat.png" group-title="TR ✨ BELGESEL",HABITAT TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834918&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/TARIM.TV.png" group-title="TR ✨ BELGESEL",TARIM TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834917&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/TARIM.TV.png" group-title="TR ✨ BELGESEL",TARIM TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834916&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/yabantv.png" group-title="TR ✨ BELGESEL",YABAN TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834915&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/yabantv.png" group-title="TR ✨ BELGESEL",YABAN TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834914&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ciftcitv.png" group-title="TR ✨ BELGESEL",ÇİFTÇİ TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834913&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ciftcitv.png" group-title="TR ✨ BELGESEL",ÇİFTÇİ TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834912&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/koytv.png" group-title="TR ✨ BELGESEL",KÖY TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834911&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/koytv.png" group-title="TR ✨ BELGESEL",KÖY TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834910&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tgrtbelgesel.png" group-title="TR ✨ BELGESEL",TGRT BELGESEL HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834909&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tgrtbelgesel.png" group-title="TR ✨ BELGESEL",TGRT BELGESEL HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834908&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/beinhe.png" group-title="TR ✨ BELGESEL",BEIN H&E HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=834907&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/v2z6M0w7.png" group-title="TR ✨ BELGESEL",SPECIALBOX | BELGESEL 7/24 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554054&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/v2z6M0w7.png" group-title="TR ✨ BELGESEL",SPECIALBOX | BELGESEL 7/24 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554053&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/v2z6M0w7.png" group-title="TR ✨ BELGESEL",SPECIALBOX | BELGESEL 7/24 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554052&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/v2z6M0w7.png" group-title="TR ✨ BELGESEL",SPECIALBOX | BELGESEL 7/24 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554051&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/v2z6M0w7.png" group-title="TR ✨ BELGESEL",SPECIALBOX | BELGESEL 7/24 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554050&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/v2z6M0w7.png" group-title="TR ✨ BELGESEL",SPECIALBOX | BELGESEL 7/24 6
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554049&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ BELGESEL",DOCU 24/7 BELGESEL 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553536&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ BELGESEL",DOCU 24/7 BELGESEL 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553535&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ BELGESEL",DOCU 24/7 BELGESEL 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553534&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ BELGESEL",DOCU 24/7 BELGESEL 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553533&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ BELGESEL",DOCU 24/7 BELGESEL 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553532&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ BELGESEL",DOCU 24/7 BELGESEL 6
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553531&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ BELGESEL",DOCU 24/7 BELGESEL 7
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553530&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ BELGESEL",DOCU 24/7 BELGESEL 8
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553529&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ BELGESEL",DOCU 24/7 BELGESEL 9
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553528&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ BELGESEL",DOCU 24/7 BELGESEL 10
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553527&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_cocuk.png" group-title="TR ✨ COCUK",TRT ÇOCUK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=278&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_cocuk.png" group-title="TR ✨ COCUK",TRT ÇOCUK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=279&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt.diyanet.cocuk.eno.png" group-title="TR ✨ COCUK",TRT DİYANET ÇOCUK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=280&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt.diyanet.cocuk.eno.png" group-title="TR ✨ COCUK",TRT DİYANET ÇOCUK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=281&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/BABY%20TV.png" group-title="TR ✨ COCUK",BABY TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=282&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/BABY%20TV.png" group-title="TR ✨ COCUK",BABY TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=283&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/DISNEY%20JUNIOR%20(%20NET%20FRACA%20).png" group-title="TR ✨ COCUK",DISNEY JR FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=284&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/DISNEY%20JUNIOR%20(%20NET%20FRACA%20).png" group-title="TR ✨ COCUK",DISNEY JR HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=285&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/cocuk_smart.png" group-title="TR ✨ COCUK",COCUK SMART FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=286&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/cocuk_smart.png" group-title="TR ✨ COCUK",COCUK SMART HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=287&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/CARTOONITO.png" group-title="TR ✨ COCUK",CARTOONITO FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=828379&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/CARTOONITO.png" group-title="TR ✨ COCUK",CARTOONITO HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=828380&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/cartoon_network.png" group-title="TR ✨ COCUK",CARTOON NETWORK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=288&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/cartoon_network.png" group-title="TR ✨ COCUK",CARTOON NETWORK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=289&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/NICKJUNIOR.png" group-title="TR ✨ COCUK",NICK JR HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=290&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/HOLLANDA/NICKJUNIOR.png" group-title="TR ✨ COCUK",NICK JR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=291&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/NICKELODEON.png" group-title="TR ✨ COCUK",NICKELODEON FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=292&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/NICKELODEON.png" group-title="TR ✨ COCUK",NICKELODEON HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=293&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/nick_toons.png" group-title="TR ✨ COCUK",NICKTOONS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=294&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/MinikaGO.png" group-title="TR ✨ COCUK",MINIKA GO HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=295&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/MinikaGO.png" group-title="TR ✨ COCUK",MINIKA GO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=296&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/minikaCocuk.png" group-title="TR ✨ COCUK",MINIKA COCUK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=297&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/minikaCocuk.png" group-title="TR ✨ COCUK",MINIKA ÇOCUK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=298&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/davinci.png" group-title="TR ✨ COCUK",DA VINCI FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845294&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/davinci.png" group-title="TR ✨ COCUK",DA VINCI HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=845295&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Spacetoon.png" group-title="TR ✨ COCUK",SPACETOON TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=835191&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/2lTzghjQp4.jpg" group-title="TR ✨ COCUK",SEVIMLI DOSTLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=710479&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mhMF2fk/Alvinnnn.png" group-title="TR ✨ COCUK",COCUK 7/24 | ALVİNNNN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553930&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LP6Gjyg/Angry-Birds.png" group-title="TR ✨ COCUK",COCUK 7/24 | ANGRY BIRDS TOONS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553929&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rHKPc78/Booba.png" group-title="TR ✨ COCUK",COCUK 7/24 | BOOBA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553928&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w0zJZDr/Gabby.png" group-title="TR ✨ COCUK",COCUK 7/24 | GABBYS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553927&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xrvqqr/Red-Kid.png" group-title="TR ✨ COCUK",COCUK 7/24 | JETGILLER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553926&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RBm7wGc/Jurassic-World.png" group-title="TR ✨ COCUK",COCUK 7/24 | JURRASICWORLD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553925&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QCz9BbJ/Keloglan.png" group-title="TR ✨ COCUK",COCUK 7/24 | KELOGLAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553924&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hq5PGFG/Kral-Sakir.png" group-title="TR ✨ COCUK",COCUK 7/24 | KRAL SAKIR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553923&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LxdjYYQ/Kukuli.png" group-title="TR ✨ COCUK",COCUK 7/24 | KUKULI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553922&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0Zhh90/Masa-Ile-Koca-Ayi.png" group-title="TR ✨ COCUK",COCUK 7/24 | MASA ILE KOCA AYI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553921&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMyG5DS/Pepee.png" group-title="TR ✨ COCUK",COCUK 7/24 | PEPEE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553920&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xrvqqr/Red-Kid.png" group-title="TR ✨ COCUK",COCUK 7/24 | RED KID
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553919&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L82t2D2/SCOOBY-DOO.png" group-title="TR ✨ COCUK",COCUK 7/24 | SCOOBY DOO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553918&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H4rM2BG/Tom-Jerry.png" group-title="TR ✨ COCUK",COCUK 7/24 | TOM VE JERRY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553917&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mhMF2fk/Alvinnnn.png" group-title="TR ✨ COCUK",COCUK 7/24 | ALVİNNNN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553916&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | ADALET BIRLIGI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553915&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | ALVIN VE SINCAPLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553914&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | ARABALAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553913&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | ASLAN KRAL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553912&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | AYI KARDES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553911&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | BARBIE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553910&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | BATMAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553909&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | BUZ DEVRI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553908&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | CESUR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553907&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | CILGIN DOSTLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553906&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | CILGIN HIRSIZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553905&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | DC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553904&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | DENIZ CANAVARLARI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553903&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | EJDERHALAR KURTARMA EKIBI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553902&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | EVCIL HAYVANLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553901&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | FINDIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553900&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | FORKY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553899&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | INANILMAZ AILE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553898&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | KAHRAMAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553897&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | KAPTAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553896&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | KAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553895&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | KOCA AYAK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553894&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | KRAL SAKIR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553893&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | KUNGFU PANDA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553892&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | KUZULAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553891&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | LEGO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553890&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | MADAGASKAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553889&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | MONSTER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553888&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | MORTAL KOMBAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553887&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | NESELI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553886&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | ONE PIECE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553885&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | OTEL TRANSILVANYA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553884&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | OYUNCAK HIKAYESI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553883&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | PATRON BEBEK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553882&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | POKEMON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553881&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | RAFADAN TAYFA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553880&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | SEVIMLI CANAVARLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553879&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | SHREK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553878&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | SIRINLER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553876&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | SUNGERBOB
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553875&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | SUPER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553874&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | TINKERBELL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553873&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | TOM VE JERRY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553872&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | TROLL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553871&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | 1. SALON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553870&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 |  2. SALON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553869&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 |  3. SALON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553868&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | 4. SALON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553867&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | 5. SALON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553866&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | 6. SALON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553865&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | 7. SALON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553864&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | 8. SALON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553863&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | 9. SALON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553862&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hKRjUJWz4n.png" group-title="TR ✨ COCUK",TR COCUK ANİMASYON 7/24 | 10. SALON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553861&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 TATLIS TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552924&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 HOT WHEELS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552923&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 COCUKBOX 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552922&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 COCUKBOX 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552921&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 COCUKBOX 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552920&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 COCUKBOX 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552919&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 COCUKBOX 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552918&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 COCUKBOX 6
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552917&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 COCUKBOX 7
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552916&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 COCUKBOX 8
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552915&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 COCUKBOX 9
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552914&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 COCUKBOX 10
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552913&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 KUKULI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552912&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 HAPSU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552911&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 KRAL SAKIR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552910&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 RAFADAN TAYFA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552909&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 NILOYA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552908&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 ARI MAYA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552907&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 PEPEE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552906&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 EMIRAY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552905&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 SCOOBY DO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552904&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 SÜNGERBOB
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552903&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 POKEMON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552902&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 MÜFETTIS GADGET
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552901&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 KIPO AND THE AGE OF WONDERBEATS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552900&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 VOLTRON 84
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552899&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 HEIDI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552898&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 KELOGLAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552897&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 MASA ILE KOCA AYI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552896&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 SEKER HOCA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552895&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 LUCKY LUKE [RED KID]
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552894&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 ZORRO EFSANESI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552893&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 RICHIE RICH
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552892&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ COCUK",COCUK 24/7 JETGILER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552891&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Hey-Kids.png" group-title="TR ✨ Z1 COCUK",TR: HEY KİDS  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800217&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Pijamaskeliler.png" group-title="TR ✨ Z1 COCUK",TR: PİJAMASKELİLER 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800252&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Abby.hatcher.png" group-title="TR ✨ Z1 COCUK",TR: ABBY HATCHER 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800251&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Adventure.Time.png" group-title="TR ✨ Z1 COCUK",TR: ADVENTURE TIME  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800250&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Angry.Birds.png" group-title="TR ✨ Z1 COCUK",TR: ANGRY BIRDS SUMMER MADNESS  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800249&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/AsLan.png" group-title="TR ✨ Z1 COCUK",TR: ASLAN  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800248&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/ASLANIN.DENEY.ODASI.png" group-title="TR ✨ Z1 COCUK",TR: ASLANIN DENEY ODASI  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800247&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Barbie_Dreamhouse_Adventures.png" group-title="TR ✨ Z1 COCUK",TR: BARBİE DREAMHOUSE  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800246&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/bugs-bunny.png" group-title="TR ✨ Z1 COCUK",TR: BUGS BUNNY  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800245&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Cok.yasa.kral.Julien.png" group-title="TR ✨ Z1 COCUK",TR: COK YASA KRAL JULİEN  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800243&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/DANGER.EGGS.png" group-title="TR ✨ Z1 COCUK",TR: DANGER EGGS  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800242&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Elifin.d%C3%BCsleri.png" group-title="TR ✨ Z1 COCUK",TR: ELİFİN DUSLERİ  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800241&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Emiray.png" group-title="TR ✨ Z1 COCUK",TR: EMİRAY  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800240&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/erdem.trt.png" group-title="TR ✨ Z1 COCUK",TR: ERDEM  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800239&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Go.Go.Corey.Carson.png" group-title="TR ✨ Z1 COCUK",TR: GO GO CARY CARSON  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800238&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/hilda.png" group-title="TR ✨ Z1 COCUK",TR: HİLDA  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800237&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Kaptan.pengu.ve.arkadaslari.png" group-title="TR ✨ Z1 COCUK",TR: KAPTAN PENGU VE ARKADAŞLARI  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800236&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/KARMAS.WORLD.png" group-title="TR ✨ Z1 COCUK",TR: KARMAS WORLD  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800235&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/kehribarileboncuk.png" group-title="TR ✨ Z1 COCUK",TR: KEHRİBAR İLE BONCUK 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800234&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Kiz.KULES%C4%B0.masal.png" group-title="TR ✨ Z1 COCUK",TR: KIZ KULESİ MASALLARI 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800233&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Konusan.tom.png" group-title="TR ✨ Z1 COCUK",TR: KONUSAN TOM  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800232&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Niloya.png" group-title="TR ✨ Z1 COCUK",TR: NİLOYA  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800220&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/kukuli.png" group-title="TR ✨ Z1 COCUK",TR : KUKULİ  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800231&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Kral_Sakir.png" group-title="TR ✨ Z1 COCUK",TR: KRAL ŞAKİR  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800218&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Muppet_Babies.png" group-title="TR ✨ Z1 COCUK",TR: MUPPET BABİES  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800230&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Nasreddin.hoca.png" group-title="TR ✨ Z1 COCUK",TR: NASREDDİN HOCA 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800229&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/PAW-Patrol.png" group-title="TR ✨ Z1 COCUK",TR: PAW PATROL  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800228&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Peppa.Pig.png" group-title="TR ✨ Z1 COCUK",TR: PEPPA PİG  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800227&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Puffin-Rock.png" group-title="TR ✨ Z1 COCUK",TR: PUFFİN ROCK  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800225&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Rafadan.tayfa.png" group-title="TR ✨ Z1 COCUK",TR: RAFADAN TAYFA  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800224&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/wonderoos.png" group-title="TR ✨ Z1 COCUK",TR: WONDEROOS  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800223&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Sirinler.png" group-title="TR ✨ Z1 COCUK",TR: SİRİNLER  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800222&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/pepee.png" group-title="TR ✨ Z1 COCUK",TR: PEPEE  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800221&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/Leliko.png" group-title="TR ✨ Z1 COCUK",TR: LELİKO  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800219&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/ChicagoPartyAunt.png" group-title="TR ✨ Z1 COCUK",TR: CHİCAGO PARTY AUNT  7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=800244&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4whSM02V/6895f8328c6b79125801fa23.png" group-title="TR ✨ Z1 COCUK",TR: ÇOCUK FİLM 1 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739690&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4whSM02V/6895f8328c6b79125801fa23.png" group-title="TR ✨ Z1 COCUK",TR: ÇOCUK FİLM 2 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739691&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4whSM02V/6895f8328c6b79125801fa23.png" group-title="TR ✨ Z1 COCUK",TR: ÇOCUK FİLM 3 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739692&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4whSM02V/6895f8328c6b79125801fa23.png" group-title="TR ✨ Z1 COCUK",TR: ÇOCUK FİLM 4 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739693&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4whSM02V/6895f8328c6b79125801fa23.png" group-title="TR ✨ Z1 COCUK",TR: ÇOCUK FİLM 5 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739694&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4whSM02V/6895f8328c6b79125801fa23.png" group-title="TR ✨ Z1 COCUK",TR: ÇOCUK FİLM 6 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739695&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4whSM02V/6895f8328c6b79125801fa23.png" group-title="TR ✨ Z1 COCUK",TR: ÇOCUK FİLM 7 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739696&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4whSM02V/6895f8328c6b79125801fa23.png" group-title="TR ✨ Z1 COCUK",TR: ÇOCUK FİLM 8 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739697&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4whSM02V/6895f8328c6b79125801fa23.png" group-title="TR ✨ Z1 COCUK",TR: ÇOCUK FİLM 9 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739698&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4whSM02V/6895f8328c6b79125801fa23.png" group-title="TR ✨ Z1 COCUK",TR: ÇOCUK FİLM 10 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739699&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨ Z1 COCUK",MUZIK 7/24 | COCUK SARKILARI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553939&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨ Z1 COCUK",MUZIK 7/24 | COCUKLARI ICIN DINLENDIRICI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553950&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/trtmuzik.png" group-title="TR ✨  MUZIK",TRT MUZIK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836443&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/trtmuzik.png" group-title="TR ✨  MUZIK",TRT MUZIK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836442&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/kralPop.png" group-title="TR ✨  MUZIK",KRAL POP FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836441&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/kralPop.png" group-title="TR ✨  MUZIK",KRAL POP HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836440&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Dream_T%C3%BCrk.png" group-title="TR ✨  MUZIK",DREAM TURK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836439&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Dream_T%C3%BCrk.png" group-title="TR ✨  MUZIK",DREAM TURK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836438&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/dream-tv.png" group-title="TR ✨  MUZIK",DREAM TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836437&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/dream-tv.png" group-title="TR ✨  MUZIK",DREAM TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836436&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/powerTurk.png" group-title="TR ✨  MUZIK",POWERTURK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836435&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/powerTurk.png" group-title="TR ✨  MUZIK",POWERTURK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836434&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/POWER.tv.png" group-title="TR ✨  MUZIK",POWER TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836433&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/POWER.tv.png" group-title="TR ✨  MUZIK",POWER TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836432&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/POWER.TURK.AKUSTIK.png" group-title="TR ✨  MUZIK",POWER TURK AKUSTIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836431&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/POWER.TURK.SLOW.png" group-title="TR ✨  MUZIK",POWER TURK SLOW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836430&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/POWER.TURK.TAPTAZE.png" group-title="TR ✨  MUZIK",POWER TURK TAPTAZE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836429&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/nr1turk.png" group-title="TR ✨  MUZIK",NR1 TURK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836428&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/nr1turk.png" group-title="TR ✨  MUZIK",NR1 TURK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836427&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/NR1.png" group-title="TR ✨  MUZIK",NR1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836426&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/NR1.png" group-title="TR ✨  MUZIK",NR1 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836425&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/ekinturk_tv.png" group-title="TR ✨  MUZIK",EKIN TURK TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836424&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/yildiz-en.png" group-title="TR ✨  MUZIK",YILDIZ EN TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=836423&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",İBRAHİM ERKAL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796983&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",CANDAN ERCETİN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796982&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",YİLDİZ TİLBE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796981&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EBRU GUNDES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796980&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EMRAH İPEK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796979&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",SİBEL CAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796978&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EMRE FEL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796977&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",BARİS MANCO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=578572&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",TARKAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=578571&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",SELDA BAGCAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=578570&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",AHMET KAYA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=578569&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",MUSLUM GURSES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=578568&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ORHAN GENCEBAY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=578567&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",FERDİ TAYFUR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=578566&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ARABESKİN KRALLARİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796976&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",NOSTALJİ FİLM MUZİKLERİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796971&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",NOSTALJİ POP
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796970&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",N0STALJİ 70 80 LER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796969&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",TÜRK SANAT MÜZİĞİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796968&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZEROONE TÜRKÜ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796967&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",TÜRKCE POP MİX
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796966&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",2000 LER POP .
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796965&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",2000 LER SLOW.
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796964&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",90 LAR SLOW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796963&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",TURK SLOW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796962&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",MEZDEKE 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796961&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",MEZDEKE 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796960&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",SLOW KARADENİZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796959&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",HALAY OYUNLARİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796958&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",HAREKETLİ KARADENİZ TÜRKÜLERİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796957&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",KEMENCE OYUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796956&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ROMAN HAVASİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796955&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ANKARA MİX OYUNHAVASİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796954&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",OYUN HAVALARİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796953&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",BEST OF 80/90
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796952&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ROMANTİC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796951&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",DİSKO 90 LAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796950&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",DİSKO 80 LER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796949&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK  7/24 | TURKCE POP 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554047&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK  7/24 | TURKCE POP 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554046&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | IBRAHIM TATLISES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554037&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | MUSLUM GURSES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554036&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | SEZEN AKSU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554035&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | YILDIZ TILBE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554034&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | EMIRCAN IGREK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554033&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | RELAX CHİLL HOUSE MUSİC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554032&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | UMIT BESEN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554031&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | BLOK 13
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554030&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | EZEL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554029&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | CAKAL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554028&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | GUNES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554027&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | UZI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554026&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | NESET ERTAS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554025&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | SERTAB ERENER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554024&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | DEDUBLUMAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554023&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | SEMICENK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554022&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | TURKCE RAP 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554021&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | TURKCE RAP 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554020&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | KARISIK ROCK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554016&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | DAMAR SARKILAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554015&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | MEYHANE SARKILARI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554014&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | ERKIN KORAY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554012&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | TEOMAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554011&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | MOTIVE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554010&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | SOFAR SOUND 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554008&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | ANADOLU ROCK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554004&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | HUZUNLU AKUSTIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554003&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | NOSTALJİ 45LİK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554002&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | CEM ADRIAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554001&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | ARABESK KRALI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=554000&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | BARIS MANCO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553999&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | KORAY AVCİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553998&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | PIANO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553997&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | IBRAHIM TATLISES EN SEVILEN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553996&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | FASIL RUHU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553995&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | RAINY JAZZY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553994&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | TURKCE REMIX
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553993&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | BLUES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553992&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | SAKINLESTIRICI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553991&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | KARISIK RAP
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553990&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | AHMET ASLAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553989&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | JAZZ BALTICA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553988&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | ROCK MUZIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553987&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | CEZA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553986&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | DEEP FEELING
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553985&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | HIRAI ZERDUS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553984&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | METALLICA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553983&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | CEM KARACA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553982&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | YABANCI RAP
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553981&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | YABANCI KARISIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553980&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | SHAKIRA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553979&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | BEYONCE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553978&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | ADELE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553976&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | KANUN GITAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553975&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | YABANCI MİX
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553974&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | NOSTALJİ UNUTULMAYAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553973&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | NOSTALJİ UNUTULMAYAN 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553972&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | NOSTALJİ UNUTULMAYAN 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553971&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | NOSTALJİ 1990LAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553970&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | NOSTALJİ 1980LAR TURK SANAT MUZIGI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553966&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | MEYHANE SARKILARI 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553965&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | MEYHANE SARKILARI 6
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553964&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | MEYHANE SARKILARI 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553963&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | NOSTALJI EGLENCELI PARCALAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553962&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | NOSTALJİ EGLENCELİ 45LİK PARCALAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553961&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | NOSTALJİ PARCALAR 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553960&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | GECMISTEN BUGUNE 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553955&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | GECMISTEN BUGUNE 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553954&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | GECMISTEN BUGUNE 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553953&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | GECMISTEN BUGUNE 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553952&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | GECMISTEN BUGUNE 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553951&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | KENAN DOGULU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553949&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | SERDAR ORTAC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553948&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | EYLEM AKTAS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553947&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | HANDE YENER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553946&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | ASKIN NUR YENGI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553945&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | EMRE AYDIN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553944&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | IREM DERICI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553943&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | AHMET KAYA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553942&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | AJDA PEKKAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553941&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | SEBNEM FERAH
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553940&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | DINLENDIRICI MUZIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553938&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | ROMANTIK PIANO  MUZIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553937&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | KARISIK MUZIK 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553936&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | KARISIK MUZIK 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553935&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | KARISIK MUZIK 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553934&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | KARISIK MUZIK 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553933&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NrPpjh/logo.png" group-title="TR ✨  MUZIK",MUZIK 7/24 | KARISIK MUZIK 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553932&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 KIVIRCIK ALI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552950&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 RAP.HOUSE.POP
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552949&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 TURKISH POP
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552948&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 TURKISH POP 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552947&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 POP REMIX
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552944&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 METRO CANLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552941&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 BEST CANLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552940&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 BABA [ARABESK FANTAZI SARKILAR] CANLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552938&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 ANGARA CANLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552934&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 KARADENIZ CANLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552931&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 GOKKUSAGIM CANLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552930&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 ASK-FM CANLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552928&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨  MUZIK",MUZIK 24/7 VIRGIN CANLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552926&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",2000 LER POP
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=578565&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",90 LAR POP
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=578564&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739670&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739671&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 3 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739672&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 4 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739673&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 5 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739674&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 6 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739675&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 7 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739676&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 8 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739677&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 9 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739678&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 10 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739679&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 11 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739680&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 12 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739681&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 13 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739682&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 14 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739683&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 15 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739684&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 16 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739685&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 17 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739686&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 18 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739687&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 19 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739688&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",ZERO TR MUSİC 20 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=739689&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",DJ STUDİO MİX 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796972&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",DJ STUDİO MİX 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796975&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",DJ STUDİO MİX 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796973&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",DJ STUDİO MİX 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796974&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC POP 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768436&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC POP 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768435&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 3 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768434&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 4 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768433&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 5 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768432&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 6 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768431&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 7 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768430&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 8 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768429&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 9 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768428&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 10 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768427&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 11 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768426&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 12 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768425&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 13 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768424&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 14 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768423&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 15 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768422&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 16 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768421&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 17 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768420&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 18 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768419&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 19 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768418&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjk2cQJ3/zeroone-muzik.png" group-title="TR ✨ Z1 MUZIK",EU: MUSİC MİX 20 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768417&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/7-24kuranikerim.png" group-title="TR  ✨ DINI ISLAM",KURAN-I KERIM 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=458&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/kabetvcanli.png" group-title="TR  ✨ DINI ISLAM",KABE TV CANLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=459&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/diyanettv.png" group-title="TR  ✨ DINI ISLAM",DIYANET TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=460&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/dosttv.png" group-title="TR  ✨ DINI ISLAM",DOST TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=461&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/laleg%C3%BCltv.png" group-title="TR  ✨ DINI ISLAM",LALEGUL TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=462&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/semerkandtv.png" group-title="TR  ✨ DINI ISLAM",SEMERKAND TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=463&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/rehbertv.png" group-title="TR  ✨ DINI ISLAM",REHBER TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=464&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/meltemtv.png" group-title="TR  ✨ DINI ISLAM",MELTEM TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=465&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/kudustv.png" group-title="TR  ✨ DINI ISLAM",KUDUS TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=466&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/fmtv.png" group-title="TR  ✨ DINI ISLAM",FM TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=467&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/goncatv.png" group-title="TR  ✨ DINI ISLAM",GONCA TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=468&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/vavtv.png" group-title="TR  ✨ DINI ISLAM",VAV TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=469&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/laleg%C3%BClradyo.png" group-title="TR  ✨ DINI ISLAM",LALEGUL RADYO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=470&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/ilahiradyo.png" group-title="TR  ✨ DINI ISLAM",ILAHI RADYO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=471&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/dini/tv5.png" group-title="TR  ✨ DINI ISLAM",TV5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=472&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sat7-turk-tr.png" group-title="TR  ✨ DINI ISLAM",SAT7 TURK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=473&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/adanakozatv.png" group-title="TR ✨ YEREL",ADANA KOZA TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=481&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/afyonkanal3hd.png" group-title="TR ✨ YEREL",AFYON KANAL 3 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=483&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/aksaraykanal68.png" group-title="TR ✨ YEREL",AKSARAY KANAL 68
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=485&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/antalyakanalv.png" group-title="TR ✨ YEREL",ANTALYA KANAL V
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=487&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/anadoludernektv.png" group-title="TR ✨ YEREL",ANADOLU DERNEK TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=488&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/ayd%C4%B1ntvden.png" group-title="TR ✨ YEREL",AYDIN TVDEN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=490&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/bursaastv.png" group-title="TR ✨ YEREL",BURSA AS TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=491&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/bucak-k15.png" group-title="TR ✨ YEREL",BUCAK K15
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=493&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/canakkaletontv.png" group-title="TR ✨ YEREL",CANAKKALE TON TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=494&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/kanalavrupatv.png" group-title="TR ✨ YEREL",KANAL AVRUPA HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=496&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/mavikaradeniztv.png" group-title="TR ✨ YEREL",MAVI KARADENIZ TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=497&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/denizli-dehatv.png" group-title="TR ✨ YEREL",DENIZLI DEHA TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=498&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/denizlidrttv.png" group-title="TR ✨ YEREL",DENIZLI DRT TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=499&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/elazig-kanalfirat.png" group-title="TR ✨ YEREL",ELAZIG KANAL 23
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=501&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/elazig-kanalfirat.png" group-title="TR ✨ YEREL",ELAZIG KANAL FIRAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=502&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/elazigzazatv.png" group-title="TR ✨ YEREL",ELAZIG ZAZA TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=503&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/kardelentv.png" group-title="TR ✨ YEREL",ERZURUM KARDELEN TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=504&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/eskisehirkanal26.png" group-title="TR ✨ YEREL",ESKISEHIR KANAL 26 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=505&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/gaziantepgrttv.png" group-title="TR ✨ YEREL",GAZIANTEP GRT TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=506&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/istanbultempotv.png" group-title="TR ✨ YEREL",ISTANBUL TEMPO TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=507&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/kahramanmarasaksutv.png" group-title="TR ✨ YEREL",KAHRAMANMARAS AKSU TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=508&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/konyakontv.png" group-title="TR ✨ YEREL",KONYA KON TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=509&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/konyakanal42.png" group-title="TR ✨ YEREL",KONYA KANAL 42
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=510&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/karabukbrtv.png" group-title="TR ✨ YEREL",KARABUK BRTV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=511&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/kayserikaytv.png" group-title="TR ✨ YEREL",KAYSERI KAY TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=512&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/kayseriolayturktv.png" group-title="TR ✨ YEREL",KAYSERI OLAY TURK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=513&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/kocaelitv41.png" group-title="TR ✨ YEREL",KOCAELI TV 41
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=514&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/kocaelitv.png" group-title="TR ✨ YEREL",KOCAELI TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=515&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/y%C4%B1ld%C4%B1zentv.png" group-title="TR ✨ YEREL",YILDIZ EN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=516&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/malatyaertv.png" group-title="TR ✨ YEREL",MALATYA ER TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=517&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/malatyavuslattv.png" group-title="TR ✨ YEREL",MALATYA VUSLAT TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=518&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/mersinkanal33tv.png" group-title="TR ✨ YEREL",MERSIN KANAL 33
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=519&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/on4tv.png" group-title="TR ✨ YEREL",ON4 TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=520&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/altastv.png" group-title="TR ✨ YEREL",ORDU ALTAS TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=521&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/ordutv52.png" group-title="TR ✨ YEREL",ORDU TV 52 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=522&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/rizecaytv.png" group-title="TR ✨ YEREL",RIZE CAY TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=523&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/tekrumelitvk%C4%B1rklareli.png" group-title="TR ✨ YEREL",TEK RUMELI TV (KIRKLARELI)
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=524&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/sakaryatv264.png" group-title="TR ✨ YEREL",SAKARYA TV264 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=525&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/sivaskanal58.png" group-title="TR ✨ YEREL",SIVAS KANAL 58
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=526&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey_2024/yerel/sanliurfakanalurfa.png" group-title="TR ✨ YEREL",SANLIURFA KANAL URFA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=527&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/hfcUk-ByNC.jpg" group-title="TR ✨ YEREL",TV 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=528&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/3x0L619_.jpg" group-title="TR ✨ YEREL",HRT AKDENIZ TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=530&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/VOeA_.png" group-title="TR ✨ YEREL",MC EU TV (AVRUPA)
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=531&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/2B4Vb.png" group-title="TR ✨ YEREL",ZONGULDAK KANAL Z
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=532&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxyhUSVOh9RYsdVynVWKIRGGGg7.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",CARPINTI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=851944&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",TESKILAT ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=638071&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Sahtekarlar ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=859093&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31zn3jriMaSAx9oflfn3ER5JRbn.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Bereketli Topraklar ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=861889&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Güldür Güldür Show  ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746494&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Güller ve Günahlar ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=858987&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HkjNXxhYNDsrJDPd9DEjk7wDqT.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Aynadaki Yabancı ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=857697&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Ben Leman  ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=857696&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",GONUL DAGI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597539&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Fn3fyq4JMlD6v1s3VZgdelbRUO.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Ben Onun Annesiyim  ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860654&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",ARKA SOKAKLAR ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597478&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KIZILCIK ŞERBETİ ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597481&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Tasacak Bu Deniz ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=858861&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KONUSANLAR ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=645431&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Çok Güzel Hareketler 2 ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=781553&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",ESREF RUYA ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=816337&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",SAHIPSIZLER  ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=789279&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Kuruluş Orhan ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=861354&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Gözleri Karadeniz ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=851946&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0kk5PUB850OlrVA1w7hgc41E9T.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KRAL KAYBEDERSE ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=811550&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/u28XMjRU7i0xdqlplNE080uD4Gj.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",BAHAR ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=643889&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",MEHMED FETIHLER SULTANI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=643890&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Kıskanmak ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=853296&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Cennetin Çocukları ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=853202&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",UZAK SEHIR ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=786549&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sflFc0FmTSbITrhcVGaWaCuUrD.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Aşk ve Gözyaşı   ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=853705&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Halef: Köklerin Çağrısı  ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=853620&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Veliaht  ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=852477&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hy803SVfX3Wbig6xwnADJl50lU.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",CAN BORCU ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=797237&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZucEzPzz8fn4pAZDqmHDDtmW8m.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",AILE SAADETI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=835903&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jknzzAm6YU6RhXU0rFPazcR7GZK.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",CIFT KISILIK ODA ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=827795&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbsnc1D0gyROGp01yXidiBZ7jbp.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",LEYLA ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=626045&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3ddjp72iz2aQGpQ31xJ8uYiaug.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KURULUS OSMAN ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=673038&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZYl3cN12qtg82QvhzZnrwekNhc.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",BIR GECE MASALI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=623447&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCJPe95WK1uKfhD3sqz31kqR1SD.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",BIR ZAMANLAR ISTANBUL ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=811007&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2q6sOaO5SkHy2ZcQymnX71cAds.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",SIYAH KALP ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=627114&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHDcVdpBjCfu1nYrFrJ7KtHfiy3.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Kudüs Fatihi: Selahaddin Eyyubi  ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746493&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o46IIJvD0BwnDL3NKQ9YqbjK7H.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",DEHA ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=638070&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nT4uFGVx8Bv2N0zg71JT96g6MDG.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",HUDUTSUZ SEVDA ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=645412&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/y1webVLqRDoFFmTikLtsl6MbCpW.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",INCI TANELERI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=705644&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWnZjhoOk2KhlTtJxcqjskbSCiX.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",SUSTALI CEYLAN ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=818030&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOTvBgpXRk6u8LEWKwxHtexA2nu.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KIZIL GONCALAR ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=660388&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spGJO20LaQ9i6scLlwrqmAW35Yx.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KARDELENLER ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=809302&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTSRcoatdU9oFhHABhxXISPZSHY.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",SAKIRPASA AILESI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796062&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKzJz4ezNiGZdUoWhw4tikbAqeE.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",BASKA BIR GUN ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=808918&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylwuADfzbi72S1EpwIerE24wRsE.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",PİYASA ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=813132&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnNhlrOdgVsgNEcyKkCqv4EI1t.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",YALI CAPKINI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597482&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPNFf3TFT7dfhWBkNunnS05yvFq.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",ZEMBILLI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=799087&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SX96J1BnzqSodftoRB39J3DlX7.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",ANNEM ANKARA ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=793278&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n66OQtFORQjRkJwMN9CAZdL99KZ.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",SANDIK KOKUSU ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=626043&extension=ts
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kao4Mq8r4SoofQ8ILWdXk5BXAGf.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",SEN AGLAMA ISTANBUL ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=795678&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQ5k6i7Bv3ssV4uotxZpTdKCgC9.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",YABANI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597540&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23kyHMDJDMyzPIrdqKje055Ol4O.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",YALAN ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=613272&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sgCdb7AaPEzHC8eObfJnfGYxaS.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Holding ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=794968&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omYFrePPOvuhrlQ0182ErzvNBf3.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KARA AGAC DESTANI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597479&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnUshslPg7te60aeQ1l2hCBdEr5.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",ASK EVLILIK BOSANMA ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=792632&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2EVteRVAngbYXrYJX5Z1SEd7L0.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KALPAZAN ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746470&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPPEOytE4pWXWyWyH2PBdys8EvH.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",GIZLI BAHCE ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=719538&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVK1sscKqH9mg5UxIlPqM8XoNcN.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KIRLI SEPETI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=613271&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wb0ooQliK7yZ3BhkJOpoMLPXApP.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KOTU KAN ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597480&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTgLVl7FNRo4snoNvcgWMP697IF.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",TAS KAGIT MAKAS ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=626044&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nijRlezbvalIswmP13kgDmlvnYq.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KOR NOKTA ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=633220&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QHGl3LLc4iQUueQJOqOeTsmZ5S.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KARADUT ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=640328&extension=ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igRJyt842ceKg1pM0J7C9XiDDNb.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",GUZEL ASKLAR DIYARI ⚜️ SON BOLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=640329&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",SYLVESTER STALLONE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664263&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ARNOLD SCHWARZENEGGER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664262&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",JASON STATHAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664261&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",LEONARDO DİCAPRİO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664260&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",BRUCE WİLLİS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664259&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",KEANU REEVES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664258&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",DWAYNE JOHNSON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664255&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",NİCOLAS CAGE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664254&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",JOHNNY DEPP
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664253&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",SCOTT ADKİNS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664251&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",JIM CARREY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664257&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",JAMES BOND
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664313&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",RAMBO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664299&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",BRAD PİTT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664295&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",JET LI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664294&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",BRUCE LEE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664305&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",IP-MAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664302&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",VAN DAMME
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664293&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",Jackie Chan
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664292&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",CHRİS HEMSWORTH
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664252&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ALIEN VE PREDATOR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664291&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",JOHN WİCK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664290&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",4K SİNEMA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664303&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE ACTİON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664250&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE ACTİON 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664249&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE ACTİON 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664248&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE FANTASTİC 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664242&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE FANTASTİC 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664241&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE BILIMKURGU 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664240&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE BİLİMKURGU 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664239&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE UZAKDOGU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664238&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE DÖVÜŞ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664237&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE ROMANTİC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664236&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE BOLLYWOOD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664235&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE ANİMASYON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664234&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE SAVAS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664233&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE DRAMA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664232&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE WESTERN 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664231&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE KORKU  18
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664230&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",YERLİ KOMEDİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664247&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",YERLİ KOMEDİ 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664246&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",YERLİ KOMEDİ 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664245&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",YERLİ SİNEMA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664244&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZEROONE AİLE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664243&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TERMİNATOR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664311&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ZOR ÖLÜM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664289&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",CEHENNEM SİLAHİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664288&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",GOREVİMİZ TEHLİKE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664285&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",KENKİN NİSANCİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664284&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",SON DURAK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664287&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",SAW - TESTERE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664298&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",MATRİX
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664315&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",BATMAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664310&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",SUPERMAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664309&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",MUMYA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664321&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",POLİS AKEDEMİSİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664308&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",KARAYİP KORSANLARI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664320&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ÖLÜMCÜL DENEY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664306&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",GELECEGE DÖNÜS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664319&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TRANSFORMENS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664317&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ALACAKARANLIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664314&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",YUZUKLERİN EFENDİSİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664318&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",HARRY PORTER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664316&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",HOBBİT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664312&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",JURASSİC PARK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664301&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",KARANLİKLAR ULKESİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664300&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",STAR TREK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664297&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",13. CUMA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664296&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",MARVEL 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664304&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",SPİDERMAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664307&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",X-MEN HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664286&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",KORKUNC BİR FİLM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664283&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",YERALTİ CANAVARİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664282&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",MAYMUNLAR CEHENNEMİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664281&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",YENİLMEZ HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664280&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",SİYAH GİYEN ADAMLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664279&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",ROBOCOP
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664278&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",MAD MAX
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664277&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",HİZLİ VE ÖFKELİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664276&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",THOR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664275&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",XXX YENİ NESİL AJAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664274&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",GODZİLLA & KONG
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664273&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",KAPTAN AMERİKA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664272&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: ZERO NETFLİX 1 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=797808&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: ZERO NETFLİX 2 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=797807&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: ZERO NETFLİX 3 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=797806&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: ZERO NETFLİX 4 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=797805&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: ZERO NETFLİX 5 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=797804&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: ZERO NETFLİX 6 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=797803&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: ZERO NETFLİX 7 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=797802&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: ZERO NETFLİX 8 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=797801&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: ZERO NETFLİX 9 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=797800&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: ZERO NETFLİX 10 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=797799&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 1 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768496&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 2 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768495&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 3 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768494&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 4 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768493&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 5 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768492&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 6 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768491&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 7 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768490&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 8 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768489&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 9 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768488&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 10 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768487&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 11 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768486&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 12 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768485&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 13 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768484&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 14 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768483&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 15 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768482&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 16 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768481&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 17 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768480&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 18 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768479&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 19 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768478&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 20 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768477&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 21 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768476&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 22 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768475&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 23 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768474&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 24 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768473&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 25 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768472&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 26 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768471&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 27 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768470&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 28 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768469&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 29 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768468&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",TR: YERLİ FİLM 30 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768467&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",RECEP İVEDİK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664331&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",KEMAL SUNAL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664330&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",ZEKİ VE METİN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664329&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",KEMAL SUNAL 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664328&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",KEMAL SUNAL 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664327&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",KEMAL SUNAL 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664326&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",YESİLCAM 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664325&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",KADİR İNANİR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664324&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",MASKELİ BEŞLER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664323&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",SAFAK SEZER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664322&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨ Z1 FILM YERLI",CEM YİLMAZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664256&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  1 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768517&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  2 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768516&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  3 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768515&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  4 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768514&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  5 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768513&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  6 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768512&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  7 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768511&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  8 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768510&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  9 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768509&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  10 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768508&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  20 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768507&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  19 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768506&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  18 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768505&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  17 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768504&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  16 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768503&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  15 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768502&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  14 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768501&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  13 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768500&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  12 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768499&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBQd5yX/6895f6d58c6b79125801fa16.png" group-title="TR ✨  Z1 FILM YABANCI",TR: DUBLAJ FİLM  11 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768498&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_spor.png" group-title="TR ✨ SPOR",TRT SPOR HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=673373&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_spor.png" group-title="TR ✨ SPOR",TRT SPOR FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=351&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_spor.png" group-title="TR ✨ SPOR",TRT SPOR HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=352&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/a_spor.png" group-title="TR ✨ SPOR",A SPOR FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=355&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/a_spor.png" group-title="TR ✨ SPOR",A SPOR HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=356&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR//trtsporstar.png" group-title="TR ✨ SPOR",TRT SPOR YILDIZ FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=357&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trtsporstar.png" group-title="TR ✨ SPOR",TRT SPOR YILDIZ HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=358&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/HT_SPOR.eno.png" group-title="TR ✨ SPOR",HT SPOR FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=594415&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/HT_SPOR.eno.png" group-title="TR ✨ SPOR",HT SPOR HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=594416&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/Bamihv.jpeg" group-title="TR ✨ SPOR",SIFIR TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=858870&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sporsmart1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",SPOR SMART FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684467&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sporsmart1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",SPOR SMART HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684468&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sporsmart2.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",SPOR SMART 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=369&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sporsmart2.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",SPOR SMART 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=370&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR.png" group-title="TR ✨ SPOR",TIVIBUSPOR FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=372&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR.png" group-title="TR ✨ SPOR",TIVIBUSPOR HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=371&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR2.png" group-title="TR ✨ SPOR",TIVIBUSPOR 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=374&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR2.png" group-title="TR ✨ SPOR",TIVIBUSPOR 1 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=373&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tivibu_spor_3.png" group-title="TR ✨ SPOR",TIVIBUSPOR 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=376&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tivibu_spor_3.png" group-title="TR ✨ SPOR",TIVIBUSPOR 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=375&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tivibu_spor_4.png" group-title="TR ✨ SPOR",TIVIBUSPOR 3 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=377&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/FB.TV.eno.png" group-title="TR ✨ SPOR",FB TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=437662&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/FB.TV.eno.png" group-title="TR ✨ SPOR",FB TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=388&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_1.png" group-title="TR ✨ SPOR",EUROSPORT 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=378&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_1.png" group-title="TR ✨ SPOR",EUROSPORT 1 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=379&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_2.png" group-title="TR ✨ SPOR",EUROSPORT 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=380&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_2.png" group-title="TR ✨ SPOR",EUROSPORT 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=381&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/EKOL.SPORT.png" group-title="TR ✨ SPOR",EKOL SPORT FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=843892&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sports_tv.png" group-title="TR ✨ SPOR",SPORTS TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=382&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sports_tv.png" group-title="TR ✨ SPOR",SPORTS TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=383&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/wsport.png" group-title="TR ✨ SPOR",W-SPORT FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860780&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/NBA.png" group-title="TR ✨ SPOR",NBA TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=390&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/NBA.png" group-title="TR ✨ SPOR",NBA TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=391&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_sopr3_tbmm.png" group-title="TR ✨ SPOR",TRT 3 SPOR (TBMM) FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=392&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/fightbox.png" group-title="TR ✨ SPOR",FIGHTBOX FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=393&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tay_tv.png" group-title="TR ✨ SPOR",TAY TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=394&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tjk_tv.png" group-title="TR ✨ SPOR",TJK TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=395&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ssport1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684466&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ssport1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT 1 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684465&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ssport2.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684464&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ssport2.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684463&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/S_Sport_Plus.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684462&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/S_Sport_Plus.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684461&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/S_Sport_Plus.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684460&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/S_Sport_Plus.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684459&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/S_Sport_Plus.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684458&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/S_Sport_Plus.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 6
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684457&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivibuspor.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",TIVIBU SPOR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684456&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivibuspor1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",TIVIBU SPOR 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684455&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivibuspor1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",TIVIBU SPOR 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684454&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivibuspor3.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",TIVIBU SPOR 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684453&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivibuspor4.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",TIVIBU SPOR 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=684452&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/jDLepg_vK.png" group-title="TR ✨ STADYUM",Stadyum 1 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860972&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/pqwZ1hNDQA.png" group-title="TR ✨ STADYUM",Stadyum 2 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860973&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/atOWL.png" group-title="TR ✨ STADYUM",Stadyum 3 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860975&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/OqSFKot.png" group-title="TR ✨ STADYUM",Stadyum 4 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860977&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/DELigJ9za.png" group-title="TR ✨ STADYUM",Stadyum 5 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860978&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/QHS5u.png" group-title="TR ✨ STADYUM",Stadyum 6 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860979&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/mwTMeQyt8SH_.png" group-title="TR ✨ STADYUM",Stadyum 7 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860980&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/J6Kbr.png" group-title="TR ✨ STADYUM",Stadyum 8 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860981&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/HQXpO.png" group-title="TR ✨ STADYUM",Stadyum 9 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860983&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/jkePqLzRwI8.png" group-title="TR ✨ STADYUM",Stadyum 10 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860984&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/gVvF98jzhZ.png" group-title="TR ✨ STADYUM",Stadyum 11 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860985&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/9Aavy65NxJ3.png" group-title="TR ✨ STADYUM",Stadyum 12 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860986&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/PKxBnUudOwY.png" group-title="TR ✨ STADYUM",Stadyum 13 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860987&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/bmLQIlEFH.png" group-title="TR ✨ STADYUM",Stadyum 14 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860988&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/yijKNb-.png" group-title="TR ✨ STADYUM",Stadyum 15 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860989&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/Wh1zeYnGbmy8.png" group-title="TR ✨ STADYUM",Stadyum 16 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860990&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/zFCDjvsneq.png" group-title="TR ✨ STADYUM",Stadyum 17 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860991&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/SgRIhx.png" group-title="TR ✨ STADYUM",Stadyum 18 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860992&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/NnVjiDws1XBM.png" group-title="TR ✨ STADYUM",Stadyum 19 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=860993&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/E-Qho3T6xf.png" group-title="TR ✨ STADYUM",Stadyum 20 |
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=861223&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/_8lSnNC0os1h.png" group-title="TR ✨ BEIN SPORT VIP",BEIN SPORT FEED 4K MAC SAATI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=852740&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/4BacPZ3Xi.png" group-title="TR ✨ BEIN SPORT VIP",BEIN SPORT FEED HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=848340&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/Rplsv6t.png" group-title="TR ✨ BEIN SPORT VIP",BEIN SPORT FEED FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=848341&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/adTCj1y5.png" group-title="TR ✨ BEIN SPORT VIP",BEIN SPORT FEED HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=848342&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/lGEfj3KY4t0.png" group-title="TR ✨ BEIN SPORT VIP",BEIN SPORT 1 P+ FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=848344&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/3DlQqW2aOGxc.png" group-title="TR ✨ BEIN SPORT VIP",BEIN SPORT 1 P+ HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=848345&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/G3kNS0rogY.png" group-title="TR ✨ BEIN SPORT VIP",BEIN SPORT 2 P+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=848346&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/5NLrX4sK.png" group-title="TR ✨ BEIN SPORT VIP",BEIN SPORT 3 P+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=848351&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/odVFshnKZ8A.png" group-title="TR ✨ BEIN SPORT VIP",BEIN SPORT 4 P+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=848352&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/qGvSmyrNF6Aa.png" group-title="TR ✨ BEIN SPORT VIP",BEIN SPORT 5 P+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=848353&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LvfULSb.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS HABER HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552147&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGbdQLv.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS HABER FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552146&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ym0q2jI.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS HABER HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552145&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5wmRzv.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS FEED
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552144&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NggaqQM.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 1 RAW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552143&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jx2duXb.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 1 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552142&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRD8mLI.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552141&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAGgh3S.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 1 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552140&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxiLYHN.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 1 4K
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552138&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oc4VGeB.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 1 MOBILE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552139&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUXnhHX.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 2 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552137&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWZNVM0.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552136&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ie4xKg.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552135&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/24jyvwc.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 3 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552134&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3HsTs7p.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 3 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552133&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3HsTs7p.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 3 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552132&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sxF6h0.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 4 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552131&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYbRa96.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 4 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552130&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIIlkX9.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 4 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552129&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E69v0C0.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 5 HEVC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552127&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0lz7UhN.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS 5 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552128&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I0g7rbD.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS MAX 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552126&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aZPxIfT.png" group-title="TR ✨ BEIN SPORT",BEIN SPORTS MAX 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552125&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=660583&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=660584&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552122&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 1 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552121&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552120&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552119&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 3 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552118&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 3 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552117&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 4 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552116&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 4 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552115&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 5 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552114&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 5 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552113&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 6 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552112&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 6 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552111&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552107&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 1 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552106&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552103&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552091&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 3 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552101&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 3 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552090&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 4 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552099&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 4 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552089&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 5 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552097&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 5 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552088&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 6 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552095&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 6 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552087&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 7 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552093&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 7 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552086&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 8 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552092&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/loFwCD.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",EXXEN SPOR 8 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552085&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Kuran-i.Kerim.png" group-title="TR  ✨ DINI ISLAM",KUR'AN-I KERIM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=439739&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Hz.Muhammed.png" group-title="TR  ✨ DINI ISLAM",HZ.MUHAMMED'IN (S.A.V) HAYATI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=814820&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Hz.Meryem.png" group-title="TR  ✨ DINI ISLAM",HZ. MERYEM (A.S)
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=814819&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/HZ.Yusuf.png" group-title="TR  ✨ DINI ISLAM",HZ. YUSUF 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=814821&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Hz.Omer.png" group-title="TR  ✨ DINI ISLAM",HZ. ÖMER (R.A)
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=814823&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/FX-eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",FX FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436850&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.TURK.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES TURK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436877&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Family.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES FAMILY FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436875&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Action.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES ACTION FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436873&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Stars-2.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES STARS FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436871&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Premiere.Eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES PREMIERE FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436869&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Premiere-2.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES PREMIERE 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436867&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.1.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN BOX OFFICE 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436865&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.2.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN BOX OFFICE 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436863&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.3.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN BOX OFFICE 3 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436861&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-1.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN SERIES 1 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436859&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-2.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN SERIES 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436857&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-3.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN SERIES 3 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436855&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-4eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN SERIES 4 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436853&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/DiziSmart_Premium.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",DIZI SMART PREMIUM FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436848&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/DiziSmart_Max.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",DIZI SMART MAX FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436846&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Movie.Smart.TURK.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",MOVIESMART TURK FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436844&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Movie.Smart.Classic.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",MOVIESMART CLASSIC FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436842&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/Epic_Drama.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",EPIC DRAMA FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436840&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_tv.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436838&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_tv_2.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436836&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aile.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV AILE FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436834&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/EHUpR-bC.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV AILE 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436832&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_yerli.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV YERLI FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436830&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinemaYerli2.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV YERLI 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436828&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_komedi.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV KOMEDI FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436826&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinemaKomedi2.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV KOMEDI 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436824&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aksiyon.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV AKSIYON FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436822&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aksiyon2.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV AKSIYON 2 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436820&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_1001.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV 1001 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436818&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema1002.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV 1002 FHD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436816&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/FX-eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",FX HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436849&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.TURK.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES TURK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436876&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Family.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES FAMILY HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436874&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Action.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES ACTION HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436872&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Stars-2.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES STARS HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436870&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Premiere.Eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES PREMIERE HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436868&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.Movies.Premiere-2.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN MOVIES PREMIERE 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436866&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.1.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN BOX OFFICE 1 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436864&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.2.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN BOX OFFICE 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436862&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Bein.box.office.3.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN BOX OFFICE 3 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436860&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-1.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN SERIES 1 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436858&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-2.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN SERIES 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436856&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/DiziSmart_Max.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",DIZI SMART MAX HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436845&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-3.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN SERIES 3 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436854&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bein-series-4eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",BEIN SERIES 4 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436852&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/DiziSmart_Premium.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",DIZI SMART PREMIUM HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436847&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Movie.Smart.TURK.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",MOVIESMART TURK HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436843&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Movie.Smart.Classic.eno.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",MOVIESMART CLASSIC HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436841&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/Epic_Drama.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",EPIC DRAMA HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436839&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_tv.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436837&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_tv_2.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436835&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aile.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV AILE HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436833&extension=ts
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/EHUpR-bC.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV AILE 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436831&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_yerli.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV YERLI HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436829&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinemaYerli2.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV YERLI 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436827&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_komedi.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV KOMEDI HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436825&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinemaKomedi2.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV KOMEDI 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436823&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aksiyon.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV AKSIYON HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436821&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_aksiyon2.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV AKSIYON 2 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436819&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema_1001.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV 1001 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436817&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sinema1002.png" group-title="TR ✨ D-SMART ⁕ BEIN SINEMA",SINEMA TV 1002 HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=436815&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",PROTURK UZAKDOGU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560387&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",PROTURK BILIM KURGU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560386&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",PROTURK YERLİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560385&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",PROTURK ORJİNAL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560384&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",VIZYON CINEMA ALTYAZI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560383&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",VIZYON CINEMA YERLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560382&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",VIZYON CINEMA DUBLAJ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560381&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",VIZYON CINEMA ANIMASYON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560380&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENA BOX YESILCAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560379&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENA BOX ANIMASYON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560378&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NOVA CINEMA 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560377&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NOVA CINEMA 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560376&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NOVA CINEMA 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560375&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NOVA CINEMA 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560374&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NOVA CINEMA 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560373&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NOVA CINEMA 6
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560372&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",KING BOX YESILCAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560371&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGA BOX YESILCAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560370&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGA BOX ANIMASYON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560369&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGA BOX KLIP
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560368&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REAL BOX ACTION
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560367&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REAL BOX YESILCAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560366&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REAL BOX ANIMASYON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560365&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REAL BOX KRAL SAKIR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560364&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAM BOX YESILCAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560363&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FILM BOX YERLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560362&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FILM BOX YESILCAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560361&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMART BOX YESILCAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560360&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMART BOX BELGESEL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560359&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",GLOBAL BOX YESILCAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560358&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",GLOBAL BOX DISNY +
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560357&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",PROTURK YESILCAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560356&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",PROTURK ANIMASYON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560355&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FIX CINEMA ACTION
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560354&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FIX CINEMA BILIMKURGU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560353&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FIX CINEMA DRAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560351&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FIX CINEMA FANTASTIC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560350&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FIX CINEMA KORKU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560349&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FIX CINEMA MACERA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560348&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FIX CINEMA NETFLIX
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560347&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FIX CINEMA YERLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560346&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX DRAM HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560345&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX NETFLIX HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560344&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX SAVAS HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560343&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX COMEDY HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560342&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX WESTERN HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560341&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX YERLI HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560340&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX FANTASTIC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560339&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX ACTION
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560338&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX MACERA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560337&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX ROMANTIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560336&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX GERILIM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560335&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMARTBOX BILIM KURGU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560334&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMART BOXKORKU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560332&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMART BOXWESTERN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560331&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",SMART BOXCOMEDY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560330&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",HORRORBOX 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560329&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",HORRORBOX 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560328&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",HORRORBOX 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560327&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",HORRORBOX 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560326&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",HORRORBOX 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560325&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NEOCİNE ACTİON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560324&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NEOCİNE GOLD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560323&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NEOCINE TURK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560322&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NEOCINE FANTASTIC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560321&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NEOCINE KORKU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560320&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NEOCINE WESTERN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560319&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NEOCINE NETFLIX
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560318&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",NEOCINE SPECİAL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560317&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",EPIC DRAMA HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560316&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FILMBOX ACTION
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560315&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FILMBOX FANTASTIC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560314&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FILMBOX FAMILY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560313&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FILMBOX HORROR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560312&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FILMBOX DRAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560311&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FILMBOX SCI-FI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560310&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",FILMBOX COMEDY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560309&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",GLOBAL BOX KORKU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560308&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",GLOBAL BOX FANTASTIC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560307&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",GLOBAL BOX COMEDY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560306&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",GLOBAL BOX DRAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560305&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",GLOBAL BOX VIZYON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560304&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",GLOBALBOX YERLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560303&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",GLOBALBOX ACTION
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560302&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",KINGBOX ACTION
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560301&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",KINGBOX BILIM KURGU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560300&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",KINGBOX FANTASTIC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560299&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",KINGBOX MACERA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560298&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",KINGBOX DRAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560296&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",KINGBOX YERLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560295&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENABOX YERLI HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560294&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENABOX ACTION
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560293&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENABOX DRAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560292&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENABOX BELGESEL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560291&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX COMEDY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560290&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX DRAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560289&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENABOX FANTASTIC HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560288&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENABOX BILIM KURGU HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560287&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENABOX GERILIM HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560286&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENABOX COMEDY HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560285&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENABOX KORKU HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560284&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENABOX MACERA HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560283&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",ARENABOX VIZYON HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560282&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX MACERA HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560281&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX MARVEL HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560280&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX ACTION HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560279&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX FANTASTIC HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560278&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX KORKU HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560277&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX DRAM HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560276&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX GOLD HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560275&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX NETFLIX HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560274&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX WESTERN HD+
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560273&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX BILIM KURGU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560272&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX COMEDY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560271&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX VIZYON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560270&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX YERLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560269&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",MEGABOX ÜLKE SEYAHAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560268&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REALBOX MACERA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560266&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REALBOX DRAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560265&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REALBOX BILIM KURGU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560264&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REALBOX WESTERN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560263&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REALBOX YERLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560262&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REALBOX FANTASTIC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560261&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REALBOX GERILIM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560260&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REALBOX HINT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560259&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",REALBOX KORKU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560258&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX KORKU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560256&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX GERILIM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560255&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX YERLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560254&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX ACTION
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560253&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX BILIM KURGU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560252&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX FANTASTIC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560251&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX MACERA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560250&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX SAVAS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560249&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX ROMANTIC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560248&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLxjNTMG/6895fb638c6b79125801fa3a.png" group-title="TR ✨ SİNEMA MİX",DREAMBOX NETFLIX
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=560247&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g177Hyt/6895fee08c6b79125801fa45.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR NETFLIX 7/24 | GEZEGENIMIZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=776566&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g177Hyt/6895fee08c6b79125801fa45.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR NETFLIX 7/24 | SON DANS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=776567&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g177Hyt/6895fee08c6b79125801fa45.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR NETFLIX 7/24 | DARK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=776568&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g177Hyt/6895fee08c6b79125801fa45.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR NETFLIX 7/24 | PEAKY BLINDERS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=777129&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g177Hyt/6895fee08c6b79125801fa45.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR NETFLIX 7/24 | BLACK MIRROR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=778882&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g177Hyt/6895fee08c6b79125801fa45.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR NETFLIX 7/24 | NARCOS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=778883&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g177Hyt/6895fee08c6b79125801fa45.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR NETFLIX 7/24 | STRANGER THINGS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=778884&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g177Hyt/6895fee08c6b79125801fa45.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR NETFLIX 7/24 | SQUID GAME
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=781229&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | 40
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746227&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | 7 YUZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746226&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | ACANS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746225&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | ALEF
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746224&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | AYNEN AYNEN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746223&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | BAD BANKS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746222&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | BARTU BEN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746221&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | BIZE GEZMEK OLSUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746220&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | BLACK SPACE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746219&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | BONKIS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746218&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | BOOM IBRAHIM SELIM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746217&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | BUILDING OFF THE GRID
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746216&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | BUNU BIR DUSUNUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746215&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | BUYUK TIKINMA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746214&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | BORU 2039
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746213&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | CIMEN TALKSHOW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746212&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | CONVERSATIONS WITH FREIENDS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746211&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | COYOTE PETERSON BRAVE THE WILD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746210&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | DOGU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746209&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | DUN DUNDUR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746208&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | ED STAFFORD FIRST MAN OUT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746207&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | ED STAFFORDLA KURTULUS OYKULERI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746206&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | EVEREST RESCUE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746205&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | FI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746204&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | HIC
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746203&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | HOFFMAN FAMILY GOLD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746202&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | ILK VE SON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746201&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | IN SEARCH OF MONSTERS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746200&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | INFINITI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746199&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | KAKAO VE SUT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746198&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | KARSUNUN ODASI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746197&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | KILLING EVE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746196&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | KUTU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746195&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | KIYMA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746194&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | LA JAURIA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746193&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | MAGARSUS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746192&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | MASAL SATOSU PERI HIRSIZI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746191&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | MASUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746190&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | MEAN GIRL MURDERS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746189&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | NON MI LASCIEARE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746188&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | NORMAL PEOPLE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746187&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | PAVYON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746186&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | PODACTO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746185&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | PRENS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746184&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | RAILROAD ALASKA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746183&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | RAMY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746182&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | SAHIPLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746181&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | SAKLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746180&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | SAYGI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746179&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | SEN BEN O
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746178&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | SENORITA 89
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746177&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | SEYYAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746176&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | SIFIR BIR ADANA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746175&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | SOKAGIN COCUKLARI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746174&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | THE HANDMAID S.TALE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746173&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | THREE MEN FOUR WHEELS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746172&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | YALNIZIM MESUT BEY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746171&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | YESILCAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746170&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5F7pBYS/blutvzero.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TR BLUTV 7/24 | ZERO ZERO ZERO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=746169&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hLzV62v/exxenzeroone.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",EXXEN: KATARSIS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597527&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hLzV62v/exxenzeroone.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",EXXEN: KONUSANLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597526&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hLzV62v/exxenzeroone.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",EXXEN: LEYLA ILE MECNUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597525&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hLzV62v/exxenzeroone.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",EXXEN: SIHIRLI ANNEM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597524&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hLzV62v/exxenzeroone.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",EXXEN:  TOLGSHOW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597523&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/tube.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TUBE: ANIMI TARIH
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597522&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/tube.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TUBE: BARIS OZCAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597521&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/tube.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TUBE: EVRIM AGACI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597520&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/tube.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TUBE: GZT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597519&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/tube.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TUBE: KRONIK TARIH
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597518&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/tube.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",TUBE: SONER MURAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597517&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/GAINL.png" group-title="TR ✨ EXXEN ⁕ NETFLIX ⁕ BLUTV",GAIN: OYUNLAR HOLDGING
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=597516&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcrK3tM/Drama.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ DRAMA SALON 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553814&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcrK3tM/Drama.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ DRAMA SALON 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553813&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcrK3tM/Drama.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ DRAMA SALON 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553812&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qB0yMtJ/aksiyon.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ AKSIYON SALON 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553811&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qB0yMtJ/aksiyon.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ AKSIYON SALON 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553810&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qB0yMtJ/aksiyon.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ AKSIYON SALON 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553809&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ KOMEDI SALON 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553808&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ KOMEDI SALON 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553807&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ KOMEDI SALON 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553806&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ KOMEDI SALON 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553805&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ KOMEDI SALON 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553804&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z6ryDpz/aksiyon.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ KOMEDI SALON 6
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553803&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pt5pjHX/Korku.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ KORKU SALON 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553802&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hs7v0kp/Romantik.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 | YERLİ ROMANTIK SALON 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553801&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 EFSANE 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553800&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 EFSANE 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553799&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 EFSANE 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553798&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILM 7/24 EFSANE 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553797&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILIM 7/24 JACKIE CHAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553796&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILIM 7/24 JAMES BOND
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553795&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILIM 7/24 TOM CRUISE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553794&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILIM 7/24 HOBBIT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553793&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILIM 7/24 ORUMCEK ADAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553792&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="TR ✨ 7/24 FILM SPECIALBOX",FILIM 7/24 RECEP IVEDIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553791&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BOZKIR ARSLANI CELALEDDIN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553789&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ADA MASALI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553788&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",AZIZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553787&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BIR ZAMANLAR KIBRIS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553786&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ASK MANTIK INTIKAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553785&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",FATMA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553784&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BARAJ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553783&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DOGDUGUN EV KADERINDIR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553782&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",HEKIMOGLU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553781&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MARIA ILE MUSTAFA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553780&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BAHT OYUNU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553779&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KALK GIDELIM EVE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553778&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BIR ZAMANLAR CUKUROVA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553777&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KUZEY YILDIZI ILK ASK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553776&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MASUMLAR APARTMANI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553775&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KIRMIZI ODA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553774&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",CUKUR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553773&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",RAMO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553772&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MENAJERIMI ARA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553771&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",TOVBELER OLSUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553770&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SEN CAL KAPIMI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553769&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",UYANIS BUYUK SELCUKLU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553768&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",TOZKOPARAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553767&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MUCIZE DOKTOR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553766&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SEFIRIN KIZI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553765&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",AH NEREDE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553764&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ADI SEVGI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553763&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",AKINCI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553762&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",AKREP
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553761&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ALEV ALEV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553760&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ALI AYSEYI SEVIYOR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553759&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ANNENIN SIRRIDIR COCUK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553758&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ASK LAFTAN ANLAMAZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553757&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ASK YENIDEN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553756&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ASLAN AILEM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553755&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",AVLU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553754&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BABA OCAGI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553753&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BABIL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553752&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BANA SEVMEYI ANLAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553751&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BARBAROSLAR  AKDENIZIN KILICI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553750&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BENI BOYLE SEV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553749&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BIR ANNENIN GUNAHI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553748&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BUYUK VURGUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553747&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",CATI KATI ASK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553746&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",CILEK KOKUSU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553745&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",CUMHURIYET
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553744&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DILA HANIM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553743&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ERKENCI KUS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553742&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ESKIYA DUNYAYA HUKUMDAR OLMAZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553741&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",EV YAPIMI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553740&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",EVLILIK HAKKINDA HERSEY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553739&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",FATMAGULUN SUCU NE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553738&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GEL DESE ASK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553737&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GENCLIGIM EYVAH
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553736&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GIZLI SAKLI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553735&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GUL MASALİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553734&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GULUMSE KADERINE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553733&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GUVERCIN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553732&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",HAKIM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553731&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",HISSELI HARIKALAR KUMPANYASI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553730&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",HIZMETCILER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553729&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ICERDE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553728&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",IFFET
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553727&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ISIMSIZLER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553726&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ISLER GUCLER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553725&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",IYI GUNDE KOTU GUNDE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553724&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KAFA DOKTORU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553723&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KANUNSUZ TOPRAKLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553722&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KARA TAHTA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553721&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KARDES PAYI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553720&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KAVANOZDAKİ ADAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553719&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KEFARET
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553718&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KIRALIK ASK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553717&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KURULUS OSMANCIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553716&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KUSURSUZ KIRACI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553715&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",LUKUS HAYAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553714&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MUHTESEM IKILI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553713&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MUKEMMEL ESLESME
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553712&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",OGLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553711&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",OGRETMEN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553710&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",PARMAK DAMGASI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553709&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",RUZGARIN KALBI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553708&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SAMPIYON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553707&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SANA SOZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553706&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SEDDULBAHIR 32.SAAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553705&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SENI KENDIME SAKLADIM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553704&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SEREF SOZU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553703&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SEVMEK ZAMANI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553702&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SIYAH BEYAZ ASK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553701&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SON NEFESIME KADAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553700&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIRILIS ERTUGRUL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553699&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",EZEL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553698&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",HERCAI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553697&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ISTANBULLU GELIN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553696&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KADIN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553695&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KALK GIDELIM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553694&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KARA SEVDA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553693&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KIRMIZI KAMYON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553692&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KUZEY GUNEY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553691&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KUZGUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553690&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",LALE DEVRI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553689&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MAHKUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553688&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MEDCEZIR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553687&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MUHTESEM YUZYIL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553686&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MUHTESEM YUZYIL KOSEM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553685&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",PAPATYAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553684&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",POYRAZ KARAYEL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553683&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SADAKATSIZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553682&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SEN ANLAT KARADENIZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553681&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SEVERSIN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553680&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SON YAZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553679&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",TURKMEN DUGUNU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553678&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",TUTUNAMAYANLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553677&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",UC ISTANBUL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553676&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",UC KURUS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553675&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ULAN ISTANBUL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553674&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",VATANIM SENSİN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553673&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",VURGUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553672&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YA ISTIKLAL YA OLUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553671&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YAHSI CAZIBE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553670&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YENIDEN DOGMAK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553669&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YEDITEPE ISTANBUL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553668&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YENI HAYAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553667&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ALMAN KUZUSU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553666&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ANKARANIN DIKMENI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553665&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ASI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553664&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BAHAR DALLARI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553663&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",CESUR VE GUZEL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553662&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ESREF SAATI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553661&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",PERIHAN ABLA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553660&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SEVDALUK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553659&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SUBAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553658&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ZALIM ISTANBUL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553657&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ZUMDURDUANKA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553656&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GURBET KADINI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553655&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ADINI FERIHA KOYDUM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553654&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ALDATMAK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553653&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BABA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553652&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BALKAN NINNISI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553651&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BEN BU CIHANA SIĞMAZAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553650&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BIR KUCUK GUN ISIGI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553649&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BIR PERI MASALI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553648&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",COP ADAM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553647&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GUNESI BEKLERKEN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553646&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",LEYLA ILE MECNUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553645&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SAKARYA FIRAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553644&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SEVKAT YERIMDAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553643&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YABANCI DAMAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553642&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YAZLIKCILAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553641&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YESIL DENIZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553640&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YUNUS EMRE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553639&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YUZ YILLIK MUHUR GENC KAHRAMANLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553638&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YUZ YILLIK MUHUR KADIN KAHRAMANLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553637&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ALPARSLAN BUYUK SELCUKLU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553636&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",CAMDAKI KIZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553635&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DARMADUMAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553634&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DOGU DEMIRKOL ILE ALALADE SHOW
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553633&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GECENIN UCUNDA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553632&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GUZEL GUNLER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553631&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",IYILIK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553630&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KAPIMDAKI DEDEKTIF
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553629&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KASABA DOKTORU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553628&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",O KIZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553627&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",TOZLUYAKA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553626&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",TUZAK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553625&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",UC KIZ KARDES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553624&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YALI CAPKINI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553623&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YALNIZ KURT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553622&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",AILE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553621&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",AL SANCAK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553620&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BARBAROS HAYREDDIN SULTANIN FERMANI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553619&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BASIM BELADA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553618&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BENIM GUZEL AILEM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553617&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DOKUZ OGUZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553616&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DONENCE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553615&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ATES KUSLARI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553614&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",EGO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553613&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GONUL DAGI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553612&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GULCEMAL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553611&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",HAYATIMIN NESESİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553610&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KISMET
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553609&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KENDI DUSEN AGLAMAZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553608&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI", KRALICE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553607&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI", KIZILCIK SERBERTI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553606&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",HAYATIMIN SANSI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553605&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KARDESLERIM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553604&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KURULUS OSMAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553603&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MAVI SURGUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553602&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",OMER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553601&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",RUHUN DUYMAZ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553600&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SIPAHI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553599&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",TACSIZ PRENSES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553598&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",TESKILAT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553597&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",TETIKCININ OGLU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553596&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",UVEY ANNE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553595&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YA COK SEVERSEN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553594&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YARGI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553593&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YAZ SARKISI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553592&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YUREK CIKMAZI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553591&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",YUZ YILLIK MUCİZE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553590&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",VEDA MEKTUBU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553589&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SENDEN DAHA GUZEL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553588&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",BODRUM MASALI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553587&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",SIFIRINCI GUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553586&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",CENNET MAHALLESI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552889&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 TESKILAT SEZON 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552888&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 VIKINGLER
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552887&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 GAME OF THRONES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552886&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",CHICAGO P.D.
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552885&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 THE PROTECTOR [HAKAN MUHAFIZ]
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552884&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 TOLGSHOW FILTRESIZ [EXXEN]
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552883&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GULDUR GULDUR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552882&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 KONUSANLAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552881&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 KONUSANLAR YOU TUBE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552880&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 AILE SIRKETI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552879&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 BEHZAT C
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552878&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",CALIKUSU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552877&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 ARIZA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552876&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 COCUKLAR DUYMASIN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552875&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 CUKUR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552874&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 DIRILIS ERTUGRUL 1. SEZON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552873&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 DIRILIS ERTUGRUL 2. SEZON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552872&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 DIRILIS ERTUGRUL 3. SEZON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552871&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 DIRILIS ERTUGRUL 4. SEZON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552870&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 DIRILIS ERTUGRUL 5. SEZON
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552869&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 ICERDE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552868&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 MUHTESEM YUZYIL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552867&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 EZEL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552866&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",CICEK TAKSI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552865&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 ASK-I MEMNU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552864&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ASMALI KONAK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552863&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 BINBIR GECE
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552862&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 KURTLAR VADISI 1-150 BÖLÜM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552861&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DIZI 24/7 KURTLAR VADISI 151-300 BÖLÜM
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=552860&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",4K KEMAL SUNAL 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796948&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",4K KEMAL SUNAL 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796947&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",4K YESİLCAM 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796946&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",4K YESİLCAM 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796945&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",YESİLCAM TV
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796923&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",SİYAH BEYAZ YESİLCAM 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796925&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",SİYAH BEYAZ YESİLCAM 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796924&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",CUNEYİT ARKİN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796944&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",KADİR İNANİR HD
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796943&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TARİK AKAN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796942&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",ŞENER ŞEN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796941&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",SADRİ ALİSİK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796940&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",KARTAL TİPET
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796939&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",EDİZ HUN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796938&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TURKAN SORAY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796937&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FATMA GİRİK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796936&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FİLİZ AKİN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796935&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",HULYA KOCYİGİT
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796934&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",GÜLŞEN BİBİKOGLU
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796933&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",PERİHAN SAVAS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796932&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",HABABAM SİNİFİ
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796931&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",İBRAHİM TATLİSES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796930&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",YILMAZ GUNEY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796929&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FERDİ TAYFUR.
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796928&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",ORHAN GENCEBAY.
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796927&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",MÜSLÜM GÜRSES.
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=796926&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KURTLAR VADISI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=439816&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",EZEL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664269&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ÇUKUR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=440193&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",RAMO
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=439812&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KARA PARA AŞK
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=578558&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",ERKENCİ KUS
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664264&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",GADDAR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664267&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MEDCEZİR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664265&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",DİRİLİS ERTUGRUL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664271&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",KARA DAYI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664268&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60RchYSk/6895fbcc8c6b79125801fa40.png" group-title="TR ✨ Z1 DIZI YERLI",MUHTESEM YÜZYİL
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=664266&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILIM 24/7 KEMAL SUNAL 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553830&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILIM 24/7 KEMAL SUNAL 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553829&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILIM 24/7 KEMAL SUNAL 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553828&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILIM 24/7 KEMAL SUNAL 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553827&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 ZEKI VE METIN
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553826&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 KADIR INANIR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553825&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILIM 7/24 CUNEYT ARKIN 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553818&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILIM 7/24 CUNEYT ARKIN 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553817&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILIM 7/24 CUNEYT ARKIN 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553816&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 1 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768466&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 2 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768465&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 3 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768464&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 4 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768463&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 5 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768462&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 6 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768461&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 7 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768460&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 8 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768459&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 9 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768458&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 10 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768457&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 11 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768456&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 12 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768455&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 13 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768454&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 14 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768453&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 15 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768452&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 16 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768451&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 17 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768450&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 18 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768449&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 19 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768448&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",TR: ZERO YESİLCAM 20 FHD 7/24
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=768447&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM TURKAN SORAY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553859&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM TURKAN SORAY 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553858&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM KEMAL SUNAL USTA
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553857&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM KEMAL SUNAL USTA 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553856&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM KEMAL SUNAL USTA 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553855&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM KEMAL SUNAL USTA 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553854&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM KEMAL SUNAL USTA 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553853&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM CUNEYT ARKIN 1
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553852&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM CUNEYT ARKIN 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553851&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM CUNEYT ARKIN 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553850&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM CUNEYT ARKIN 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553849&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM CUNEYT ARKIN 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553848&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM CUNEYT ARKIN 6
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553847&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM CUNEYT ARKIN 7
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553846&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM CUNEYT ARKIN 8
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553845&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM CUNEYT ARKIN 9
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553844&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM CUNEYT ARKIN 10
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553843&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM ZEKI VE METIN 
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553842&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM FERDI TAYFUR
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553841&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM YILMAZ GUNEY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553840&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM ORHAN GENCEBAY
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553839&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM IBRAHIM TATLISES
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553838&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM SOKAGI
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553837&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM SOKAGI 2
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553836&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM SOKAGI 3
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553835&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM SOKAGI 4
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553834&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM SOKAGI 5
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553833&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM SOKAGI 6
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553832&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM SOKAGI 7
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553831&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",YESILCAM 7/24 NOSTALJI 1 [SIYAH BEYAZ]
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553824&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",YESILCAM 7/24 NOSTALJI 2 [SIYAH BEYAZ]
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553823&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",YESILCAM 7/24 NOSTALJI 3 [SIYAH BEYAZ]
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553822&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",YESILCAM 7/24 NOSTALJI 4 [SIYAH BEYAZ]
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553821&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",YESILCAM 7/24 NOSTALJI 5 [SIYAH BEYAZ]
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553820&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",YESILCAM 7/24 NOSTALJI 6 [SIYAH BEYAZ]
+http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553819&extension=ts
