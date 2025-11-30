@@ -3363,5 +3363,1719 @@ http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553833&
 http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553832&extension=ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PsCn2zC2/6895f80c8315be2b8a01fe15.png" group-title="TR ✨ Z1 YESILCAM",FILM 7/24 | YESİLCAM SOKAGI 7
 http://firstclass007.com:8080/play/live.php?mac=00:1A:79:42:DE:06&stream=553831&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="------| Müşteri Bilgilendirme |------" tvg-logo="http://logo.cdnlop.com/logotv/606.png" group-title="TR • Ulusal",------| Müşteri Bilgilendirme |------
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1893.ts
+#EXTINF:-1 tvg-id="" tvg-name="Şömine Channel HD" tvg-logo="https://i.hizliresim.com/lzf0p4j.png" group-title="TR • Ulusal",Şömine Channel HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/211664.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT 4K" tvg-logo="http://logo1010.com/news/trt1-hd.png" group-title="TR • Ulusal",TRT 4K
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/297607.ts
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TRT 1 UHD" tvg-logo="http://logo1010.com/news/trt1-hd.png" group-title=" TR • Ulusal Favori",TRT 1 UHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/315023.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="Trt 1 HD" tvg-logo="http://logo1010.com/news/trt1-hd.png" group-title="TR • Ulusal",Trt 1 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/798.ts
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="Trt 1 FHD" tvg-logo="http://logo1010.com/news/trt1-fhd.png" group-title="TR • Ulusal",Trt 1 FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/700.ts
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="Atv UHD" tvg-logo="http://logo1010.com/news/atv-hd.png" group-title=" TR • Ulusal Favori",Atv UHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/315024.ts
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="Atv HD" tvg-logo="http://logo1010.com/news/atv-hd.png" group-title="TR • Ulusal",Atv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/793.ts
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="Atv FHD" tvg-logo="http://logo1010.com/news/atv-fhd.png" group-title="TR • Ulusal",Atv FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/703.ts
+#EXTINF:-1 tvg-id="" tvg-name="Atv Euro HD" tvg-logo="http://logo1010.com/news/atveuro-hd.png" group-title="TR • Ulusal",Atv Euro HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/4939.ts
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D UHD" tvg-logo="http://logo1010.com/news/kanald-hd.png" group-title=" TR • Ulusal Favori",Kanal D UHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/315026.ts
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D HD" tvg-logo="http://logo1010.com/news/kanald-hd.png" group-title="TR • Ulusal",Kanal D HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/791.ts
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="Kanal D FHD" tvg-logo="http://logo1010.com/news/kanald-fhd.png" group-title="TR • Ulusal",Kanal D FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/714.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Euro HD" tvg-logo="http://logo1010.com/news/eurod-hd.png" group-title="TR • Ulusal",Kanal D Euro HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/4940.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Now UHD" tvg-logo="http://logo1010.com/news/fox-hd.png" group-title=" TR • Ulusal Favori",Now UHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/315027.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Now HD" tvg-logo="http://logo1010.com/news/fox-hd.png" group-title="TR • Ulusal",Now HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/794.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Now Tv FHD" tvg-logo="http://logo1010.com/news/fox-fhd.png" group-title="TR • Ulusal",Now Tv FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/709.ts
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV UHD" tvg-logo="http://logo1010.com/news/startv-hd.png" group-title=" TR • Ulusal Favori",Star TV UHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/315028.ts
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV HD" tvg-logo="http://logo1010.com/news/startv-hd.png" group-title="TR • Ulusal",Star TV HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/796.ts
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV FHD" tvg-logo="http://logo1010.com/news/startv-fhd.png" group-title="TR • Ulusal",Star TV FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Tv Euro HD" tvg-logo="http://logo1010.com/news/staruero-hd.png" group-title="TR • Ulusal",Star Tv Euro HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/4942.ts
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV UHD" tvg-logo="http://logo1010.com/news/showtv-hd.png" group-title=" TR • Ulusal Favori",Show TV UHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/315025.ts
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV HD" tvg-logo="http://logo1010.com/news/showtv-hd.png" group-title="TR • Ulusal",Show TV HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/795.ts
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV FHD" tvg-logo="http://logo1010.com/news/showtv-fhd.png" group-title="TR • Ulusal",Show TV FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/719.ts
+#EXTINF:-1 tvg-id="" tvg-name="Show Tv Euro HD" tvg-logo="https://logo1010.com/news/showtv-hd.png" group-title="TR • Ulusal",Show Tv Euro HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/4941.ts
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="Showmax HD" tvg-logo="http://logo1010.com/news/showturk.png" group-title="TR • Ulusal",Showmax HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/129789.ts
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="Tv8 UHD" tvg-logo="http://logo1010.com/news/tv8-hd.png" group-title=" TR • Ulusal Favori",Tv8 UHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/315029.ts
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV 8 HD" tvg-logo="http://logo1010.com/news/tv8-hd.png" group-title="TR • Ulusal",TV 8 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/799.ts
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="Tv 8 FHD" tvg-logo="http://logo1010.com/news/tv8-fhd.png" group-title="TR • Ulusal",Tv 8 FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/790.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV8 Int HD" tvg-logo="http://logo1010.com/news/tv8int-hd.png" group-title="TR • Ulusal",TV8 Int HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/154057.ts
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="A2 HD" tvg-logo="http://logo1010.com/news/a2-hd.png" group-title="TR • Ulusal",A2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/726.ts
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="Trt 2 HD" tvg-logo="http://logo1010.com/cdn/ulusal/trt2.png" group-title="TR • Ulusal",Trt 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/787.ts
+#EXTINF:-1 tvg-id="trtkurdi.tr" tvg-name="Trt Kurdi " tvg-logo="http://logo1010.com/news/trtkurdi.png" group-title="TR • Ulusal",Trt Kurdi 
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/694.ts
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="Trt Turk HD" tvg-logo="http://logo1010.com/news/trtturk-hd.png" group-title="TR • Ulusal",Trt Turk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/12774.ts
+#EXTINF:-1 tvg-id="trtworld.tr" tvg-name="Trt World HD" tvg-logo="http://logo1010.com/logo/trt_world_tr.png" group-title="TR • Ulusal",Trt World HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/12775.ts
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TRT Avaz" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/20141021/001300/001300000008656366/246d093a-0765-407d-8f0f-4bb3155ec76e.png" group-title="TR • Ulusal",TRT Avaz
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/129766.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Trt Arabi HD" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202102/20210225/18/20210225083638126hdx_op_0_XL.png" group-title="TR • Ulusal",Trt Arabi HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/167562.ts
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="Teve 2 HD" tvg-logo="http://logo1010.com/news/teve2-hd.png" group-title="TR • Ulusal",Teve 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/669.ts
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="Beyaz TV HD" tvg-logo="http://logo1010.com/news/beyaztv-hd.png" group-title="TR • Ulusal",Beyaz TV HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/693.ts
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="Kanal 7 HD" tvg-logo="http://logo1010.com/news/kanal7-hd.png" group-title="TR • Ulusal",Kanal 7 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 7 Avrupa HD" tvg-logo="http://logo1010.com/logo/kanal7_avrupa.png" group-title="TR • Ulusal",Kanal 7 Avrupa HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/129788.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Tgrt EU HD" tvg-logo="http://logo1010.com/news/tgrteu-hd.png" group-title="TR • Ulusal",Tgrt EU HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/212247.ts
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="Trt Eba Tv" tvg-logo="http://logo1010.com/logo/trt_okul.png" group-title="TR • Ulusal",Trt Eba Tv
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/88681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="http://logo1010.com/ens/images2.png" group-title="TR • Ulusal",Fashion TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/297521.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT EBA" tvg-logo="http://logo1010.com/ens/images1.png" group-title="TR • Ulusal",TRT EBA
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivilife" tvg-logo="http://logo1010.com/yutube/tivilife-logo.png" group-title="TR • Ulusal",Tivilife
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330743.ts
+#EXTINF:-1 tvg-id="" tvg-name="------| Yöresel Kanallar |------" tvg-logo="http://logo.cdnlop.com/logotv/606.png" group-title="TR • Yöresel Kanallar",------| Yöresel Kanallar |------
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/166712.ts
+#EXTINF:-1 tvg-id="" tvg-name="TARIM ORMAN EKRANI HD" tvg-logo="http://logo1010.com/ens/17.png" group-title="TR • Yöresel Kanallar",TARIM ORMAN EKRANI HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/297522.ts
+#EXTINF:-1 tvg-id="" tvg-name="AS TV BURSA" tvg-logo="http://logo1010.com/ens/15.png" group-title="TR • Yöresel Kanallar",AS TV BURSA
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/297524.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEK RUMELI TV" tvg-logo="http://logo1010.com/ens/14.png" group-title="TR • Yöresel Kanallar",TEK RUMELI TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/297525.ts
+#EXTINF:-1 tvg-id="" tvg-name="Akıllı TV" tvg-logo="http://logo1010.com/ens/5.png" group-title="TR • Yöresel Kanallar",Akıllı TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298059.ts
+#EXTINF:-1 tvg-id="" tvg-name="GZT HD" tvg-logo="http://logo1010.com/ens/13.png" group-title="TR • Yöresel Kanallar",GZT HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/297526.ts
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV" tvg-logo="http://logo1010.com/ens/12.png" group-title="TR • Yöresel Kanallar",AGRO TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/297527.ts
+#EXTINF:-1 tvg-id="" tvg-name="Çay Tv SD" tvg-logo="http://logo1010.com/logo/kanal_cay_tr.png" group-title="TR • Yöresel Kanallar",Çay Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/801.ts
+#EXTINF:-1 tvg-id="kontv.tr" tvg-name="Kon Tv SD" tvg-logo="http://logo1010.com/lg/kontv.png" group-title="TR • Yöresel Kanallar",Kon Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/4938.ts
+#EXTINF:-1 tvg-id="" tvg-name="Edessa Tv SD" tvg-logo="http://logo1010.com/logo/edessa_tv_tr.png" group-title="TR • Yöresel Kanallar",Edessa Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/55088.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal V SD" tvg-logo="http://logo1010.com/logo/kanal_v_tr.png" group-title="TR • Yöresel Kanallar",Kanal V SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/55090.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mavi Karadeniz Tv SD" tvg-logo="http://logo1010.com/logo/mavi_karadeniz.png" group-title="TR • Yöresel Kanallar",Mavi Karadeniz Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/56085.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 42 SD" tvg-logo="http://logo1010.com/lg/kanal42.png" group-title="TR • Yöresel Kanallar",Kanal 42 SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/88501.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv 264 SD" tvg-logo="http://logo1010.com/cdn/yoresel/tv264.png" group-title="TR • Yöresel Kanallar",Tv 264 SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124516.ts
+#EXTINF:-1 tvg-id="" tvg-name="EGEMAX TV" tvg-logo="http://logo1010.com/news/egemax.png" group-title="TR • Yöresel Kanallar",EGEMAX TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/301018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kadırga TV" tvg-logo="http://logo1010.com/news/kadirga.png" group-title="TR • Yöresel Kanallar",Kadırga TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300916.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ordu Altaş Tv SD" tvg-logo="http://logo1010.com/lg/ordualtastv.png" group-title="TR • Yöresel Kanallar",Ordu Altaş Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Er Tv SD" tvg-logo="http://logo1010.com/cdn/yoresel/ertv.png" group-title="TR • Yöresel Kanallar",Er Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124524.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Kayseri SD" tvg-logo="http://logo1010.com/cdn/yoresel/tvkayseri.png" group-title="TR • Yöresel Kanallar",Tv Kayseri SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124527.ts
+#EXTINF:-1 tvg-id="" tvg-name="GURBET 24" tvg-logo="http://logo1010.com/ens/18.png" group-title="TR • Yöresel Kanallar",GURBET 24
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/293180.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Fırat SD" tvg-logo="http://logo1010.com/cdn/yoresel/kanalfirat.png" group-title="TR • Yöresel Kanallar",Kanal Fırat SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124528.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeni Kocaeli Tv SD" tvg-logo="http://logo1010.com/ens/31.png" group-title="TR • Yöresel Kanallar",Yeni Kocaeli Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Avrupa SD" tvg-logo="https://ipfs.io/ipfs/QmQP99yW82xNKPxXLroxj1rMYMGF6Grwjj2o4svsdmGh7S/out/I/m/Kanal_Avrupa_logosu.png" group-title="TR • Yöresel Kanallar",Kanal Avrupa SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124534.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tempo Tv SD" tvg-logo="http://logo1010.com/cdn/yoresel/tempotv.png" group-title="TR • Yöresel Kanallar",Tempo Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv 52 SD" tvg-logo="http://logo1010.com/cdn/yoresel/tv52-yeni.png" group-title="TR • Yöresel Kanallar",Tv 52 SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal Urfa SD" tvg-logo="http://logo1010.com/cdn/yoresel/kanalurfa.png" group-title="TR • Yöresel Kanallar",Kanal Urfa SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Line Tv SD" tvg-logo="http://logo1010.com/logo/line_tv_tr.png" group-title="TR • Yöresel Kanallar",Line Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 3 SD" tvg-logo="http://logo1010.com/ens/30.png" group-title="TR • Yöresel Kanallar",Kanal 3 SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Köy Tv SD" tvg-logo="http://logo1010.com/lg/koytv.png" group-title="TR • Yöresel Kanallar",Köy Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124545.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rumeli TV" tvg-logo="http://logo1010.com/lg/rumelitv.png" group-title="TR • Yöresel Kanallar",Rumeli TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/129763.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kardelen TV" tvg-logo="http://logo1010.com/cdn/yoresel/kardelentv.png" group-title="TR • Yöresel Kanallar",Kardelen TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/129764.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anadolu Dernek TV" tvg-logo="http://logo1010.com/ens/29.png" group-title="TR • Yöresel Kanallar",Anadolu Dernek TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/129765.ts
+#EXTINF:-1 tvg-id="" tvg-name="Güneydoğu TV" tvg-logo="http://logo1010.com/ens/28.png" group-title="TR • Yöresel Kanallar",Güneydoğu TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/154060.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL EGE" tvg-logo="http://logo1010.com/ens/6.png" group-title="TR • Yöresel Kanallar",KANAL EGE
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298017.ts
+#EXTINF:-1 tvg-id="" tvg-name="Freedom" tvg-logo="http://logo1010.com/ens/11.png" group-title="TR • Yöresel Kanallar",Freedom
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298010.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bir TV" tvg-logo="http://logo1010.com/ens/10.png" group-title="TR • Yöresel Kanallar",Bir TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298011.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ege TV" tvg-logo="http://logo1010.com/ens/9.png" group-title="TR • Yöresel Kanallar",Ege TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298012.ts
+#EXTINF:-1 tvg-id="" tvg-name="Koza TV" tvg-logo="http://logo1010.com/ens/8.png" group-title="TR • Yöresel Kanallar",Koza TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Engelsiz TV" tvg-logo="http://logo1010.com/ens/7.png" group-title="TR • Yöresel Kanallar",Engelsiz TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298014.ts
+#EXTINF:-1 tvg-id="" tvg-name="Es TV" tvg-logo="http://logo1010.com/lg/estv.png" group-title="TR • Yöresel Kanallar",Es TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/154061.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aksu Tv SD" tvg-logo="http://logo1010.com/lg/aksutv.png" group-title="TR • Yöresel Kanallar",Aksu Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/167566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ekintürk Tv SD" tvg-logo="http://logo1010.com/ens/38.png" group-title="TR • Yöresel Kanallar",Ekintürk Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/167569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 15 SD" tvg-logo="http://logo1010.com/lg/kanal15.png" group-title="TR • Yöresel Kanallar",Kanal 15 SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/167573.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 32 SD" tvg-logo="http://logo1010.com/ens/27.png" group-title="TR • Yöresel Kanallar",Kanal 32 SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/167574.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 33 SD" tvg-logo="http://logo1010.com/lg/kanal33.png" group-title="TR • Yöresel Kanallar",Kanal 33 SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/167575.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mercan Tv SD" tvg-logo="http://logo1010.com/lg/mercantv.png" group-title="TR • Yöresel Kanallar",Mercan Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/167578.ts
+#EXTINF:-1 tvg-id="" tvg-name="OBB TV" tvg-logo="http://logo1010.com/ens/25.png" group-title="TR • Yöresel Kanallar",OBB TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/213183.ts
+#EXTINF:-1 tvg-id="" tvg-name="Grt Tv HD" tvg-logo="http://logo1010.com/lg/grttv.png" group-title="TR • Yöresel Kanallar",Grt Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216355.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zarok Tv HD" tvg-logo="http://logo1010.com/lg/zarok.jpg" group-title="TR • Yöresel Kanallar",Zarok Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216360.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal B HD" tvg-logo="http://logo1010.com/lg/kanalb.png" group-title="TR • Yöresel Kanallar",Kanal B HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivi 6 HD" tvg-logo="http://logo1010.com/lg/tivi6.png" group-title="TR • Yöresel Kanallar",Tivi 6 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216370.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv 1 HD" tvg-logo="http://logo1010.com/lg/tv1.png" group-title="TR • Yöresel Kanallar",Tv 1 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216372.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brtv Karadeniz HD" tvg-logo="http://logo1010.com/ens/22.png" group-title="TR • Yöresel Kanallar",Brtv Karadeniz HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216374.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 58 HD" tvg-logo="http://logo1010.com/ens/21.png" group-title="TR • Yöresel Kanallar",Kanal 58 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sunr Tv HD" tvg-logo="http://logo1010.com/lg/sunrtv.png" group-title="TR • Yöresel Kanallar",Sunr Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216378.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yıldız Tv HD" tvg-logo="http://logo1010.com/lg/yildiztv.png" group-title="TR • Yöresel Kanallar",Yıldız Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216379.ts
+#EXTINF:-1 tvg-id="" tvg-name="Diyar Tv HD" tvg-logo="http://logo1010.com/lg/diyartv.png" group-title="TR • Yöresel Kanallar",Diyar Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216381.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv 2020 SD" tvg-logo="http://logo1010.com/lg/tv2020.png" group-title="TR • Yöresel Kanallar",Tv 2020 SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/236531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Luys Tv SD" tvg-logo="http://logo1010.com/ens/20.png" group-title="TR • Yöresel Kanallar",Luys Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/236533.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Den SD" tvg-logo="http://logo1010.com/lg/tvden.png" group-title="TR • Yöresel Kanallar",Tv Den SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/236542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 7 Türk SD" tvg-logo="http://logo1010.com/lg/sat7turk.png" group-title="TR • Yöresel Kanallar",Sat 7 Türk SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/236543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Malatya Vuslat Tv SD" tvg-logo="http://logo1010.com/lg/malatyavuslat.png" group-title="TR • Yöresel Kanallar",Malatya Vuslat Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/236544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Br Tv Anadolu SD" tvg-logo="http://logo1010.com/ens/19.png" group-title="TR • Yöresel Kanallar",Br Tv Anadolu SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/236545.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bir Tv SD" tvg-logo="http://logo1010.com/lg/birtv.png" group-title="TR • Yöresel Kanallar",Bir Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/236546.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine 1 HD" tvg-logo="https://canlitv.center/channels/cine-1.png" group-title="TR • Yöresel Kanallar",Cine 1 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/245882.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gözde Tv HD" tvg-logo="http://logo1010.com/ens/images4.png" group-title="TR • Yöresel Kanallar",Gözde Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/245887.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hrt Akdeniz Tv SD" tvg-logo="http://logo1010.com/lg/hrtakdeniztv.png" group-title="TR • Yöresel Kanallar",Hrt Akdeniz Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/245888.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bartın TV" tvg-logo="" group-title="TR • Yöresel Kanallar",Bartın TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/247045.ts
+#EXTINF:-1 tvg-id="" tvg-name="1 Ordu TV" tvg-logo="http://logo1010.com/lg/ordutv.png" group-title="TR • Yöresel Kanallar",1 Ordu TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/261467.ts
+#EXTINF:-1 tvg-id="" tvg-name="------| Dini Kanallar |------" tvg-logo="http://logo.cdnlop.com/logotv/606.png" group-title="TR • Dini Kanallar",------| Dini Kanallar |------
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/167841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vav Tv HD" tvg-logo="http://logo1010.com/ens/303.png" group-title="TR • Dini Kanallar",Vav Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/169852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah SD" tvg-logo="http://logo1010.com/ens/302.png" group-title="TR • Dini Kanallar",Saudi Sunnah SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/169872.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kabe(Canlı) AL Quran SD" tvg-logo="http://logo1010.com/lg/kabetv.png" group-title="TR • Dini Kanallar",Kabe(Canlı) AL Quran SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/169873.ts
+#EXTINF:-1 tvg-id="" tvg-name="On 4 Tv SD" tvg-logo="http://logo1010.com/ens/305.png" group-title="TR • Dini Kanallar",On 4 Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/88391.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lalegül Tv SD" tvg-logo="http://logo1010.com/lg/lalegultv.png" group-title="TR • Dini Kanallar",Lalegül Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/35325.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dost Tv SD" tvg-logo="http://logo1010.com/ens/306.png" group-title="TR • Dini Kanallar",Dost Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/35326.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fm Tv SD" tvg-logo="http://logo1010.com/lg/fmtv.png" group-title="TR • Yöresel Kanallar",Fm Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124522.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rehber Tv SD" tvg-logo="http://logo1010.com/ens/304.png" group-title="TR • Dini Kanallar",Rehber Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/167581.ts
+#EXTINF:-1 tvg-id="" tvg-name="Akit Tv HD" tvg-logo="http://logo1010.com/logo/akit_tv_tr.png" group-title="TR • Dini Kanallar",Akit Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/129747.ts
+#EXTINF:-1 tvg-id="trtdiyanet.tr" tvg-name="Trt Diyanet SD" tvg-logo="http://logo1010.com/logo/trt_diyanet_tr_risalet_radyo.png" group-title="TR • Dini Kanallar",Trt Diyanet SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/12772.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL Zahra TV" tvg-logo="http://logo1010.com/news/alzahra.png" group-title="TR • Dini Kanallar",AL Zahra TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300915.ts
+#EXTINF:-1 tvg-id="" tvg-name="Meltem Tv SD" tvg-logo="http://logo1010.com/ens/26.png" group-title="TR • Yöresel Kanallar",Meltem Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/167842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kur'an-ı Kerim Tamamı" tvg-logo="http://logo1010.com/ens/301.png" group-title="TR • Dini Kanallar",Kur'an-ı Kerim Tamamı
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276229.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dini Filmler 1" tvg-logo="http://logo1010.com/ens/293.png" group-title="TR • Dini Kanallar",Dini Filmler 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276230.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dini Filmler 2" tvg-logo="http://logo1010.com/ens/293.png" group-title="TR • Dini Kanallar",Dini Filmler 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276231.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dini Filmler 3" tvg-logo="http://logo1010.com/ens/293.png" group-title="TR • Dini Kanallar",Dini Filmler 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276232.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dini Çizgi Film" tvg-logo="http://logo1010.com/ens/293.png" group-title="TR • Dini Kanallar",Dini Çizgi Film
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276233.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dini Hikayeler" tvg-logo="http://logo1010.com/ens/293.png" group-title="TR • Dini Kanallar",Dini Hikayeler
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evliyalar" tvg-logo="http://logo1010.com/ens/300.png" group-title="TR • Dini Kanallar",Evliyalar
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276235.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hz. Meryem" tvg-logo="http://logo1010.com/ens/299.png" group-title="TR • Dini Kanallar",Hz. Meryem
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hz. Ömer" tvg-logo="http://logo1010.com/ens/298.png" group-title="TR • Dini Kanallar",Hz. Ömer
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276237.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hz. Yusuf" tvg-logo="http://logo1010.com/ens/297.png" group-title="TR • Dini Kanallar",Hz. Yusuf
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276238.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sırlar Dünyası" tvg-logo="http://logo1010.com/ens/296.png" group-title="TR • Dini Kanallar",Sırlar Dünyası
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Büyük Buluşma" tvg-logo="http://logo1010.com/ens/295.png" group-title="TR • Dini Kanallar",Büyük Buluşma
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kalp Gözü 1" tvg-logo="http://logo1010.com/ens/294.png" group-title="TR • Dini Kanallar",Kalp Gözü 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kalp Gözü 2" tvg-logo="http://logo1010.com/ens/294.png" group-title="TR • Dini Kanallar",Kalp Gözü 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276243.ts
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="------| Spor |------⚽️" tvg-logo="http://logo.cdnlop.com/logotv/606.png" group-title="TR • Spor / Dsmart⚽️",------| Spor |------⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1889.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 HD⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • beIN Sports⚽️",beIN Sports 1 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/295496.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beIN Sports 1 720p [ 1000KB ]⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • beIN Sports⚽️",beIN Sports 1 720p [ 1000KB ]⚽️
+http://cd1.flson-cdn.com/b12a-s2x3s1000kc-e.x./video.m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 576p⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • beIN Sports⚽️",beIN Sports 1 576p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/4521.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 360p⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • beIN Sports⚽️",beIN Sports 1 360p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/274677.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • beIN Sports⚽️",beIN Sports 1 1080p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/295495.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 H.265(Hevc)⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • beIN Sports⚽️",beIN Sports 1 H.265(Hevc)⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/204799.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN Sports 1 4K⚽️" tvg-logo="http://logo1010.com/news/bein-1.png" group-title="TR • beIN Sports⚽️",beIN Sports 1 4K⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/274676.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN Sports 2 720p⚽️" tvg-logo="http://logo1010.com/news/bein-2.png" group-title="TR • beIN Sports⚽️",beIN Sports 2 720p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/824.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN Sports 2 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-2.png" group-title="TR • beIN Sports⚽️",beIN Sports 2 1080p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/9368.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN Sports 3 720p⚽️" tvg-logo="http://logo1010.com/news/bein-3.png" group-title="TR • beIN Sports⚽️",beIN Sports 3 720p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/823.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN Sports 3 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-3.png" group-title="TR • beIN Sports⚽️",beIN Sports 3 1080p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/9369.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN Sports 4 720p⚽️" tvg-logo="http://logo1010.com/news/bein-4.png" group-title="TR • beIN Sports⚽️",beIN Sports 4 720p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/822.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN Sports 4 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-4.png" group-title="TR • beIN Sports⚽️",beIN Sports 4 1080p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/20835.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beIN Sports 5 720p⚽️" tvg-logo="http://logo1010.com/news/bein-5.png" group-title="TR • beIN Sports⚽️",beIN Sports 5 720p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/228858.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="beIN Sports 5 1080p⚽️" tvg-logo="http://logo1010.com/news/bein-5.png" group-title="TR • beIN Sports⚽️",beIN Sports 5 1080p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/229231.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN Sports Max 1 720p⚽️" tvg-logo="http://logo1010.com/news/bsmax-1.png" group-title="TR • beIN Sports⚽️",beIN Sports Max 1 720p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/820.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN Sports Max 1 1080p⚽️" tvg-logo="http://logo1010.com/news/bsmax-1.png" group-title="TR • beIN Sports⚽️",beIN Sports Max 1 1080p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/229232.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN Sports Max 2 720p⚽️" tvg-logo="http://logo1010.com/news/bsmax-2.png" group-title="TR • beIN Sports⚽️",beIN Sports Max 2 720p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/821.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN Sports Max 2 1080p⚽️" tvg-logo="http://logo1010.com/news/bsmax-2.png" group-title="TR • beIN Sports⚽️",beIN Sports Max 2 1080p⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/229233.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽️Bein-Connect-1" tvg-logo="http://logo1010.com/ens/unnamed.png" group-title="TR • beIN Sports⚽️",⚽️Bein-Connect-1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/169221.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽️Bein-Connect-2" tvg-logo="http://logo1010.com/ens/unnamed.png" group-title="TR • beIN Sports⚽️",⚽️Bein-Connect-2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/169222.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽️Bein-Connect-3" tvg-logo="http://logo1010.com/ens/unnamed.png" group-title="TR • beIN Sports⚽️",⚽️Bein-Connect-3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/169223.ts
+#EXTINF:-1 tvg-id="" tvg-name="⚽️Bein-Connect-4" tvg-logo="http://logo1010.com/ens/unnamed.png" group-title="TR • beIN Sports⚽️",⚽️Bein-Connect-4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/169224.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="Trt Spor FHD⚽️" tvg-logo="http://logo1010.com/news/trtspor-fhd.png" group-title="TR • Spor / Dsmart⚽️",Trt Spor FHD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/166710.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="Trt Spor HD⚽️" tvg-logo="http://logo1010.com/news/trtspor-hd.png" group-title="TR • Spor / Dsmart⚽️",Trt Spor HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/690.ts
+#EXTINF:-1 tvg-id="trt3sporttbmm.tr" tvg-name="Trt 3 Spor HD⚽️" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202201/20220110/78/20220110135426898oyk_op_0_XL.png" group-title="TR • Spor / Dsmart⚽️",Trt 3 Spor HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/183755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Youtube Spor " tvg-logo="http://logo1010.com/yutube/youTube-logo.png" group-title="TR • Spor / Dsmart⚽️",Youtube Spor 
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330864.ts
+#EXTINF:-1 tvg-id="" tvg-name="Youtube Spor 1" tvg-logo="http://logo1010.com/yutube/youTube-logo.png" group-title="TR • Spor / Dsmart⚽️",Youtube Spor 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330876.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Trt Spor Yıldız HD⚽️" tvg-logo="http://logo1010.com/news/trty%C4%B1ld%C4%B1z-hd.png" group-title="TR • Spor / Dsmart⚽️",Trt Spor Yıldız HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/52906.ts
+#EXTINF:-1 tvg-id="" tvg-name="HT SPOR" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="TR • Spor / Dsmart⚽️",HT SPOR
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/314446.ts
+#EXTINF:-1 tvg-id="" tvg-name="HT SPOR HD" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202408/20240823/7/0822287635005eb8f42a_op_0_XL.png" group-title="TR • Spor / Dsmart⚽️",HT SPOR HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/283388.ts
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="Tv 8.5 HD⚽️" tvg-logo="http://logo1010.com/news/tv8.5-fhd.png" group-title="TR • Spor / Dsmart⚽️",Tv 8.5 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/789.ts
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="Tv 8.5 SD⚽️" tvg-logo="http://logo1010.com/news/tv8.5-hd.png" group-title="TR • Spor / Dsmart⚽️",Tv 8.5 SD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/166704.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 HD⚽️" tvg-logo="http://logo1010.com/cdn/exxen/exxen-1.png" group-title="TR • Exxen Spor⚽️",Exxen Spor 1 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/187629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 SD⚽️" tvg-logo="http://logo1010.com/cdn/exxen/exxen-1.png" group-title="TR • Exxen Spor⚽️",Exxen Spor 1 SD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/201309.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 2 HD⚽️" tvg-logo="http://logo1010.com/news/exxen2-hd.png" group-title="TR • Exxen Spor⚽️",Exxen Spor 2 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/187630.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 3 HD⚽️" tvg-logo="http://logo1010.com/news/exxen3-hd.png" group-title="TR • Exxen Spor⚽️",Exxen Spor 3 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/187631.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 4 HD⚽️" tvg-logo="http://logo1010.com/news/exxen4-hd.png" group-title="TR • Exxen Spor⚽️",Exxen Spor 4 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/187632.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 5 HD⚽️" tvg-logo="http://logo1010.com/news/exxen5-hd.png" group-title="TR • Exxen Spor⚽️",Exxen Spor 5 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/201307.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 6 HD⚽️" tvg-logo="http://logo1010.com/news/exxen6-hd.png" group-title="TR • Exxen Spor⚽️",Exxen Spor 6 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/201308.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 7 HD⚽️" tvg-logo="http://logo1010.com/news/exxen7-hd.png" group-title="TR • Exxen Spor⚽️",Exxen Spor 7 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/201314.ts
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 8 HD⚽️" tvg-logo="http://logo1010.com/news/exxen8-hd.png" group-title="TR • Exxen Spor⚽️",Exxen Spor 8 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/201315.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabii TV" tvg-logo="https://logo1010.com/yutube/tabitv.jpeg" group-title="TR • Tabii Spor⚽️",Tabii TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/301016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabii Spor HD⚽️" tvg-logo="http://logo1010.com/tabii/1.png" group-title="TR • Tabii Spor⚽️",Tabii Spor HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/282532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabii Spor 1⚽️" tvg-logo="http://logo1010.com/tabii/2.png" group-title="TR • Tabii Spor⚽️",Tabii Spor 1⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/282533.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabii Spor 2⚽️" tvg-logo="http://logo1010.com/tabii/3.png" group-title="TR • Tabii Spor⚽️",Tabii Spor 2⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/282534.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabii Spor 3⚽️" tvg-logo="http://logo1010.com/tabii/4.png" group-title="TR • Tabii Spor⚽️",Tabii Spor 3⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/282535.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabii Spor 4⚽️" tvg-logo="http://logo1010.com/tabii/5.png" group-title="TR • Tabii Spor⚽️",Tabii Spor 4⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/282536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabii Spor 5⚽️" tvg-logo="http://logo1010.com/tabii/6.png" group-title="TR • Tabii Spor⚽️",Tabii Spor 5⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/282537.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabii Spor 6⚽️" tvg-logo="http://logo1010.com/tabii/7.png" group-title="TR • Tabii Spor⚽️",Tabii Spor 6⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/282538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tabii Spor 7⚽️" tvg-logo="http://logo1010.com/tabii/7.png" group-title="TR • Tabii Spor⚽️",Tabii Spor 7⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330877.ts
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN Sports Haber HD⚽️" tvg-logo="http://logo1010.com/news/bs-haber.png" group-title="TR • beIN Sports⚽️",beIN Sports Haber HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/4743.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport 1 HD⚽️" tvg-logo="http://logo1010.com/news/ssport1-fhd.png" group-title="TR • S Sport⚽️",S Sport 1 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/38381.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S Sport 1 SD⚽️" tvg-logo="http://logo1010.com/news/ssport1-hd.png" group-title="TR • S Sport⚽️",S Sport 1 SD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/807.ts
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S Sport 2 HD⚽️" tvg-logo="http://logo1010.com/news/ssport2-fhd.png" group-title="TR • S Sport⚽️",S Sport 2 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/31421.ts
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S Sport 2 SD⚽️" tvg-logo="http://logo1010.com/news/ssport2-hd.png" group-title="TR • S Sport⚽️",S Sport 2 SD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/183361.ts
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 1⚽️" tvg-logo="http://logo1010.com/news/ssportplus1-hd.png" group-title="TR • S Sport⚽️",S Sport + Plus 1⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/122774.ts
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 2⚽️" tvg-logo="http://logo1010.com/news/ssportplus2-hd.png" group-title="TR • S Sport⚽️",S Sport + Plus 2⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/183362.ts
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 3⚽️" tvg-logo="http://logo1010.com/news/ssportplus3-hd.png" group-title="TR • S Sport⚽️",S Sport + Plus 3⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/183363.ts
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 4⚽️" tvg-logo="http://logo1010.com/news/ssportplus4-hd.png" group-title="TR • S Sport⚽️",S Sport + Plus 4⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/183364.ts
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 5⚽️" tvg-logo="http://logo1010.com/news/ssportplus5-hd.png" group-title="TR • S Sport⚽️",S Sport + Plus 5⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/183754.ts
+#EXTINF:-1 tvg-id="" tvg-name="S Sport + Plus 6⚽️" tvg-logo="http://logo1010.com/news/ssportplus6-hd.png" group-title="TR • S Sport⚽️",S Sport + Plus 6⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/191474.ts
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="Smart Spor 1 HD⚽️" tvg-logo="http://logo1010.com/news/smartsp-fhd.png" group-title="TR • Spor / Dsmart⚽️",Smart Spor 1 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/808.ts
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="Smart Spor 1 SD⚽️" tvg-logo="http://logo1010.com/news/smartsp-hd.png" group-title="TR • Spor / Dsmart⚽️",Smart Spor 1 SD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/38382.ts
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="Smart Spor 2 HD⚽️" tvg-logo="http://logo1010.com/news/smartsp2-hd.png" group-title="TR • Spor / Dsmart⚽️",Smart Spor 2 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/129745.ts
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="EuroSport 1 HD⚽️" tvg-logo="http://logo1010.com/news/euro-1.png" group-title="TR • Spor / Dsmart⚽️",EuroSport 1 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/806.ts
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="EuroSport 2 HD⚽️" tvg-logo="http://logo1010.com/news/euro-2.png" group-title="TR • Spor / Dsmart⚽️",EuroSport 2 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/805.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor-hd.png" group-title="TR • Tivibu Spor⚽️",Tivibu Spor HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/213602.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 1 HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor1-hd.png" group-title="TR • Tivibu Spor⚽️",Tivibu Spor 1 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/812.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 2 HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor2-hd.png" group-title="TR • Tivibu Spor⚽️",Tivibu Spor 2 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/811.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 3 HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor3-hd.png" group-title="TR • Tivibu Spor⚽️",Tivibu Spor 3 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/810.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 4 HD⚽️" tvg-logo="http://logo1010.com/news/tivibuspor4-hd.png" group-title="TR • Tivibu Spor⚽️",Tivibu Spor 4 HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/129749.ts
+#EXTINF:-1 tvg-id="" tvg-name="idman Tv HD⚽️" tvg-logo="http://logo1010.com/ens/images.png" group-title="TR • Spor / Dsmart⚽️",idman Tv HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/187122.ts
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="Sports Tv HD⚽️" tvg-logo="http://logo1010.com/news/sportstv-hd.png" group-title="TR • Spor / Dsmart⚽️",Sports Tv HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/686.ts
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="Nba Tv HD" tvg-logo="http://logo1010.com/news/nba-hd.png" group-title="TR • Spor / Dsmart⚽️",Nba Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/817.ts
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A Spor FHD⚽️" tvg-logo="http://logo1010.com/news/aspor-fhd.png" group-title="TR • Spor / Dsmart⚽️",A Spor FHD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/166709.ts
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A Spor HD⚽️" tvg-logo="http://logo1010.com/news/aspor-hd.png" group-title="TR • Spor / Dsmart⚽️",A Spor HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/697.ts
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="Fb Tv HD⚽️" tvg-logo="http://logo1010.com/news/fb-hd.png" group-title="TR • Spor / Dsmart⚽️",Fb Tv HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/687.ts
+#EXTINF:-1 tvg-id="gstv.tr" tvg-name="Gs Tv HD⚽️" tvg-logo="http://logo1010.com/news/gs-hd.png" group-title="TR • Spor / Dsmart⚽️",Gs Tv HD⚽️
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tay Tv HD" tvg-logo="http://logo1010.com/news/taytv-hd.png" group-title="TR • Spor / Dsmart⚽️",Tay Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/695.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Screen" tvg-logo="http://logo1010.com/ens/stock-vector-versus-banner-vs-game-battle-with-lightning-on-isolated-white-background-vector-illustr.png" group-title="TR • Spor / Dsmart⚽️",Fight Screen
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276581.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Wwe Smackdown" tvg-logo="http://logo1010.com/ens/dgfs2x2-93caa67c-d60d-4632-870e-d56057c84e5a.png" group-title="TR • Spor / Dsmart⚽️",TR ☪ Proturk Wwe Smackdown
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/280200.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Kickboxs" tvg-logo="http://logo1010.com/ens/kick-boxing-and-martial-arts-logo-vector.png" group-title="TR • Spor / Dsmart⚽️",TR ☪ Proturk Kickboxs
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/280201.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR ☪ Proturk Egzersiz Sporları" tvg-logo="http://logo1010.com/ens/png-transparent-yoga-pilates-mats-computer-icons-exercise-yoga-text-logo-sports.png" group-title="TR • Spor / Dsmart⚽️",TR ☪ Proturk Egzersiz Sporları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/280202.ts
+#EXTINF:-1 tvg-id="" tvg-name="W-SPORT HD" tvg-logo="http://logo1010.com/ens/w_sport_logo.png" group-title="TR • Spor / Dsmart⚽️",W-SPORT HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/283386.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYZENTV HD" tvg-logo="http://logo1010.com/ens/61lzpRamxZL.png" group-title="TR • Spor / Dsmart⚽️",MYZENTV HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/293182.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORT STARS HD" tvg-logo="http://logo1010.com/ens/Tracesportstars2022.png" group-title="TR • Spor / Dsmart⚽️",TRACE SPORT STARS HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/293183.ts
+#EXTINF:-1 tvg-id="" tvg-name="------| Haber |------" tvg-logo="http://logo.cdnlop.com/logotv/606.png" group-title="TR • Haber",------| Haber |------
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1890.ts
+#EXTINF:-1 tvg-id="" tvg-name="Youtube Haber" tvg-logo="http://logo1010.com/yutube/youTube-logo.png" group-title="TR • Haber",Youtube Haber
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/331109.ts
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="Trt Haber HD" tvg-logo="http://logo1010.com/news/trthb-hd.png" group-title="TR • Haber",Trt Haber HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/88871.ts
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="Trt Haber FHD" tvg-logo="http://logo1010.com/news/trthb-fhd.png" group-title="TR • Haber",Trt Haber FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/668.ts
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A Haber HD" tvg-logo="http://logo1010.com/news/ahaber-hd.png" group-title="TR • Haber",A Haber HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/88867.ts
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A Haber FHD" tvg-logo="http://logo1010.com/news/ahaber-fhd.png" group-title="TR • Haber",A Haber FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/696.ts
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="Ulusal Tv HD" tvg-logo="http://logo1010.com/news/ulusal-hd.png" group-title="TR • Haber",Ulusal Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/20927.ts
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="Ulusal Tv SD" tvg-logo="http://logo1010.com/logo/ulusal_kanal.png" group-title="TR • Haber",Ulusal Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/88873.ts
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="Ntv HD" tvg-logo="http://logo1010.com/news/ntv-hd.png" group-title="TR • Haber",Ntv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/88869.ts
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="Ntv FHD" tvg-logo="http://logo1010.com/news/ntv-fhd.png" group-title="TR • Haber",Ntv FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/776.ts
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="Haber Global HD" tvg-logo="http://logo1010.com/news/hbglobal-hd.png" group-title="TR • Haber",Haber Global HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/88874.ts
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="Haber Global FHD" tvg-logo="http://logo1010.com/news/hbglobal-fhd.png" group-title="TR • Haber",Haber Global FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/26605.ts
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN Türk HD" tvg-logo="http://logo1010.com/news/cnnturk-hd.png" group-title="TR • Haber",CNN Türk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/88868.ts
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="CNN Türk FHD" tvg-logo="http://logo1010.com/news/cnnturk-fhd.png" group-title="TR • Haber",CNN Türk FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/680.ts
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="Halk Tv HD" tvg-logo="http://logo1010.com/news/halktv-hd.png" group-title="TR • Haber",Halk Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/88872.ts
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="Halk Tv FHD" tvg-logo="http://logo1010.com/news/halktv-fhd.png" group-title="TR • Haber",Halk Tv FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/772.ts
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="Ulke Tv HD" tvg-logo="http://logo1010.com/news/%C3%BClkehb-hd.png" group-title="TR • Haber",Ulke Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/676.ts
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="HaberTürk HD" tvg-logo="http://logo1010.com/news/hbturk-hd.png" group-title="TR • Haber",HaberTürk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/88870.ts
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="HaberTürk FHD" tvg-logo="http://logo1010.com/news/hbturk-fhd.png" group-title="TR • Haber",HaberTürk FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/683.ts
+#EXTINF:-1 tvg-id="benguturk.tr" tvg-name="Bengü Türk HD" tvg-logo="http://logo1010.com/logo/bengu_turk.png" group-title="TR • Haber",Bengü Türk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/802.ts
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="Bloomberg HT HD" tvg-logo="http://logo1010.com/news/bloomberg-hd.png" group-title="TR • Haber",Bloomberg HT HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/678.ts
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Haber 24 HD" tvg-logo="http://logo1010.com/news/24-hd.png" group-title="TR • Haber",Haber 24 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/9449.ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360 HD" tvg-logo="http://logo1010.com/news/360-hd.png" group-title="TR • Ulusal",360 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/7107.ts
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-name="Tgrt Haber HD" tvg-logo="http://logo1010.com/news/tgrthb-hd.png" group-title="TR • Haber",Tgrt Haber HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/10425.ts
+#EXTINF:-1 tvg-id="" tvg-name="TH Türk Haber HD" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202308/20230823/41/202308231427309752la_op_0_XL.png" group-title="TR • Haber",TH Türk Haber HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/133724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tele 1 HD" tvg-logo="http://logo1010.com/news/tele1-hd.png" group-title="TR • Haber",Tele 1 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/13268.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv 100 HD" tvg-logo="http://logo1010.com/news/tv100-hd.png" group-title="TR • Haber",Tv 100 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/35531.ts
+#EXTINF:-1 tvg-id="TV5.fi" tvg-name="TV 5 SD" tvg-logo="http://logo1010.com/logo/tv5_tr.png" group-title="TR • Haber",TV 5 SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/35594.ts
+#EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="EkoTürk HD" tvg-logo="http://logo1010.com/news/ekoturk-hd.png" group-title="TR • Haber",EkoTürk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/691.ts
+#EXTINF:-1 tvg-id="" tvg-name="Haber 61 HD" tvg-logo="http://logo1010.com/ens/32.png" group-title="TR • Yöresel Kanallar",Haber 61 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/35330.ts
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="A Para HD" tvg-logo="http://logo1010.com/news/apara-hd.png" group-title="TR • Haber",A Para HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/55087.ts
+#EXTINF:-1 tvg-id="" tvg-name="A News" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/poster/fileEntity/20170404/001300/XTV100000475/46ca3a0c-b8d4-494a-b8cc-1427cbcfa7e3.png" group-title="TR • Haber",A News
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/150459.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC-e HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CNBC-e-Logo.png/200px-CNBC-e-Logo.png" group-title="TR • Haber",CNBC-e HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281111.ts
+#EXTINF:-1 tvg-id="" tvg-name="Flash Haber HD" tvg-logo="http://logo1010.com/news/flashhaber-hd.png" group-title="TR • Haber",Flash Haber HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/201844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sözcü Tv HD" tvg-logo="http://logo1010.com/news/s%C3%B6zc%C3%BChb-hd.png" group-title="TR • Haber",Sözcü Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216383.ts
+#EXTINF:-1 tvg-id="" tvg-name="ILKE TV" tvg-logo="http://logo1010.com/ens/images9.png" group-title="TR • Haber",ILKE TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sözcü Tv FHD" tvg-logo="http://logo1010.com/news/s%C3%B6zc%C3%BChb-hd.png" group-title="TR • Haber",Sözcü Tv FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/297903.ts
+#EXTINF:-1 tvg-id="" tvg-name="Krt Tv HD" tvg-logo="http://logo1010.com/news/krt-hd.png" group-title="TR • Haber",Krt Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/38461.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ekol Tv HD" tvg-logo="http://logo1010.com/news/ekoltv.png" group-title="TR • Haber",Ekol Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/283166.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lider Haber SD" tvg-logo="http://logo1010.com/lg/liderhaber.png" group-title="TR • Haber",Lider Haber SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/236534.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tbm Tv SD" tvg-logo="http://logo1010.com/lg/tmbtv.png" group-title="TR • Muzik",Tbm Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124519.ts
+#EXTINF:-1 tvg-id="" tvg-name="------| Sinema |------" tvg-logo="http://logo.cdnlop.com/logotv/606.png" group-title="TR • Sinema",------| Sinema |------
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1891.ts
+#EXTINF:-1 tvg-id="vipchannel.tr" tvg-name="Vip Channel HD" tvg-logo="http://logo1010.com/logo/vipchannel.png" group-title="TR • Sinema",Vip Channel HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1688.ts
+#EXTINF:-1 tvg-id="vipcanel2.tr" tvg-name="Vip Channel 2 HD" tvg-logo="http://logo1010.com/logo/vipchannel.png" group-title="TR • Sinema",Vip Channel 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1707.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Premier" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Vip Channel Premier
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/295011.ts
+#EXTINF:-1 tvg-id="loca1.tr" tvg-name="Loca 1 HD" tvg-logo="http://logo1010.com/lg/loca1.png" group-title="TR • Sinema",Loca 1 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1703.ts
+#EXTINF:-1 tvg-id="loca2.tr" tvg-name="Loca 2 HD" tvg-logo="http://logo1010.com/lg/loca2.png" group-title="TR • Sinema",Loca 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1704.ts
+#EXTINF:-1 tvg-id="loca3.tr" tvg-name="Loca 3 HD" tvg-logo="http://logo1010.com/lg/loca3.png" group-title="TR • Sinema",Loca 3 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1705.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Box Office Premier" tvg-logo="http://logo1010.com/ens/202.png" group-title="TR • Sinema",Bein Box Office Premier
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/294567.ts
+#EXTINF:-1 tvg-id="beinofice1.tr" tvg-name="Bein Box Office 1 HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/36/Image/205_salon01-son.png" group-title="TR • Sinema",Bein Box Office 1 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1699.ts
+#EXTINF:-1 tvg-id="beinofice2.tr" tvg-name="Bein Box Office 2 HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/37/Image/205_salon02-son.png" group-title="TR • Sinema",Bein Box Office 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1700.ts
+#EXTINF:-1 tvg-id="beinofice3.tr" tvg-name="Bein Box Office 3 HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/38/Image/205_salon03-son.png" group-title="TR • Sinema",Bein Box Office 3 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1701.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bulutv-sinema-1" tvg-logo="http://logo1010.com/yutube/bulutv.png" group-title="TR • Sinema",Bulutv-sinema-1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330744.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bulutv-sinema-2" tvg-logo="http://logo1010.com/yutube/bulutv.png" group-title="TR • Sinema",Bulutv-sinema-2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330745.ts
+#EXTINF:-1 tvg-id="netfilixaksiyon.ad" tvg-name="Netflix Aksiyon HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/aksiyon.png" group-title="TR • Sinema",Netflix Aksiyon HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/210617.ts
+#EXTINF:-1 tvg-id="netfilixkorku.ad" tvg-name="Netflix Korku HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/korku.png" group-title="TR • Sinema",Netflix Korku HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/210633.ts
+#EXTINF:-1 tvg-id="netfilixkomedi.ad" tvg-name="Netflix Komedi HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/komedi.png" group-title="TR • Sinema",Netflix Komedi HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/210618.ts
+#EXTINF:-1 tvg-id="netfilixaile.ad" tvg-name="Netflix Aile HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/aile.png" group-title="TR • Sinema",Netflix Aile HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/210619.ts
+#EXTINF:-1 tvg-id="netfilixask.ad" tvg-name="Netflix Aşk HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/ask.png" group-title="TR • Sinema",Netflix Aşk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/210620.ts
+#EXTINF:-1 tvg-id="netfilixdram.ad" tvg-name="Netflix Dram HD" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/drama.png" group-title="TR • Sinema",Netflix Dram HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/210621.ts
+#EXTINF:-1 tvg-id="netfilixwestern.ad" tvg-name="Netflix Western HD" tvg-logo="http://logo1010.com/ens/192.png" group-title="TR • Sinema",Netflix Western HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/210634.ts
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama HD" tvg-logo="http://logo1010.com/ens/188.png" group-title="TR • Sinema",Epic Drama HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/260122.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Türk HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_Bein_Movies_Turk_250x150_2022.png" group-title="TR • Sinema",beIN Movies Türk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/238151.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Stars HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_Bein_Movies_Stars_250x150_2022.png" group-title="TR • Sinema",beIN Movies Stars HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/238152.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premiere 1 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_Bein_Movies_Premiere_250x150_2022.png" group-title="TR • Sinema",beIN Movies Premiere 1 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/238153.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies Premiere 2 HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w_Bein_Movies_Premiere_250x150_2022.png" group-title="TR • Sinema",beIN Movies Premiere 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/238154.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo="http://logo1010.com/ens/189.png" group-title="TR • Sinema",beIN Series 1 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/238155.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD" tvg-logo="http://logo1010.com/ens/189.png" group-title="TR • Sinema",beIN Series 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/238156.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 3 HD" tvg-logo="http://logo1010.com/ens/189.png" group-title="TR • Sinema",beIN Series 3 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/238157.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 4 HD" tvg-logo="http://logo1010.com/ens/189.png" group-title="TR • Sinema",beIN Series 4 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/238158.ts
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="D-Smart Moviesmart Classic HD" tvg-logo="http://logo1010.com/logo/movie_smart_classic.png" group-title="TR • Sinema",D-Smart Moviesmart Classic HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/769.ts
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="D-Smart Moviesmart Turk HD" tvg-logo="http://pluspng.com/img-png/film-studio-png-studio-300.png" group-title="TR • Sinema",D-Smart Moviesmart Turk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/775.ts
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="D-Smart Dizi Smart Max HD" tvg-logo="http://logo1010.com/cdn/sinema/dizismartmaxhd.png" group-title="TR • Sinema",D-Smart Dizi Smart Max HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/722.ts
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="D-Smart Dizi Premium HD" tvg-logo="http://logo1010.com/logo/dizi_smart_premium.png" group-title="TR • Sinema",D-Smart Dizi Premium HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/770.ts
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="D-Smart FX HD" tvg-logo="http://logo1010.com/cdn/sinema/fxhd_2.png" group-title="TR • Sinema",D-Smart FX HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/710.ts
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="Sinema Yerli HD" tvg-logo="http://logo1010.com/cdn/sinema/sinemayerli.png" group-title="TR • Sinema",Sinema Yerli HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/13267.ts
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="Sinema Yerli 2 HD" tvg-logo="http://logo1010.com/logo/turk_sinema_plus_au.png" group-title="TR • Sinema",Sinema Yerli 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/29588.ts
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="Sinema Aile HD" tvg-logo="http://logo1010.com/logo/sinema_tv_aile_tr.png" group-title="TR • Sinema",Sinema Aile HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/721.ts
+#EXTINF:-1 tvg-id="sinemaaile2hd.tr" tvg-name="Sinema Aile 2 HD" tvg-logo="http://logo1010.com/cdn/sinema/sinemaaile.png" group-title="TR • Sinema",Sinema Aile 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/29587.ts
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="Sinema TV HD" tvg-logo="http://logo1010.com/logo/sinema_tv_tr.png" group-title="TR • Sinema",Sinema TV HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/9842.ts
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="Sinema 2 HD" tvg-logo="http://logo1010.com/logo/sinema_tv_tr.png" group-title="TR • Sinema",Sinema 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/28875.ts
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="Sinema  1001 HD" tvg-logo="http://logo1010.com/logo/yeni_sinema_tv_tr.png" group-title="TR • Sinema",Sinema  1001 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/28586.ts
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="Sinema 1002 HD" tvg-logo="http://logo1010.com/cdn/sinema/sinema1002.png" group-title="TR • Sinema",Sinema 1002 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/28587.ts
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="Sinema Komedi 1 HD" tvg-logo="http://logo1010.com/logo/sinema-komedi-tr.png" group-title="TR • Sinema",Sinema Komedi 1 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/28588.ts
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="Sinema Komedi 2 HD" tvg-logo="http://logo1010.com/logo/sinema-komedi-2-tr.png" group-title="TR • Sinema",Sinema Komedi 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/52907.ts
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="Sinema Tv Aksiyon HD" tvg-logo="http://logo1010.com/logo/sinema_tv_aksiyon_tr.png" group-title="TR • Sinema",Sinema Tv Aksiyon HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/6925.ts
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="Sinema Aksiyon 2 HD" tvg-logo="http://logo1010.com/logo/sinema-aksiyon-2-tr.png" group-title="TR • Sinema",Sinema Aksiyon 2 HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/52908.ts
+#EXTINF:-1 tvg-id="" tvg-name="Altyazı Sinema HD 1" tvg-logo="http://logo1010.com/ens/193.png" group-title="TR • Sinema",Altyazı Sinema HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227061.ts
+#EXTINF:-1 tvg-id="" tvg-name="Altyazı Sinema HD 2" tvg-logo="http://logo1010.com/ens/193.png" group-title="TR • Sinema",Altyazı Sinema HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227062.ts
+#EXTINF:-1 tvg-id="" tvg-name="Altyazı Sinema HD 3" tvg-logo="http://logo1010.com/ens/193.png" group-title="TR • Sinema",Altyazı Sinema HD 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227063.ts
+#EXTINF:-1 tvg-id="" tvg-name="Western HD 1" tvg-logo="http://logo1010.com/ens/192.png" group-title="TR • Sinema",Western HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227064.ts
+#EXTINF:-1 tvg-id="" tvg-name="Western HD 2" tvg-logo="http://logo1010.com/ens/192.png" group-title="TR • Sinema",Western HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227065.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 1" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema",Yerli Komedi Sinema HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227066.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 2" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema",Yerli Komedi Sinema HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227067.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 3" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema",Yerli Komedi Sinema HD 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227068.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 4" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema",Yerli Komedi Sinema HD 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227069.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Komedi Sinema HD 5" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema",Yerli Komedi Sinema HD 5
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227070.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 1" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema",Yerli Dram Sinema HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227071.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 2" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema",Yerli Dram Sinema HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227072.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 3" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema",Yerli Dram Sinema HD 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227073.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Dram Sinema HD 4" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema",Yerli Dram Sinema HD 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227074.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Korku Sinema HD 1" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema",Yerli Korku Sinema HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227078.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yerli Korku Sinema HD 2" tvg-logo="http://logo1010.com/lg/yerlisinema.png" group-title="TR • Sinema",Yerli Korku Sinema HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227079.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 1" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Aksiyon Sinema HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227080.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 2" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Aksiyon Sinema HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227081.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 3" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Aksiyon Sinema HD 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227082.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 4" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Aksiyon Sinema HD 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227083.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 5" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Aksiyon Sinema HD 5
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227084.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 6" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Aksiyon Sinema HD 6
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227085.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 7" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Aksiyon Sinema HD 7
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227086.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 8" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Aksiyon Sinema HD 8
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227087.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 9" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Aksiyon Sinema HD 9
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227088.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Aksiyon Sinema HD 10" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Aksiyon Sinema HD 10
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227089.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 1" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Komedi Sinema 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227093.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 2" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Komedi Sinema 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227094.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 3" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Komedi Sinema 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227095.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 4" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Komedi Sinema 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227096.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 5" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Komedi Sinema 5
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227097.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 6" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Komedi Sinema 6
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227098.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 7" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Komedi Sinema 7
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227099.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Komedi Sinema 8" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Komedi Sinema 8
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 1" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Dram Sinema HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 2" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Dram Sinema HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Dram Sinema HD 3" tvg-logo="http://logo1010.com/ens/191.png" group-title="TR • Sinema",Yabancı Dram Sinema HD 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227103.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 1" tvg-logo="http://logo1010.com/ens/190.png" group-title="TR • Sinema",Yabancı Korku Sinema HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227108.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 2" tvg-logo="http://logo1010.com/ens/190.png" group-title="TR • Sinema",Yabancı Korku Sinema HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227109.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Korku Sinema HD 3" tvg-logo="http://logo1010.com/ens/190.png" group-title="TR • Sinema",Yabancı Korku Sinema HD 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227110.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 1" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292651.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 2" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292652.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 3" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292653.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 4" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292654.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 5" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 5
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292655.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 6" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 6
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292656.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 7" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 7
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292657.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 8" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 8
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292658.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 9" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 9
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292659.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 10" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 10
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292660.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 11" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 11
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292661.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 12" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 12
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292662.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 13" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 13
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292663.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 14" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 14
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292664.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 15" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 15
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292665.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 16" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 16
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292666.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 17" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 17
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292667.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 18" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 18
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 19" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 19
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 20" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 20
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Sinema 21" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Sinema 21
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Yerli Sinema 1" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Yerli Sinema 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292698.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Yerli Sinema 2" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Yerli Sinema 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292699.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinefix Yerli Sinema 3" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",Cinefix Yerli Sinema 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292700.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILM SCREEN" tvg-logo="http://logo.cdnlop.com/logotv/vipchannel.png" group-title="TR • Sinema",FILM SCREEN
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/293181.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K-Sinema 1" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4K-Sinema 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298263.ts
+#EXTINF:-1 tvg-id="" tvg-name="4K-Transformers Box Set" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4K-Transformers Box Set
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298284.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Kaptan Amerika BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Kaptan Amerika BoxSet
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298302.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Yenilmezler BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Yenilmezler BoxSet
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298313.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Buz Devri-boxset" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Buz Devri-boxset
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298325.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Demir Adam BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Demir Adam BoxSet
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298331.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Karınca Adam BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Karınca Adam BoxSet
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298338.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Galaksinin Koruyucuları BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Galaksinin Koruyucuları BoxSet
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298339.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Recep İvedik Boxset" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Recep İvedik Boxset
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298842.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Yerli Sinema" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Yerli Sinema
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298843.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Matrix BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Matrix BoxSet
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298340.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Yüzüklerin Efendisi BoxSet" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Yüzüklerin Efendisi BoxSet
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298341.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Indiana Jones BoxSet  " tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Indiana Jones BoxSet  
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298353.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Karayip Korsanları BoxSet " tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Karayip Korsanları BoxSet 
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298354.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Ocean's BoxSet  " tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Ocean's BoxSet  
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298355.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Sicario BoxSet  " tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Sicario BoxSet  
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298356.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Animasyon" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Animasyon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298404.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Yesilcam-1" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Yesilcam-1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298405.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Music live" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Music live
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298406.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Yerli Pop" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Yerli Pop
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298416.ts
+#EXTINF:-1 tvg-id="" tvg-name="4k-Belgesel" tvg-logo="http://logo1010.com/cdn/netfilix-sinema/4k.png" group-title="TR • 4K Premium",4k-Belgesel
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298634.ts
+#EXTINF:-1 tvg-id="" tvg-name="---------- ☾☆ Sinema UP ☾☆ ---------- " tvg-logo="" group-title="TR • Sinema UP",---------- ☾☆ Sinema UP ☾☆ ---------- 
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292690.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX 4K UHD" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX 4K UHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281238.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX PREMIER ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX PREMIER ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281239.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ACTION ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX ACTION ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281240.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SCI-FI ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX SCI-FI ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281241.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FANTASTIC ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX FANTASTIC ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281242.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX DRAMA ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX DRAMA ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281243.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX HORROR ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX HORROR ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281244.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX COMEDY ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX COMEDY ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281245.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ROMANTIC ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX ROMANTIC ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281246.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX FAMILY ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX FAMILY ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281247.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YERLI ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX YERLI ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281248.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX YESILCAM ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX YESILCAM ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281249.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX KEMAL SUNAL ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX KEMAL SUNAL ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281250.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX SENER SEN ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX SENER SEN ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281251.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ZEKI & METIN ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX ZEKI & METIN ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281252.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX TARIK AKAN ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX TARIK AKAN ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281253.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX KADIR INANIR ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX KADIR INANIR ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281254.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX CUNEYT ARKIN ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX CUNEYT ARKIN ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281255.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ILYAS SALMAN ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX ILYAS SALMAN ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281256.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON INFO ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON INFO ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281257.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 1 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 1 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281258.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 2 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 2 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281259.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 3 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 3 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281260.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 4 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 4 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281261.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 5 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 5 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281262.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 6 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 6 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281263.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 7 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 7 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281264.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 8 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 8 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281265.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 9 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 9 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281266.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 10 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 10 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281267.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 11 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 11 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281268.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 12 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 12 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281269.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 13 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 13 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281270.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 14 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 14 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281271.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 15 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 15 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281272.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 16 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 16 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281273.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 17 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 17 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281274.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 18 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 18 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281275.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 19 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 19 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281276.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINEVIZYON 20 ʜᴅ" tvg-logo="http://logo1010.com/ens/268.png" group-title="TR • Sinema UP",SINEVIZYON 20 ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281277.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLMAX" tvg-logo="http://logo1010.com/ens/266.png" group-title="TR • Sinema UP",FİLMAX
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281338.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİL TV" tvg-logo="http://logo1010.com/ens/265.png" group-title="TR • Sinema UP",FİL TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281339.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMBOX ʜᴅ" tvg-logo="http://logo1010.com/ens/264.png" group-title="TR • Sinema UP",FILMBOX ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281340.ts
+#EXTINF:-1 tvg-id="" tvg-name="------| Sinema (Boxset) |------" tvg-logo="http://logo.cdnlop.com/logotv/606.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",------| Sinema (Boxset) |------
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/166711.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yeşilçam HD 1" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yeşilçam HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226869.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yeşilçam HD 2" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yeşilçam HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226870.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yeşilçam HD 3" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yeşilçam HD 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226871.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yeşilçam HD 4" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yeşilçam HD 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226872.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yeşilçam HD 5" tvg-logo="http://logo1010.com/lg/yesilcam.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yeşilçam HD 5
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226873.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kemal Sunal HD 1" tvg-logo="http://logo1010.com/ens/201.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kemal Sunal HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226874.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kemal Sunal HD 2" tvg-logo="http://logo1010.com/ens/201.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kemal Sunal HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226875.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kemal Sunal HD 3" tvg-logo="http://logo1010.com/ens/201.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kemal Sunal HD 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226876.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kemal Sunal HD 4" tvg-logo="http://logo1010.com/ens/201.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kemal Sunal HD 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226877.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kemal Sunal HD 5" tvg-logo="http://logo1010.com/ens/201.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kemal Sunal HD 5
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226878.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Adile Naşit HD 1" tvg-logo="http://logo1010.com/ens/200.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Adile Naşit HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226879.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Adile Naşit HD 2" tvg-logo="http://logo1010.com/ens/200.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Adile Naşit HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226880.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cüneyt Arkın HD 1" tvg-logo="http://logo1010.com/ens/199.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Cüneyt Arkın HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226881.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cüneyt Arkın HD 2" tvg-logo="http://logo1010.com/ens/199.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Cüneyt Arkın HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226882.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cüneyt Arkın HD 3" tvg-logo="http://logo1010.com/ens/199.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Cüneyt Arkın HD 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226883.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cüneyt Arkın HD 4" tvg-logo="http://logo1010.com/ens/199.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Cüneyt Arkın HD 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226884.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cüneyt Arkın HD 5" tvg-logo="http://logo1010.com/ens/199.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Cüneyt Arkın HD 5
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226885.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Küçük Emrah HD" tvg-logo="http://logo1010.com/lg/emrah.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Küçük Emrah HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226886.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ferdi Tayfur HD" tvg-logo="http://logo1010.com/lg/ferdi.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Ferdi Tayfur HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226887.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kadir inanır HD" tvg-logo="http://logo1010.com/lg/kadirinanir.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kadir inanır HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226888.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Orhan Gencebay HD" tvg-logo="http://logo1010.com/ens/198.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Orhan Gencebay HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226889.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Şener Şen HD" tvg-logo="http://logo1010.com/ens/197.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Şener Şen HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226890.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Turist Ömer HD" tvg-logo="http://logo1010.com/ens/196.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Turist Ömer HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226892.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Zeki Metin HD" tvg-logo="http://logo1010.com/lg/zekimetin.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Zeki Metin HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226893.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Türkan Şoray 1" tvg-logo="http://logo1010.com/ens/195.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Türkan Şoray 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226895.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Türkan Şoray 2" tvg-logo="http://logo1010.com/ens/195.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Türkan Şoray 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226896.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yılmaz Güney HD 1" tvg-logo="http://logo1010.com/ens/194.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yılmaz Güney HD 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226897.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yılmaz Güney HD 2" tvg-logo="http://logo1010.com/ens/194.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yılmaz Güney HD 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226898.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Geniş Aile" tvg-logo="http://logo1010.com/ens/186.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Geniş Aile
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226958.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Konuşanlar 1.Sezon" tvg-logo="http://logo1010.com/ens/134.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Konuşanlar 1.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226966.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Konuşanlar 2.Sezon" tvg-logo="http://logo1010.com/ens/134.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Konuşanlar 2.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226967.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kuzeyin Oğlu Volkan Konak" tvg-logo="http://logo1010.com/ens/292.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kuzeyin Oğlu Volkan Konak
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226968.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Tolgshow Filtresiz" tvg-logo="http://logo1010.com/ens/286.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Tolgshow Filtresiz
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226969.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Tuz Biber" tvg-logo="http://logo1010.com/ens/291.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Tuz Biber
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226970.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Konuşanlar 3.Sezon" tvg-logo="http://logo1010.com/ens/134.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Konuşanlar 3.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226971.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Bir Demet Tiyatro" tvg-logo="http://logo1010.com/ens/290.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Bir Demet Tiyatro
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226972.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Dayı Show" tvg-logo="http://logo1010.com/ens/289.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Dayı Show
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226973.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Doğu Demirkol ile Alelade Show" tvg-logo="http://logo1010.com/ens/288.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Doğu Demirkol ile Alelade Show
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226974.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ata Demirer" tvg-logo="http://logo1010.com/lg/iboshow.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Ata Demirer
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226975.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Olacak O Kadar" tvg-logo="http://logo1010.com/ens/287.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Olacak O Kadar
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226976.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] TOLGSHOW" tvg-logo="http://logo1010.com/ens/286.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] TOLGSHOW
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226977.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cem Yılmaz Gösteriler" tvg-logo="http://logo1010.com/ens/285.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Cem Yılmaz Gösteriler
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226978.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Devekuşu Kabare" tvg-logo="http://logo1010.com/lg/devekusukabare.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Devekuşu Kabare
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226979.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Nejat Uygur" tvg-logo="http://logo1010.com/ens/284.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Nejat Uygur
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226980.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Beyaz Show" tvg-logo="http://logo1010.com/ens/283.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Beyaz Show
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Guldur Guldur 2024" tvg-logo="http://logo1010.com/ens/282.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",Guldur Guldur 2024
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/294603.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Transformers" tvg-logo="http://logo1010.com/ens/262.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Transformers
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226981.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] 13.Cuma" tvg-logo="http://logo1010.com/ens/261.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] 13.Cuma
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226982.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] 300 Spartalı" tvg-logo="http://logo1010.com/lg/300spartali.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] 300 Spartalı
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226983.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Charlie's Angels" tvg-logo="http://logo1010.com/ens/260.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Charlie's Angels
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226984.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] G.I.Joe" tvg-logo="http://logo1010.com/lg/G.I.Joe.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] G.I.Joe
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226985.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hellboy" tvg-logo="http://logo1010.com/lg/Hellboy.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Hellboy
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226986.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ip Man" tvg-logo="http://logo1010.com/ens/259.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Ip Man
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226987.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ocean's" tvg-logo="http://logo1010.com/ens/258.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Ocean's
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226988.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Rambo" tvg-logo="http://logo1010.com/lg/rambo.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Rambo
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226989.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Riddick" tvg-logo="http://logo1010.com/ens/257.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Riddick
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226990.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Taşıyıcı" tvg-logo="http://logo1010.com/ens/256.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Taşıyıcı
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226991.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Thor" tvg-logo="http://logo1010.com/lg/thor.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Thor
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226992.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Zor Ölüm" tvg-logo="http://logo1010.com/ens/255.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Zor Ölüm
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226993.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Açlık Oyunları" tvg-logo="http://logo1010.com/ens/254.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Açlık Oyunları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226994.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Alacakaranlık" tvg-logo="http://logo1010.com/ens/253.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Alacakaranlık
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226995.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ant-Man" tvg-logo="http://logo1010.com/ens/252.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Ant-Man
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226996.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Arınma Gecesi" tvg-logo="http://logo1010.com/ens/251.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Arınma Gecesi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226997.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Batman" tvg-logo="http://logo1010.com/lg/batman.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Batman
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/226998.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Bitirim İkili" tvg-logo="http://logo1010.com/ens/250.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Bitirim İkili
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227000.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Blade HD" tvg-logo="http://logo1010.com/lg/bladerunner.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Blade HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227001.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kaptan Amerika" tvg-logo="http://logo1010.com/ens/249.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kaptan Amerika
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227002.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cehennem Melekleri" tvg-logo="http://logo1010.com/ens/248.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Cehennem Melekleri
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227003.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Conan" tvg-logo="http://logo1010.com/ens/247.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Conan
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227004.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Deadpool" tvg-logo="http://logo1010.com/lg/Deadpool.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Deadpool
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227005.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Demir Adam" tvg-logo="http://logo1010.com/lg/demiradam.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Demir Adam
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227006.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ejderha Dövmeli Kız" tvg-logo="http://logo1010.com/ens/246.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Ejderha Dövmeli Kız
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227007.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Elm Sokağı Kabusu" tvg-logo="http://logo1010.com/ens/244.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Elm Sokağı Kabusu
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227008.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Fantastik Canavarlar" tvg-logo="http://logo1010.com/ens/245.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Fantastik Canavarlar
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227009.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Fantastik Dörtlü" tvg-logo="http://logo1010.com/ens/243.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Fantastik Dörtlü
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227010.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Felekten Bir Gece" tvg-logo="http://logo1010.com/ens/242.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Felekten Bir Gece
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227011.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Geçmişi Olmayan Adam" tvg-logo="http://logo1010.com/ens/241.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Geçmişi Olmayan Adam
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227012.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Geleceğe Dönüş" tvg-logo="http://logo1010.com/ens/240.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Geleceğe Dönüş
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227013.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Görevimiz Tehlike" tvg-logo="http://logo1010.com/ens/239.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Görevimiz Tehlike
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227014.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hayalet Avcıları" tvg-logo="http://logo1010.com/ens/238.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Hayalet Avcıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227015.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hayalet Sürücü" tvg-logo="http://logo1010.com/ens/237.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Hayalet Sürücü
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227016.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hobbit" tvg-logo="http://logo1010.com/ens/236.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Hobbit
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227017.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Indiana Jones HD" tvg-logo="http://logo1010.com/ens/235.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Indiana Jones HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227018.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] James Bond" tvg-logo="http://logo1010.com/lg/jamesbond.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] James Bond
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227019.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jhon Wick" tvg-logo="http://logo1010.com/ens/234.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Jhon Wick
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227020.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jumanji" tvg-logo="http://logo1010.com/ens/233.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Jumanji
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227021.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jurassic Park" tvg-logo="http://logo1010.com/ens/232.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Jurassic Park
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227022.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Karanlıklar Ulkesi" tvg-logo="http://logo1010.com/ens/231.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Karanlıklar Ulkesi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227023.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Karayip Korsanları" tvg-logo="http://logo1010.com/lg/karayipkorsanlari.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Karayip Korsanları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227024.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kelebek etkisi" tvg-logo="http://logo1010.com/ens/230.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kelebek etkisi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227025.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kill Bill" tvg-logo="http://logo1010.com/lg/killbill.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kill Bill
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227026.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Korku Kapanı" tvg-logo="http://logo1010.com/ens/229.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Korku Kapanı
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227027.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Korkunç Bir Film" tvg-logo="http://logo1010.com/ens/228.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Korkunç Bir Film
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227028.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtuluş Günü" tvg-logo="http://logo1010.com/ens/227.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtuluş Günü
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227029.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Labirent" tvg-logo="http://logo1010.com/ens/226.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Labirent
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227030.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Mavi Korku" tvg-logo="http://logo1010.com/ens/225.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Mavi Korku
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227031.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Maymunlar Cehennemi" tvg-logo="http://logo1010.com/ens/224.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Maymunlar Cehennemi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227032.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Mumya" tvg-logo="http://logo1010.com/ens/223.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Mumya
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227033.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Müzede Bir Gece" tvg-logo="http://logo1010.com/ens/222.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Müzede Bir Gece
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227034.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ölümcül Deney" tvg-logo="http://logo1010.com/ens/221.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Ölümcül Deney
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227035.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Örümcek Adam" tvg-logo="http://logo1010.com/lg/orumcekadam.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Örümcek Adam
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227036.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Polis Akademisi" tvg-logo="http://logo1010.com/ens/220.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Polis Akademisi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227037.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Rocky" tvg-logo="http://logo1010.com/lg/rocky.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Rocky
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227038.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Salak ile Avanak" tvg-logo="http://logo1010.com/ens/219.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Salak ile Avanak
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227039.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Şeytan Oteli" tvg-logo="http://logo1010.com/ens/218.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Şeytan Oteli
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227040.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Siyah Giyen Adamlar" tvg-logo="http://logo1010.com/ens/217.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Siyah Giyen Adamlar
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227041.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Son Durak" tvg-logo="http://logo1010.com/ens/216.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Son Durak
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227042.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Star Wars" tvg-logo="http://logo1010.com/lg/starwars.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Star Wars
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227043.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Süperman" tvg-logo="http://logo1010.com/lg/superman.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Süperman
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227044.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Terminator" tvg-logo="http://logo1010.com/lg/terminator.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Terminator
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227045.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Testere" tvg-logo="http://logo1010.com/ens/215.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Testere
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227046.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Uyumsuz" tvg-logo="http://logo1010.com/ens/213.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Uyumsuz
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227047.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Uzay Yolu" tvg-logo="http://logo1010.com/ens/213.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Uzay Yolu
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227048.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] X-Man" tvg-logo="http://logo1010.com/ens/212.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] X-Man
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227049.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yenilmezler" tvg-logo="http://logo1010.com/ens/211.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yenilmezler
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227050.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yüzüklerin Efendisi" tvg-logo="http://logo1010.com/ens/210.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yüzüklerin Efendisi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227051.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Jackie Chan" tvg-logo="http://logo1010.com/ens/209.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Jackie Chan
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227053.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Matrix" tvg-logo="http://logo1010.com/lg/Matrix.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Matrix
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227054.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hızlı ve Öfkeli" tvg-logo="http://logo1010.com/ens/208.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Hızlı ve Öfkeli
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227055.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Harry Potter" tvg-logo="http://logo1010.com/lg/harrypotter.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Harry Potter
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227056.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Recep ivedik" tvg-logo="http://logo1010.com/ens/207.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Recep ivedik
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227057.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Oflu Hoca'nın Şifresi" tvg-logo="http://logo1010.com/lg/ofluhocaninsifresi.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Oflu Hoca'nın Şifresi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227058.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Çakallarla Dans" tvg-logo="http://logo1010.com/lg/cakallarladans.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Çakallarla Dans
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227059.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hababam Sınıfı" tvg-logo="http://logo1010.com/ens/206.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Hababam Sınıfı
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227060.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hep Yek" tvg-logo="http://logo1010.com/ens/205.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Hep Yek
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276291.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kolpaçino" tvg-logo="http://logo1010.com/ens/204.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kolpaçino
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276292.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kutsal Damacana" tvg-logo="http://logo1010.com/ens/203.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kutsal Damacana
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276293.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Chucky" tvg-logo="http://logo1010.com/ens/185.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Chucky
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276434.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Game Of Thrones" tvg-logo="http://logo1010.com/ens/184.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Game Of Thrones
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276435.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] La Casa De Papel" tvg-logo="http://logo1010.com/ens/183.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] La Casa De Papel
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276436.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Squid Game" tvg-logo="http://logo1010.com/ens/182.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Squid Game
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276437.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi S01" tvg-logo="http://logo1010.com/ens/181.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi S01
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276438.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi S02" tvg-logo="http://logo1010.com/ens/181.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi S02
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276439.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi S03" tvg-logo="http://logo1010.com/ens/181.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi S03
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276440.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi S04" tvg-logo="http://logo1010.com/ens/181.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi S04
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276441.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 1.Sezon" tvg-logo="http://logo1010.com/ens/180.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi Pusu 1.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276442.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 2.Sezon" tvg-logo="http://logo1010.com/ens/180.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi Pusu 2.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276443.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 3.Sezon" tvg-logo="http://logo1010.com/ens/180.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi Pusu 3.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276444.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 4.Sezon" tvg-logo="http://logo1010.com/ens/180.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi Pusu 4.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276445.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 5.Sezon" tvg-logo="http://logo1010.com/ens/180.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi Pusu 5.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276446.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 7.Sezon" tvg-logo="http://logo1010.com/ens/180.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi Pusu 7.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276448.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 8.Sezon" tvg-logo="http://logo1010.com/ens/180.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi Pusu 8.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276449.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 9.Sezon" tvg-logo="http://logo1010.com/ens/180.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi Pusu 9.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276450.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kurtlar Vadisi Pusu 10.Sezon" tvg-logo="http://logo1010.com/ens/180.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kurtlar Vadisi Pusu 10.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276451.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Çukur" tvg-logo="http://logo1010.com/ens/179.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Çukur
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276452.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ezel" tvg-logo="http://logo1010.com/ens/178.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Ezel
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276453.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Üç Kuruş" tvg-logo="http://logo1010.com/ens/177.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Üç Kuruş
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276454.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Suskunlar" tvg-logo="http://logo1010.com/ens/176.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Suskunlar
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276455.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Karadayı" tvg-logo="http://logo1010.com/ens/175.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Karadayı
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276456.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Deli Yürek" tvg-logo="http://logo1010.com/ens/174.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Deli Yürek
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276457.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Behzat Ç" tvg-logo="http://logo1010.com/ens/173.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Behzat Ç
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276458.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Çekiç ve Gül: Bir Behzat Ç. Hikayesi" tvg-logo="http://logo1010.com/ens/172.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Çekiç ve Gül: Bir Behzat Ç. Hikayesi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276459.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Leyla ile Mecnun" tvg-logo="http://logo1010.com/ens/171.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Leyla ile Mecnun
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276460.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Leyla ile Mecnun EXXEN" tvg-logo="http://logo1010.com/ens/170.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Leyla ile Mecnun EXXEN
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276461.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Sihirli Annem" tvg-logo="http://logo1010.com/ens/169.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Sihirli Annem
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276462.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Sihirli Annem EXXEN" tvg-logo="http://logo1010.com/ens/168.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Sihirli Annem EXXEN
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276463.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Börü" tvg-logo="http://logo1010.com/ens/167.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Börü
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276464.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Börü 2039" tvg-logo="http://logo1010.com/ens/166.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Börü 2039
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276465.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Alef" tvg-logo="http://logo1010.com/ens/165.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Alef
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276466.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Çıplak" tvg-logo="http://logo1010.com/ens/164.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Çıplak
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276467.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Pavyon" tvg-logo="http://logo1010.com/ens/163.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Pavyon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276468.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kıyma" tvg-logo="http://logo1010.com/ens/162.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kıyma
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276469.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Sokağın Çocukları" tvg-logo="http://logo1010.com/ens/161.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Sokağın Çocukları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276471.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Gibi" tvg-logo="http://logo1010.com/ens/160.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Gibi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276473.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Hakan: Muhafız" tvg-logo="http://logo1010.com/ens/159.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Hakan: Muhafız
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276474.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kulüp" tvg-logo="http://logo1010.com/ens/158.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kulüp
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276475.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Pera Palas ta Gece Yarısı" tvg-logo="http://logo1010.com/ens/157.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Pera Palas ta Gece Yarısı
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276476.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Fatma" tvg-logo="http://logo1010.com/ens/156.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Fatma
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276477.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Zeytin Ağacı" tvg-logo="http://logo1010.com/ens/155.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Zeytin Ağacı
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276478.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Aşk 101" tvg-logo="http://logo1010.com/ens/154.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Aşk 101
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276479.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Erşan Kuneri" tvg-logo="http://logo1010.com/ens/133.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Erşan Kuneri
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276481.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Avlu" tvg-logo="http://logo1010.com/ens/153.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Avlu
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276482.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Çiçek Taksi" tvg-logo="http://logo1010.com/ens/152.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Çiçek Taksi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276483.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Acı Hayat" tvg-logo="http://logo1010.com/ens/151.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Acı Hayat
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276484.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ekmek Teknesi" tvg-logo="http://logo1010.com/ens/150.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Ekmek Teknesi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276486.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] işler Güçler" tvg-logo="http://logo1010.com/ens/149.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] işler Güçler
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276487.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kardeş Payı" tvg-logo="http://logo1010.com/ens/148.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kardeş Payı
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276488.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Ramo" tvg-logo="http://logo1010.com/ens/147.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Ramo
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276489.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Sıdıka" tvg-logo="http://logo1010.com/ens/146.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Sıdıka
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276490.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Doktorlar" tvg-logo="http://logo1010.com/ens/144.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Doktorlar
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276492.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Köprü" tvg-logo="http://logo1010.com/ens/143.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Köprü
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276493.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Poyraz Karayel" tvg-logo="http://logo1010.com/ens/142.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Poyraz Karayel
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276494.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Kuzey Güney" tvg-logo="http://logo1010.com/ens/141.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Kuzey Güney
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276495.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Cennet Mahallesi" tvg-logo="http://logo1010.com/ens/140.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Cennet Mahallesi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276496.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Muhteşem Yüzyıl" tvg-logo="http://logo1010.com/ens/139.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Muhteşem Yüzyıl
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276497.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Muhteşem Yüzyıl Kösem" tvg-logo="http://logo1010.com/ens/138.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Muhteşem Yüzyıl Kösem
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276498.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Aşk-ı Memnu" tvg-logo="http://logo1010.com/ens/137.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Aşk-ı Memnu
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276499.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yaprak Dökümü 1.Sezon" tvg-logo="http://logo1010.com/ens/136.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yaprak Dökümü 1.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276590.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yaprak Dökümü 2.Sezon" tvg-logo="http://logo1010.com/ens/136.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yaprak Dökümü 2.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276591.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yaprak Dökümü 3.Sezon" tvg-logo="http://logo1010.com/ens/136.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yaprak Dökümü 3.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276592.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yaprak Dökümü 4.Sezon" tvg-logo="http://logo1010.com/ens/136.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yaprak Dökümü 4.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276593.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Boxset] Yaprak Dökümü 5.Sezon" tvg-logo="http://logo1010.com/ens/136.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",[Boxset] Yaprak Dökümü 5.Sezon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276594.ts
+#EXTINF:-1 tvg-id="" tvg-name="KONUSANLAR TV ʜᴅ" tvg-logo="http://logo1010.com/ens/134.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",KONUSANLAR TV ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281341.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ersan Kuneri mini dizi sezon1" tvg-logo="http://logo1010.com/ens/133.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",Ersan Kuneri mini dizi sezon1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/293083.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ersan Kuneri mini dizi sezon2" tvg-logo="http://logo1010.com/ens/133.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",Ersan Kuneri mini dizi sezon2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/293084.ts
+#EXTINF:-1 tvg-id="" tvg-name="  Yetenek Sizsiniz " tvg-logo="http://logo1010.com/ens/281.png" group-title="TR • Sinema,Dizi,Yeşilçam ve Eğlence (Boxset)",  Yetenek Sizsiniz 
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/294944.ts
+#EXTINF:-1 tvg-id="" tvg-name="------| Belgesel |------" tvg-logo="http://logo.cdnlop.com/logotv/606.png" group-title="TR • Belgesel",------| Belgesel |------
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1894.ts
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="Trt Belgesel HD" tvg-logo="http://logo1010.com/news/trtbelgesel-hd.png" group-title="TR • Belgesel",Trt Belgesel HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/682.ts
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="Tlc HD" tvg-logo="http://logo1010.com/news/tlc-hd.png" group-title="TR • Belgesel",Tlc HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/679.ts
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="Dmax HD" tvg-logo="http://logo1010.com/news/dmax-hd.png" group-title="TR • Belgesel",Dmax HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/692.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tarih Tv HD" tvg-logo="http://logo1010.com/ens/310.png" group-title="TR • Belgesel",Tarih Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/227365.ts
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="D-smart Bbc Earth FHD" tvg-logo="http://logo1010.com/news/bbcearth-fhd.png" group-title="TR • Belgesel",D-smart Bbc Earth FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/704.ts
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="D-Smart National Geographic Wild HD" tvg-logo="http://logo1010.com/news/natgeow%C4%B1ld-hd.png" group-title="TR • Belgesel",D-Smart National Geographic Wild HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/711.ts
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="D-Smart Discovery Channel HD" tvg-logo="http://logo1010.com/news/discoverychannel-hd.png" group-title="TR • Belgesel",D-Smart Discovery Channel HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/766.ts
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="beIN National Geographic HD" tvg-logo="http://logo1010.com/news/natigeograp-hd.png" group-title="TR • Belgesel",beIN National Geographic HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/758.ts
+#EXTINF:-1 tvg-id="viasathistory.tr" tvg-name="D-Smart Viasat History HD" tvg-logo="http://logo1010.com/news/vaisathistory-hd.png" group-title="TR • Belgesel",D-Smart Viasat History HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/784.ts
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="Iz Tv HD" tvg-logo="http://logo1010.com/news/beiniz-hd.png" group-title="TR • Belgesel",Iz Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/20838.ts
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="beIN Gurme HD" tvg-logo="http://logo1010.com/news/beingurme-hd.png" group-title="TR • Belgesel",beIN Gurme HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/21749.ts
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="History Channel FHD (Tivibu)" tvg-logo="http://logo1010.com/news/history-hd.png" group-title="TR • Belgesel",History Channel FHD (Tivibu)
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/73348.ts
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="ID Xtra HD" tvg-logo="http://logo1010.com/news/%C4%B1dbelgesel-hd.png" group-title="TR • Belgesel",ID Xtra HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/129750.ts
+#EXTINF:-1 tvg-id="" tvg-name="Da Vinci Learning HD" tvg-logo="http://logo1010.com/cdn/haber/davincilearning.png" group-title="TR • Belgesel",Da Vinci Learning HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/129790.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore HD" tvg-logo="http://logo1010.com/news/visiatex-hd.png" group-title="TR • Belgesel",Viasat Explore HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/150367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Silk Way" tvg-logo="http://logo1010.com/news/silk.png" group-title="TR • Belgesel",Silk Way
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/301017.ts
+#EXTINF:-1 tvg-id="" tvg-name="Çiftçi Tv SD" tvg-logo="http://logo1010.com/lg/ciftcitv.png" group-title="TR • Belgesel",Çiftçi Tv SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/166708.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tgrt Belgesel HD" tvg-logo="http://logo1010.com/news/tgrtbelgesel-hd.png" group-title="TR • Belgesel",Tgrt Belgesel HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/154058.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yaban TV HD" tvg-logo="http://logo1010.com/news/yaban-hd.png" group-title="TR • Belgesel",Yaban TV HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/261561.ts
+#EXTINF:-1 tvg-id="" tvg-name="İstanbul 4K" tvg-logo="http://logo1010.com/ens/42.png" group-title="TR • Belgesel",İstanbul 4K
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292452.ts
+#EXTINF:-1 tvg-id="" tvg-name="İstanbul 1 4K" tvg-logo="http://logo1010.com/ens/42.png" group-title="TR • Belgesel",İstanbul 1 4K
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292453.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkiye Tanıtım" tvg-logo="http://logo1010.com/ens/41.png" group-title="TR • Belgesel",Türkiye Tanıtım
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292454.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 1" tvg-logo="http://logo1010.com/ens/40.png" group-title="TR • Belgesel",Belgesel Kuşağı 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276166.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 2" tvg-logo="http://logo1010.com/ens/40.png" group-title="TR • Belgesel",Belgesel Kuşağı 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276167.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 3" tvg-logo="http://logo1010.com/ens/40.png" group-title="TR • Belgesel",Belgesel Kuşağı 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276168.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 4" tvg-logo="http://logo1010.com/ens/40.png" group-title="TR • Belgesel",Belgesel Kuşağı 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 5" tvg-logo="http://logo1010.com/ens/40.png" group-title="TR • Belgesel",Belgesel Kuşağı 5
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 6" tvg-logo="http://logo1010.com/ens/40.png" group-title="TR • Belgesel",Belgesel Kuşağı 6
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276171.ts
+#EXTINF:-1 tvg-id="" tvg-name="Belgesel Kuşağı 7" tvg-logo="http://logo1010.com/ens/40.png" group-title="TR • Belgesel",Belgesel Kuşağı 7
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276172.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doğada Kal" tvg-logo="http://logo1010.com/ens/58.png" group-title="TR • Belgesel",Doğada Kal
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276173.ts
+#EXTINF:-1 tvg-id="" tvg-name="ilmek ilmek Anadolu" tvg-logo="http://logo1010.com/ens/62.png" group-title="TR • Belgesel",ilmek ilmek Anadolu
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Suç Dosyası" tvg-logo="http://logo1010.com/ens/61.png" group-title="TR • Belgesel",Suç Dosyası
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276175.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yaşamın içinden Portreler" tvg-logo="http://logo1010.com/ens/60.png" group-title="TR • Belgesel",Yaşamın içinden Portreler
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276176.ts
+#EXTINF:-1 tvg-id="" tvg-name="32. Gün" tvg-logo="http://logo1010.com/ens/59.png" group-title="TR • Belgesel",32. Gün
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276177.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doğa Belgeselleri" tvg-logo="http://logo1010.com/ens/58.png" group-title="TR • Belgesel",Doğa Belgeselleri
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276179.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dünya Tarihinin Dönüm Noktaları" tvg-logo="http://logo1010.com/ens/57.png" group-title="TR • Belgesel",Dünya Tarihinin Dönüm Noktaları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276180.ts
+#EXTINF:-1 tvg-id="" tvg-name="Evliya Çelebi" tvg-logo="http://logo1010.com/ens/56.png" group-title="TR • Belgesel",Evliya Çelebi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276181.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hayvan Belgeselleri" tvg-logo="http://logo1010.com/ens/55.png" group-title="TR • Belgesel",Hayvan Belgeselleri
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276182.ts
+#EXTINF:-1 tvg-id="" tvg-name="Modern Mucizeler" tvg-logo="http://logo1010.com/ens/53.png" group-title="TR • Belgesel",Modern Mucizeler
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276184.ts
+#EXTINF:-1 tvg-id="" tvg-name="Müzik Belgeselleri" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Belgesel",Müzik Belgeselleri
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Otomobil Belgeselleri" tvg-logo="http://logo1010.com/ens/51.png" group-title="TR • Belgesel",Otomobil Belgeselleri
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276186.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sağlık Belgeselleri" tvg-logo="http://logo1010.com/ens/50.png" group-title="TR • Belgesel",Sağlık Belgeselleri
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276187.ts
+#EXTINF:-1 tvg-id="" tvg-name="Savaşın Efsaneleri" tvg-logo="http://logo1010.com/ens/49.png" group-title="TR • Belgesel",Savaşın Efsaneleri
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276188.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tarihin Ruhu" tvg-logo="http://logo1010.com/ens/48.png" group-title="TR • Belgesel",Tarihin Ruhu
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276189.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yemek Belgeselleri " tvg-logo="http://logo1010.com/ens/45.png" group-title="TR • Belgesel",Yemek Belgeselleri 
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yemek Belgeselleri 1" tvg-logo="http://logo1010.com/ens/45.png" group-title="TR • Belgesel",Yemek Belgeselleri 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276193.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yemek Belgeselleri 2" tvg-logo="http://logo1010.com/ens/45.png" group-title="TR • Belgesel",Yemek Belgeselleri 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bilim Belgeselleri" tvg-logo="http://logo1010.com/ens/44.png" group-title="TR • Belgesel",Bilim Belgeselleri
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276195.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tarihi Belgeseller" tvg-logo="http://logo1010.com/ens/43.png" group-title="TR • Belgesel",Tarihi Belgeseller
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276196.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOCU SCREEN HD" tvg-logo="http://logo1010.com/ens/39.png" group-title="TR • Belgesel",DOCU SCREEN HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/293220.ts
+#EXTINF:-1 tvg-id="" tvg-name="turkiye- Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",turkiye- Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300056.ts
+#EXTINF:-1 tvg-id="" tvg-name="Asia Scenic Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Asia Scenic Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300036.ts
+#EXTINF:-1 tvg-id="" tvg-name="AUSTRIA • Relaxation Music" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",AUSTRIA • Relaxation Music
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canada  Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Canada  Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chile Scenic Relaxation  Music" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Chile Scenic Relaxation  Music
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Europe Scenic Relaxation Music" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Europe Scenic Relaxation Music
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Germany Relaxing" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Germany Relaxing
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hallstatt Relaxing" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Hallstatt Relaxing
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Iceland  Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Iceland  Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Italy  Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Italy  Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Japan Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Japan Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300045.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kyrgyzstan Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Kyrgyzstan Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300046.ts
+#EXTINF:-1 tvg-id="" tvg-name="MONTENEGRO • Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",MONTENEGRO • Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300047.ts
+#EXTINF:-1 tvg-id="" tvg-name="Norway Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Norway Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300048.ts
+#EXTINF:-1 tvg-id="" tvg-name="Russia Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Russia Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300049.ts
+#EXTINF:-1 tvg-id="" tvg-name="South America Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",South America Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300050.ts
+#EXTINF:-1 tvg-id="" tvg-name="Switzerland Relaxing" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Switzerland Relaxing
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300051.ts
+#EXTINF:-1 tvg-id="" tvg-name="Thailand Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Thailand Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300052.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netherlands Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Netherlands Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300053.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nordics Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",Nordics Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300054.ts
+#EXTINF:-1 tvg-id="" tvg-name="United Kingdom Relaxation" tvg-logo="http://logo1010.com/ens/37.png" group-title="TR • Belgesel",United Kingdom Relaxation
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/300055.ts
+#EXTINF:-1 tvg-id="" tvg-name="------| Cizgi Film |------" tvg-logo="http://logo.cdnlop.com/logotv/606.png" group-title="TR • Cocuk",------| Cizgi Film |------
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1895.ts
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="Trt Cocuk HD" tvg-logo="http://logo1010.com/news/trtcocuk-hd.png" group-title="TR • Cocuk",Trt Cocuk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/786.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trt Diyanet Çocuk HD" tvg-logo="https://canlitv.center/channels/trt-diyanet-cocuk.png" group-title="TR • Cocuk",Trt Diyanet Çocuk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/259696.ts
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="Baby TV HD" tvg-logo="http://logo1010.com/news/babytv-hd.png" group-title="TR • Cocuk",Baby TV HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/13269.ts
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="Minika Çocuk HD" tvg-logo="http://logo1010.com/news/minikacocuk-hd.png" group-title="TR • Cocuk",Minika Çocuk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/667.ts
+#EXTINF:-1 tvg-id="minikago.tr" tvg-name="Minika Go HD" tvg-logo="http://logo1010.com/news/minikago-hd.png" group-title="TR • Cocuk",Minika Go HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/670.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="Cartoon Network HD" tvg-logo="http://logo1010.com/news/cn-hd.png" group-title="TR • Cocuk",Cartoon Network HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/4933.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="http://logo1010.com/news/bomerangcocuk-hd.png" group-title="TR • Cocuk",Cartoonito HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/701.ts
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="D-Smart Smart Cocuk HD" tvg-logo="http://logo1010.com/news/smartcocuk-hd.png" group-title="TR • Cocuk",D-Smart Smart Cocuk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature FHD" tvg-logo="http://logo1010.com/news/lovenature-fhd.png" group-title="TR • Belgesel",Love Nature FHD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/183753.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. (Türkiye)" tvg-logo="http://logo1010.com/news/nickjr-hd.png" group-title="TR • Cocuk",Nick Jr. (Türkiye)
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/247313.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="http://logo1010.com/news/nickeledon-hd.png" group-title="TR • Cocuk",Nickelodeon HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/124747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="http://logo1010.com/news/disneyjunior-hd.png" group-title="TR • Cocuk",Disney Junior HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/166705.ts
+#EXTINF:-1 tvg-id="" tvg-name="Duck Tv HD" tvg-logo="https://gbzottvsc01.tvplus.com.tr:33207/CPS/images/universal/film/logo/202001/20200127/20200127170319748y7q_op_0_XL.png" group-title="TR • Cocuk",Duck Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/216382.ts
+#EXTINF:-1 tvg-id="" tvg-name="Çok Güzel Hareketler Bunlar Çocuk" tvg-logo="http://logo1010.com/ens/76.png" group-title="TR • Cocuk",Çok Güzel Hareketler Bunlar Çocuk
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/297852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Animasyon HD" tvg-logo="http://logo1010.com/ens/5ju7rjc.png" group-title="TR • Cocuk",Vip Channel Animasyon HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/234913.ts
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="" group-title="TR • Cocuk",NICKELODEON
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 1" tvg-logo="http://logo1010.com/ens/5ju7rjc.png" group-title="TR • Cocuk",Cine Animasyon 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276387.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 2" tvg-logo="http://logo1010.com/ens/5ju7rjc.png" group-title="TR • Cocuk",Cine Animasyon 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276388.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 3" tvg-logo="http://logo1010.com/ens/5ju7rjc.png" group-title="TR • Cocuk",Cine Animasyon 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276389.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine Animasyon 4" tvg-logo="http://logo1010.com/ens/5ju7rjc.png" group-title="TR • Cocuk",Cine Animasyon 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276390.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alvin" tvg-logo="http://logo1010.com/ens/132.png" group-title="TR • Cocuk",Alvin
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276392.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arthur ile Minimoylar" tvg-logo="http://logo1010.com/ens/131.png" group-title="TR • Cocuk",Arthur ile Minimoylar
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276393.ts
+#EXTINF:-1 tvg-id="" tvg-name="Buz Devri" tvg-logo="http://logo1010.com/ens/130.png" group-title="TR • Cocuk",Buz Devri
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276394.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Cars" tvg-logo="http://logo1010.com/ens/129.png" group-title="TR • Cocuk",The Cars
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276395.ts
+#EXTINF:-1 tvg-id="" tvg-name="Çılgın Hırsızlar" tvg-logo="http://logo1010.com/ens/128.png" group-title="TR • Cocuk",Çılgın Hırsızlar
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276396.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ejderhanı Nasıl Eğitirsin" tvg-logo="http://logo1010.com/ens/127.png" group-title="TR • Cocuk",Ejderhanı Nasıl Eğitirsin
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276397.ts
+#EXTINF:-1 tvg-id="" tvg-name="Otel Transilvanya" tvg-logo="http://logo1010.com/ens/126.png" group-title="TR • Cocuk",Otel Transilvanya
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276398.ts
+#EXTINF:-1 tvg-id="" tvg-name="Karlar Ulkesi" tvg-logo="http://logo1010.com/ens/125.png" group-title="TR • Cocuk",Karlar Ulkesi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276399.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda" tvg-logo="http://logo1010.com/ens/124.png" group-title="TR • Cocuk",Kung Fu Panda
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276400.ts
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar" tvg-logo="http://logo1010.com/ens/123.png" group-title="TR • Cocuk",Madagascar
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276401.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shrek" tvg-logo="http://logo1010.com/ens/122.png" group-title="TR • Cocuk",Shrek
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276402.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tom ve Jerry" tvg-logo="http://logo1010.com/ens/100.png" group-title="TR • Cocuk",Tom ve Jerry
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276403.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kukuli" tvg-logo="http://logo1010.com/ens/86.png" group-title="TR • Cocuk",Kukuli
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276404.ts
+#EXTINF:-1 tvg-id="" tvg-name="Niloya" tvg-logo="http://logo1010.com/ens/101.png" group-title="TR • Cocuk",Niloya
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276405.ts
+#EXTINF:-1 tvg-id="" tvg-name="Şirinler" tvg-logo="http://logo1010.com/ens/81.png" group-title="TR • Cocuk",Şirinler
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276406.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pembe Panter" tvg-logo="http://logo1010.com/ens/80.png" group-title="TR • Cocuk",Pembe Panter
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276407.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maşa ile Koca Ayı" tvg-logo="http://logo1010.com/ens/79.png" group-title="TR • Cocuk",Maşa ile Koca Ayı
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276408.ts
+#EXTINF:-1 tvg-id="" tvg-name="Can Bebek" tvg-logo="http://logo1010.com/ens/78.png" group-title="TR • Cocuk",Can Bebek
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276409.ts
+#EXTINF:-1 tvg-id="" tvg-name="Doru" tvg-logo="http://logo1010.com/ens/77.png" group-title="TR • Cocuk",Doru
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276410.ts
+#EXTINF:-1 tvg-id="" tvg-name="Güldüy Güldüy Show" tvg-logo="http://logo1010.com/ens/121.png" group-title="TR • Cocuk",Güldüy Güldüy Show
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276411.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kral Şakir" tvg-logo="http://logo1010.com/ens/94.png" group-title="TR • Cocuk",Kral Şakir
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276412.ts
+#EXTINF:-1 tvg-id="" tvg-name="istanbul Muhafızları" tvg-logo="http://logo1010.com/ens/90.png" group-title="TR • Cocuk",istanbul Muhafızları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276414.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pepee" tvg-logo="http://logo1010.com/ens/93.png" group-title="TR • Cocuk",Pepee
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276415.ts
+#EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="http://logo1010.com/ens/119.png" group-title="TR • Cocuk",Beyblade
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276416.ts
+#EXTINF:-1 tvg-id="" tvg-name="Heidi" tvg-logo="http://logo1010.com/ens/118.png" group-title="TR • Cocuk",Heidi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276417.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canım Kardeşim" tvg-logo="http://logo1010.com/ens/117.png" group-title="TR • Cocuk",Canım Kardeşim
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276418.ts
+#EXTINF:-1 tvg-id="" tvg-name="Barbie nin Rüya Evi" tvg-logo="http://logo1010.com/ens/116.png" group-title="TR • Cocuk",Barbie nin Rüya Evi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276419.ts
+#EXTINF:-1 tvg-id="" tvg-name="ibi" tvg-logo="http://logo1010.com/ens/115.png" group-title="TR • Cocuk",ibi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276420.ts
+#EXTINF:-1 tvg-id="" tvg-name="Richie Rich" tvg-logo="http://logo1010.com/ens/114.png" group-title="TR • Cocuk",Richie Rich
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276421.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red Kit" tvg-logo="http://logo1010.com/ens/113.png" group-title="TR • Cocuk",Red Kit
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276422.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rafadan Tayfa" tvg-logo="http://logo1010.com/ens/112.png" group-title="TR • Cocuk",Rafadan Tayfa
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276423.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tsubasa" tvg-logo="http://logo1010.com/ens/111.png" group-title="TR • Cocuk",Tsubasa
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276424.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ninja Kaplumbağalar" tvg-logo="http://logo1010.com/ens/110.png" group-title="TR • Cocuk",Ninja Kaplumbağalar
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276425.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Boom" tvg-logo="http://logo1010.com/ens/109.png" group-title="TR • Cocuk",Sonic Boom
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276426.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAROK TV" tvg-logo="http://logo1010.com/ens/83.png" group-title="TR • Cocuk",ZAROK TV
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/283387.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon" tvg-logo="http://logo1010.com/ens/108.png" group-title="TR • Cocuk",Pokemon
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276427.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAILLOU ʜᴅ" tvg-logo="http://logo1010.com/ens/102.png" group-title="TR • Cocuk",CAILLOU ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281278.ts
+#EXTINF:-1 tvg-id="" tvg-name="NILOYA ʜᴅ" tvg-logo="http://logo1010.com/ens/101.png" group-title="TR • Cocuk",NILOYA ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281279.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY ʜᴅ" tvg-logo="http://logo1010.com/ens/100.png" group-title="TR • Cocuk",TOM & JERRY ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281280.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROAD RUNNER ʜᴅ" tvg-logo="http://logo1010.com/ens/99.png" group-title="TR • Cocuk",ROAD RUNNER ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281281.ts
+#EXTINF:-1 tvg-id="" tvg-name="ŞİRİNLER ʜᴅ" tvg-logo="http://logo1010.com/ens/81.png" group-title="TR • Cocuk",ŞİRİNLER ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281282.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAW PATROL ʜᴅ" tvg-logo="http://logo1010.com/ens/98.png" group-title="TR • Cocuk",PAW PATROL ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281283.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAŞA İLE KOCA AYI ʜᴅ" tvg-logo="http://logo1010.com/ens/97.png" group-title="TR • Cocuk",MAŞA İLE KOCA AYI ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281284.ts
+#EXTINF:-1 tvg-id="" tvg-name="AY AY AYICIKLAR ʜᴅ" tvg-logo="http://logo1010.com/ens/96.png" group-title="TR • Cocuk",AY AY AYICIKLAR ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281285.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOOBA ʜᴅ" tvg-logo="http://logo1010.com/ens/95.png" group-title="TR • Cocuk",BOOBA ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281286.ts
+#EXTINF:-1 tvg-id="" tvg-name="KRAL SAKIR ʜᴅ" tvg-logo="http://logo1010.com/ens/94.png" group-title="TR • Cocuk",KRAL SAKIR ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281287.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEPE ʜᴅ" tvg-logo="http://logo1010.com/ens/93.png" group-title="TR • Cocuk",PEPE ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281288.ts
+#EXTINF:-1 tvg-id="" tvg-name="CRY BABIES ʜᴅ" tvg-logo="http://logo1010.com/ens/92.png" group-title="TR • Cocuk",CRY BABIES ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281289.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEVIMLI DOSTLAR ʜᴅ" tvg-logo="http://logo1010.com/ens/91.png" group-title="TR • Cocuk",SEVIMLI DOSTLAR ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281290.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISTANBUL MUHAFIZLARI ʜᴅ" tvg-logo="http://logo1010.com/ens/90.png" group-title="TR • Cocuk",ISTANBUL MUHAFIZLARI ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281291.ts
+#EXTINF:-1 tvg-id="" tvg-name="KUCUK KAMYON LEO ʜᴅ" tvg-logo="http://logo1010.com/ens/89.png" group-title="TR • Cocuk",KUCUK KAMYON LEO ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281292.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIMON ILE ZEYTIN ʜᴅ" tvg-logo="http://logo1010.com/ens/88.png" group-title="TR • Cocuk",LIMON ILE ZEYTIN ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281293.ts
+#EXTINF:-1 tvg-id="" tvg-name="PJMASKS ʜᴅ" tvg-logo="http://logo1010.com/ens/87.png" group-title="TR • Cocuk",PJMASKS ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281294.ts
+#EXTINF:-1 tvg-id="" tvg-name="KUKULI ʜᴅ" tvg-logo="http://logo1010.com/ens/86.png" group-title="TR • Cocuk",KUKULI ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281295.ts
+#EXTINF:-1 tvg-id="" tvg-name="OddBods ʜᴅ" tvg-logo="http://logo1010.com/ens/85.png" group-title="TR • Cocuk",OddBods ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281296.ts
+#EXTINF:-1 tvg-id="" tvg-name="EMUŞ TV ʜᴅ" tvg-logo="http://logo1010.com/ens/84.png" group-title="TR • Cocuk",EMUŞ TV ʜᴅ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/281297.ts
+#EXTINF:-1 tvg-id="" tvg-name="------| Muzik |------" tvg-logo="http://logo.cdnlop.com/logotv/606.png" group-title="TR • Muzik",------| Muzik |------
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/1892.ts
+#EXTINF:-1 tvg-id="" tvg-name="Şömine Channel" tvg-logo="" group-title="TR • Muzik",Şömine Channel
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276015.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vip Channel Türk Pop Hit's 40" tvg-logo="https://i.hizliresim.com/mss8185.png" group-title="TR • Muzik",Vip Channel Türk Pop Hit's 40
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/292938.ts
+#EXTINF:-1 tvg-id="numberonetv.tr" tvg-name="Number One Turk HD" tvg-logo="http://logo1010.com/logo/number1_tr_tv.png" group-title="TR • Muzik",Number One Turk HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/777.ts
+#EXTINF:-1 tvg-id="" tvg-name="BabaLayka-Saygı 1" tvg-logo="http://logo1010.com/ens/65.png" group-title="TR • Muzik",BabaLayka-Saygı 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/294937.ts
+#EXTINF:-1 tvg-id="powertv.tr" tvg-name="Power Tv HD" tvg-logo="http://logo1010.com/logo/power_tr_tv.png" group-title="TR • Muzik",Power Tv HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/4552.ts
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="Trt Müzik HD" tvg-logo="http://logo1010.com/logo/trt_muzik.png" group-title="TR • Muzik",Trt Müzik HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/671.ts
+#EXTINF:-1 tvg-id="dreamturk.tr" tvg-name="Dream Turk SD" tvg-logo="http://logo1010.com/logo/dream_tv_tr_turk.png" group-title="TR • Muzik",Dream Turk SD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/12755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Darya Music" tvg-logo="http://logo1010.com/ens/63.png" group-title="TR • Muzik",Darya Music
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298664.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban HD" tvg-logo="http://logo1010.com/lg/traceurban.png" group-title="TR • Muzik",Trace Urban HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/183359.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Mezzo HD" tvg-logo="http://logo1010.com/lg/beinmezzo.png" group-title="TR • Muzik",Bein Mezzo HD
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/183360.ts
+#EXTINF:-1 tvg-id="" tvg-name="D-Smart NATURE ESCAPE" tvg-logo="http://logo1010.com/ens/64.png" group-title="TR • Muzik",D-Smart NATURE ESCAPE
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/298077.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax Music 1" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Relax Music 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276016.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax Music 2" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Relax Music 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276017.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax Music 3" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Relax Music 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276018.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax Music 4" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Relax Music 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Relax Music 5" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Relax Music 5
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276020.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 1" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Türkçe Pop Music 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276021.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 2" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Türkçe Pop Music 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276022.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 3" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Türkçe Pop Music 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276023.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 4" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Türkçe Pop Music 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276024.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 5" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Türkçe Pop Music 5
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276025.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Pop Music 6" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Türkçe Pop Music 6
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276026.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Slow Music 1" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Türkçe Slow Music 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276028.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Slow Music 2" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Türkçe Slow Music 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276029.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Slow Music 3" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Türkçe Slow Music 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276030.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Akustik Şarkılar" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Türkçe Akustik Şarkılar
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276031.ts
+#EXTINF:-1 tvg-id="" tvg-name="Türkçe Rap Music" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Türkçe Rap Music
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276035.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Music 1" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Yabancı Music 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Music 3" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Yabancı Music 3
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Music 4" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Yabancı Music 4
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276039.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yabancı Music 5" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Yabancı Music 5
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276040.ts
+#EXTINF:-1 tvg-id="" tvg-name="90’ LAR" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",90’ LAR
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330748.ts
+#EXTINF:-1 tvg-id="" tvg-name="AKUSTİK" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",AKUSTİK
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330749.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARABESK" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",ARABESK
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330750.ts
+#EXTINF:-1 tvg-id="" tvg-name="DİNİ MUSİKİ" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",DİNİ MUSİKİ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330751.ts
+#EXTINF:-1 tvg-id="" tvg-name="FİLM MÜZİKLERİ" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",FİLM MÜZİKLERİ
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330752.ts
+#EXTINF:-1 tvg-id="" tvg-name="KLASİK MÜZİK" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",KLASİK MÜZİK
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330753.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAŞ PLAK" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",TAŞ PLAK
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330754.ts
+#EXTINF:-1 tvg-id="" tvg-name="TÜRK HALK MÜZİĞi" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",TÜRK HALK MÜZİĞi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330755.ts
+#EXTINF:-1 tvg-id="" tvg-name="TÜRK SANAT MÜZigi" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",TÜRK SANAT MÜZigi
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330756.ts
+#EXTINF:-1 tvg-id="" tvg-name="TÜRKÇE POP" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",TÜRKÇE POP
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330757.ts
+#EXTINF:-1 tvg-id="" tvg-name="TÜRKÇE SLOW" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",TÜRKÇE SLOW
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330758.ts
+#EXTINF:-1 tvg-id="" tvg-name="YABANCI POP" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",YABANCI POP
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330759.ts
+#EXTINF:-1 tvg-id="" tvg-name="YABANCI ROCK" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",YABANCI ROCK
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330760.ts
+#EXTINF:-1 tvg-id="" tvg-name="YABANCI SLOW" tvg-logo="http://logo1010.com/yutube/muzik.png" group-title="TR • Muzik",YABANCI SLOW
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/330761.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yıldız Tilbe Tüm Şarkıları" tvg-logo="http://logo1010.com/ens/75.png" group-title="TR • Muzik",Yıldız Tilbe Tüm Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ahmet Kaya Tüm Şarkıları" tvg-logo="http://logo1010.com/ens/74.png" group-title="TR • Muzik",Ahmet Kaya Tüm Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cengiz Kurtoğlu Tüm Şarkıları" tvg-logo="http://logo1010.com/ens/73.png" group-title="TR • Muzik",Cengiz Kurtoğlu Tüm Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276043.ts
+#EXTINF:-1 tvg-id="" tvg-name="Müslüm Gürses Tüm Şarkıları" tvg-logo="http://logo1010.com/ens/72.png" group-title="TR • Muzik",Müslüm Gürses Tüm Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Orhan Gencebay Tüm Şarkıları" tvg-logo="http://logo1010.com/ens/71.png" group-title="TR • Muzik",Orhan Gencebay Tüm Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276045.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ismail YK ve Yurtseven Kardeşler Tüm Şarkıları" tvg-logo="http://logo1010.com/ens/70.png" group-title="TR • Muzik",Ismail YK ve Yurtseven Kardeşler Tüm Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276046.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ilhan Irem Tüm Şarkıları" tvg-logo="http://logo1010.com/ens/69.png" group-title="TR • Muzik",Ilhan Irem Tüm Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276047.ts
+#EXTINF:-1 tvg-id="" tvg-name="Barış Manço Tüm Şarkıları" tvg-logo="http://logo1010.com/ens/68.png" group-title="TR • Muzik",Barış Manço Tüm Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276048.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aşık Veysel Tüm Şarkıları" tvg-logo="http://logo1010.com/ens/67.png" group-title="TR • Muzik",Aşık Veysel Tüm Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Meyhane Şarkıları" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Meyhane Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276050.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yeni Nesil Meyhane Şarkıları" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Yeni Nesil Meyhane Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276051.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sıra Geceleri Türküleri" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Sıra Geceleri Türküleri
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276052.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arabesk Music 1" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Arabesk Music 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276053.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arabesk Music 2" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Arabesk Music 2
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276054.ts
+#EXTINF:-1 tvg-id="" tvg-name="Karadeniz Şarkıları 1" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Karadeniz Şarkıları 1
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276055.ts
+#EXTINF:-1 tvg-id="" tvg-name="Karadeniz Horon Şarkıları" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Karadeniz Horon Şarkıları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276057.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oyun Havaları" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Oyun Havaları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276058.ts
+#EXTINF:-1 tvg-id="" tvg-name="Roman Havaları" tvg-logo="http://logo1010.com/ens/52.png" group-title="TR • Muzik",Roman Havaları
+http://memati.us:8080/live/ayseharacci1212/07122020baja@/276059.ts
 
 
