@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="TR| TURKIYE",##### TURKIYE 4K / HD #####
+#EXTINF:-1 tvg-logo="" group-title="TR| TAHİR AŞKIN KİLCİ",##### TURKIYE 4K / HD #####
 http://diamondservice.online:80/play/live.php?mac=00:1A:79:B5:F8:54&stream=912483&extension=ts&play_token=EJzbOFfIKu
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/916657.png" group-title="TR| TURKIYE",TR| TRT 4K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/916657.png" group-title="TR| TURKIYE",TR| TAHİR AŞKIN KİLCİ
 http://diamondservice.online:80/play/live.php?mac=00:1A:79:B5:F8:54&stream=916657&extension=ts&play_token=UNxwbZH43Q
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/912481.png" group-title="TR| TURKIYE",TR| TRT 1 4K
 http://diamondservice.online:80/play/live.php?mac=00:1A:79:B5:F8:54&stream=912481&extension=ts&play_token=O3LzzBMcm3
