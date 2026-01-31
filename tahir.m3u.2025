@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-name="✦●✦ TAHİR AŞKIN KİLCİ ✦●✦",✦●✦ TAHİR AŞKIN KİLCİ ✦●✦
 http://atesoglu.xyz:8080/play/live.php?mac=00:1A:79:13:52:D7&stream=488700&extension=ts
 
-#EXTINF:-1 tvg-name="TRT 4K UHD 2160p",TRT 4K UHD 2160p
-http://atesoglu.xyz:8080/play/live.php?mac=00:1A:79:13:52:D7&stream=1841&extension=ts
-
-#EXTINF:-1 tvg-name="TRT 4K FHD",TRT 4K FHD
-http://atesoglu.xyz:8080/play/live.php?mac=00:1A:79:13:52:D7&stream=1842&extension=ts
-
 #EXTINF:-1 tvg-name="TRT 1 FHD",TRT 1 FHD
 http://atesoglu.xyz:8080/play/live.php?mac=00:1A:79:13:52:D7&stream=1843&extension=ts
 
