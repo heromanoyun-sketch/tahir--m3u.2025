@@ -3,7 +3,7 @@
 http://innovationtv.eu:80/play/live.php?mac=00:1A:79:E2:E2:2C&stream=912483&extension=ts
 #EXTINF:-1 tvg-name="TR| http://innovationtv.eu:80| http://innovationtv.eu:80
 http://innovationtv.eu:80/play/live.php?mac=00:1A:79:E2:E2:2C&stream=916657&extension=ts
-#EXTINF:-1 tvg-name="TR| TRT 1 4K",TR| TRT 1 4K
+#EXTINF:-1 tvg-name="TR| TRT 1 4K",TR| TRT 1 FULL HD
 http://innovationtv.eu:80/play/live.php?mac=00:1A:79:E2:E2:2C&stream=912481&extension=ts
 #EXTINF:-1 tvg-name="TR| TRT 1 HD",TR| TRT 1 HD
 http://innovationtv.eu:80/play/live.php?mac=00:1A:79:E2:E2:2C&stream=912457&extension=ts
